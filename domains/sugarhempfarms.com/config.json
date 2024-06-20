@@ -1,0 +1,120 @@
+{
+    "vendorName": "SHF",
+    "version": "0.1.0",
+    "assayThreshold": 0.08,
+    "domain": "https://sugarhempfarms.com",
+    "localDirectory": "sugarhempfarms.com",
+    "isWordpressAPI": true,
+    "assayPageURLs": [
+        "https://sugarhempfarms.com/lab-reports/"
+    ],
+    "assaySelector": {
+        "name": "assays",
+        "assayName": {
+            "selector": ".accordion-title",
+            "type": "text",
+            "multiple": true
+        },
+        "assayURL": {
+            "selector": ".accordion-content p a",
+            "type": "attribute",
+            "attribute": "href",
+            "multiple": true
+        },
+        "chemicalLists": [
+            {
+                "name": "Cannabinoids",
+                "fileName": "cannabinoids.json"
+            },
+            {
+                "name": "",
+                "fileName": "terpenes.json"
+            }
+        ]
+    },
+    "startUrl": "",
+    "urls": [
+        "https://sugarhempfarms.com/wp-json/wp/v2/product?per_page=100",
+        "https://sugarhempfarms.com/wp-json/wp/v2/product?per_page=100&page=2"
+    ],
+    "pagesOfProductURLsSelector": {
+        "name": "pagination",
+        "selector": ".pagination-link",
+        "type": "attribute",
+        "attribute": "href",
+        "paginationNextSelector": ".pagination-item--next a",
+        "multiple": true
+    },
+    "productURLSelector": {
+        "name": "urls",
+        "selector": ".card-figure__link",
+        "type": "attribute",
+        "attribute": "href",
+        "multiple": true
+    },
+    "unwantedText": {
+        "name": [
+            " - Sugar Hemp Farms"
+        ]
+    },
+    "productDetailSelectors": [
+        {
+            "name": "category",
+            "type": "url",
+            "segmentIndex": 6,
+            "multiple": true
+        },
+        {
+            "name": "variants",
+            "type": "text",
+            "selector": "#weight > option",
+            "multiple": true
+        },
+        {
+            "name": "prices",
+            "type": "select",
+            "type2": "attribute",
+            "attribute": "data-product_variations",
+            "multiple": false,
+            "parse": true
+        },
+        {
+            "name": "prices",
+            "type": "click",
+            "selector": "#weight > option",
+            "multiple": true,
+            "interaction": {
+                "selector": "div.entry-price-wrap > div.price > div > span > bdi"
+            }
+        },
+        {
+            "name": "name",
+            "type": "text",
+            "selector": "title",
+            "multiple": false
+        },
+        {
+            "name": "lastModified",
+            "type": "attribute",
+            "selector": "meta[property='article:modified_time']",
+            "attribute": "content",
+            "type2": "ldjson",
+            "selector2": "script[type='application/ld+json']",
+            "key": "dateModified",
+            "multiple": false
+        },
+        {
+            "name": "image",
+            "type": "attribute",
+            "selector": "a[data-product_name]",
+            "attribute": "data-product_image",
+            "selector2": "img.product-main-image-img",
+            "attribute2": "src",
+            "multiple": false
+        },
+        {
+            "name": "assays",
+            "type": "unlinkedAssays"
+        }
+    ]
+}

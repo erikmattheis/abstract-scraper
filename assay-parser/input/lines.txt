@@ -1,0 +1,3090 @@
+a-Bisabolol 0.750 3.000 453.683 0454
+a-Humulene 0.750 3.000 4928.834 4929 EN
+a-Pinene 0.750 3.000 295.511 0296
+a-Terpinene 0.750 3.000 <LOQ <LoqQ Heiss
+1,8-Cineole 0.750 3.000 <LOQ <LoqQ Ρ
+B-Caryophyllene 0.750 3.000 12189.535 12.190 ES
+B-Myrcene 0.750 3.000 ND ND
+Borneol 0.750 3.000 159.190 0159
+Camphene 0.750 3.000 104.077 0.104
+Carene 0.750 3.000 ND ND
+Citral 0.750 3.000 ND ND Lavender
+Dihydrocarveol 0.750 3.000 ND ND ΟΚ
+Fenchone 0.750 3.000 35.975 0036 pg
+y-Terpinene 0.750 3.000 <LOQ <LoqQ vere
+Limonene 0.750 3.000 2026.624 2027 ae
+Linalool 0.750 3.000 4063.086 4063 ΤΕ
+Menthol 0.750 3.000 ND ND
+Nerolidol 0.750 3.000 ND ND i
+Ocimene 0.750 3.000 ND ND Lime
+Pulegone 0.750 3.000 ND ND
+Terpinolene 0.750 3.000 38.778 0039
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0503 0.0754 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.143 1427 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 20.533 205327  Scrommmmmmmes
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0503 0.0754 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0503 0.0754 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0503 0.0754 ND ND
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0503 0.0754 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0503 0.0754 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0503 0.0754 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0503 0.0754 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0503 0.0754 ND ND
+Cannabidivarinic Acid CBDVA 0.0503 0.0754 ND ND
+Cannabidiolic Acid CBDA 0.0211 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 1.382 13.819
+Cannabinolic Acid CBNA 0.0503 0.0754 ND ND
+Cannabichromenic Acid CBCA 0.0503 0.0754 <LOQ <LOQ
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0476 0.0714 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0476 0.0714 0.309 3.091
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0476 00714 16764 η
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0476 0.0714 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0476 0.0714 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0476 0.0714 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0476 0.0714 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0476 0.0714 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0476 0.0714 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0476 0.0714 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0476 0.0714 ND ND
+Cannabidivarinic Acid CBDVA 0.0476 0.0714 ND ND
+Cannabidiolic Acid CBDA 0.0476 0.0714 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0476 0.0714 0.953 9.533
+Cannabinolic Acid CBNA 0.0476 0.0714 ND ND
+Cannabichromenic Acid CBCA 0.0476 0.0714 0.134 1.343
+a-Bisabolol 0.750 3.000 ND ND
+a-Humulene 0.750 3.000 2746.936 2747 EN
+a-Pinene 0.750 3.000 2301.611 2302 EEN
+a-Terpinene 0.750 3.000 24.428 0024 iia
+1,8-Cineole 0.750 3.000 104.710 0.105
+B-Caryophyllene 0.750 3.000 7171.812 7.172 AS
+B-Myrcene 0.750 3.000 846.810 0847 W
+Borneol 0.750 3.000 312.893 0313 I
+Camphene 0.750 3.000 533.792 0534
+Citral 0.750 3.000 ND ND Hops
+Dihydrocarveol 0.750 3.000 ND ND
+Fenchone 0.750 3.000 270.105 0270
+y-Terpinene 0.750 3.000 31.706 0032
+Limonene 0.750 3.000 4986.841 4987 EN
+Linalool 0.750 3.000 2039.149 2039 ΕΠΕ
+Nerolidol 0.750 3.000 ND ND
+Ocimene 0.750 3.000 653.270 0653 Pine
+Terpinolene 0.750 3.000 135.386 0.135
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0481 0.0721 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0481 0.0721 0.083 0.827
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0481 00721 20.904 209038 EES
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0481 0.0721 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0481 0.0721 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0481 0.0721 ND ND
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0481 0.0721 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0481 0.0721 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0481 0.0721 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0481 0.0721 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0481 0.0721 ND ND
+Cannabidivarinic Acid CBDVA 0.0481 0.0721 ND ND
+Cannabidiolic Acid CBDA 0.0221 0.0721 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0481 0.0721 1.067 10.673
+Cannabinolic Acid CBNA 0.0481 0.0721 ND ND
+Cannabichromenic Acid CBCA 0.0481 0.0721 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 925.256 0925
+a-Humulene 0.750 3.000 7180.441 7.180 EN
+a-Pinene 0.750 3.000 507.324 0507
+a-Terpinene 0.750 3.000 <LOQ <LoqQ ae.
+B-Caryophyllene 0.750 3.000 15987.407 15.987 IS
+Borneol 0.750 3.000 246.641 0247
+Camphene 0.750 3.000 174.921 0175
+Fenchone 0.750 3.000 72.157 0072 pg
+Limonene 0.750 3000 3925.858 3926 EH ae
+Linalool 0.750 3.000 6769.895 6770 EE
+Terpinolene 0.750 3.000 79.187 0.079
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0488 0.0732 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0488 0.0732 0.096 0.956
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0488 00732 21.960 219600  SrrmmmmmmmmR
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0488 0.0732 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0488 0.0732 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0195 0.0732 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0488 0.0732 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0488 0.0732 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0488 0.0732 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0488 0.0732 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0488 0.0732 ND ND
+Cannabidivarinic Acid CBDVA 0.0488 0.0732 ND ND
+Cannabidiolic Acid CBDA 0.0195 0.0732 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0488 0.0732 0.840 8.400
+Cannabinolic Acid CBNA 0.0488 0.0732 ND ND
+Cannabichromenic Acid CBCA 0.0488 0.0732 0.095 0.946
+a-Humulene 0.750 3.000 2490.920 2491 ΕΙ
+a-Pinene 0.750 3.000 1468.018 1468 ΕΕ
+a-Terpinene 0.750 3.000 32.627 0.033 σα
+1,8-Cineole 0.750 3.000 <LOQ <LoqQ
+B-Caryophyllene 0.750 3.000 7036.716 7.037
+B-Myrcene 0.750 3.000 7582.660 7583
+Borneol 0.750 3.000 432.092 0432
+Camphene 0.750 3.000 432.767 0433 I
+Citral 0.750 3.000 ND ND Cinnamon
+Fenchone 0.750 3.000 268.765 0269
+y-Terpinene 0.750 3.000 30.929 0031
+Limonene 0.750 3.000 8400.839 8401 ΠΠ
+Linalool 0.750 3.000 2444.089 2444 NE
+Ocimene 0.750 3.000 1836.245 183 EW Hops
+Terpinolene 0.750 3.000 1072.661 1073
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0483 0.0725 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0483 0.0725 0.157 1.565
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0483 00725 20067 200667 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0483 0.0725 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0483 0.0725 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0483 0.0725 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0483 0.0725 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0483 0.0725 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0483 0.0725 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0483 0.0725 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0483 0.0725 ND ND
+Cannabidivarinic Acid CBDVA 0.0483 0.0725 ND ND
+Cannabidiolic Acid CBDA 0.0213 0.0725 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0483 0.0725 0.420 4203
+Cannabinolic Acid CBNA 0.0483 0.0725 ND ND
+Cannabichromenic Acid CBCA 0.0483 0.0725 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 673.231 0673 H
+a-Humulene 0.750 3.000 1985.391 1985 ΕΤ
+a-Pinene 0.750 3.000 256.086 0256
+B-Caryophyllene 0.750 3.000 6711.173 6711 IS
+Borneol 0.750 3.000 221.395 0221
+Camphene 0.750 3.000 70.285 0070
+Citral 0.750 3.000 <LoQ <LoqQ Lavender
+Fenchone 0.750 3.000 122.192 0122 LSA
+y-Terpinene 0.750 3.000 εΙΟΩ <LoqQ vere
+Limonene 0750 3000 1571.964 1572 ΗΕ we
+Linalool 0.750 3.000 1934.874 1935 ΕΠΗ
+Ocimene 0.750 3.000 246.814 0247 Lime
+Terpinolene 0.750 3.000 43.908 0.044
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0495 0.0743 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.132 1.317
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 23.444 234436 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0495 0.0743 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0495 0.0743 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0495 0.0743 0.379 3.792 Ι
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0495 0.0743 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0495 0.0743 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0495 0.0743 ND ND
+9S-Hexahydrocannabinol 905-ΗΗΟ 0.0495 0.0743 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0495 0.0743 ND ND
+Cannabidivarinic Acid CBDVA 0.0495 0.0743 ND ND
+Cannabidiolic Acid CBDA 0.0257 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 1322 13.218
+Cannabinolic Acid CBNA 0.0495 0.0743 ND ND
+Cannabichromenic Acid CBCA 0.0495 0.0743 0.112 1.119
+a-Bisabolol 0.750 3.000 789.848 079 7
+a-Humulene 0.750 3.000 1545.573 1546
+a-Pinene 0.750 3.000 2157.718 2158 WH
+a-Terpinene 0.750 3.000 903.909 0904 Cloves
+1,8-Cineole 0.750 3.000 190.693 0.191
+B-Caryophyllene 0.750 3.000 4177.578 4178 ΕΕ
+B-Myrcene 0.750 3.000 6541.809 6542 ΤΗ
+Borneol 0.750 3.000 150.695 0.151
+Camphene 0750 3000 149251 Ο149
+Fenchone 0.750 3.000 73.112 0073
+y-Terpinene 0.750 3.000 694.179 0694
+Limonene 0.750 3.000 2227.005 2227 HN
+Linalool 0.750 3.000 826.899 0827 I
+Terpinolene 0.750 3.000 24952878 24953 ΙΒ
+A-9-Tetrahydrocannabinol A-9 THC 0.0476 0.0714 0.169 1.686
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0476 00714 24.669 246686 Smo
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0476 0.0714 0.642 6.419
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0476 0.0714 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0476 0.0714 ND ND
+Cannabidiolic Acid CBDA 0.0305 0.0714 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0476 0.0714 1.406 14.057
+Cannabichromenic Acid CBCA 0.0476 0.0714 0.172 1724 Ι
+a-Bisabolol 0.750 3.000 437.209 0437 I
+a-Humulene 0.750 3.000 4737.262 4737 ER
+a-Pinene 0.750 3.000 440.860 0441
+B-Caryophyllene 0.750 3.000 10726.294 10.726 NS
+Borneol 0.750 3.000 292.570 0293
+Camphene 0.750 3.000 165.598 0.166
+Fenchone 0.750 3.000 94.838 0095 LSA
+Limonene 0750 3000 3843404 3843 ENE ae
+Linalool 0.750 3.000 4490.922 4491 EN
+Terpinolene 0.750 3.000 74.114 0074
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.138 1.376
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 16818 168178 Comme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0178 0.0743 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0495 0.0743 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0495 0.0743 ND ND
+Cannabidiolic Acid CBDA 0.0178 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 0471 4713
+Cannabichromenic Acid CBCA 0.0495 0.0743 0.150 1.495
+a-Bisabolol 0.750 3.000 368.285 0368 1
+a-Humulene 0.750 3.000 1622.746 1623 ΕΠ
+a-Pinene 0.750 3.000 837.587 0.838
+a-Terpinene 0.750 3.000 <LOQ <LOQ .
+1,8-Cineole 0750 3000 <LoQ <toq Cinnamon
+B-Caryophyllene 0.750 3.000 5443.982 5.444
+B-Myrcene 0.750 3.000 1112.570 1113 EH
+Borneol 0.750 3.000 191.869 0192
+Camphene 0.750 3.000 263.995 0264
+Fenchone 0.750 3.000 113.308 0.113 LSA
+y-Terpinene 0.750 3.000 εΙΟΩ <Loq vere
+Limonene 0750 3000 5903.113 5903 END ae
+Linalool 0.750 3.000 5061.667 5062
+Ocimene 0.750 3.000 ND ND Hops
+Terpinolene 0.750 3.000 117.860 0.118
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0510 0.0765 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.146 1.459
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 24276 242765 ην
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0510 0.0765 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0510 0.0765 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0510 0.0765 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0510 0.0765 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0510 0.0765 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0510 0.0765 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0510 0.0765 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0510 0.0765 ND ND
+Cannabidivarinic Acid CBDVA 0.0510 0.0765 ND ND
+Cannabidiolic Acid CBDA 0.0255 0.0765 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0510 0.0765 0.995 9.949
+Cannabinolic Acid CBNA 0.0510 0.0765 ND ND
+Cannabichromenic Acid CBCA 0.0510 0.0765 0.113 1.133
+a-Bisabolol 0750 3000 ND ND LY he
+a-Humulene 0750 3000 742769 0743 M Π
+a-Pinene 0.750 3.000 504.240 0504
+a-Terpinene 0.750 3.000 <LOQ <LoqQ iia
+B-Caryophyllene 0.750 3.000 2672.774 2673 πα
+B-Myrcene 0.750 3.000 1863.945 1864
+Borneol 0.750 3.000 153.430 0.153
+Camphene 0.750 3.000 177.680 0.178
+Fenchone 0.750 3.000 41.983 0042
+y-Terpinene 0.750 3.000 <LOQ <LoqQ
+Limonene 0.750 3.000 2926.168 2926 ΕΤ
+Linalool 0.750 3.000 6714316 6714 IS
+Ocimene 0.750 3.000 ND ND Clove
+Terpinolene 0.750 3.000 58.925 0.059
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0515 0.0773 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 25.469 254691 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0515 0.0773 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0515 0.0773 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0515 0.0773 0.487 4866
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0515 0.0773 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0515 0.0773 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0515 0.0773 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0515 0.0773 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0515 0.0773 ND ND
+Cannabidivarinic Acid CBDVA 0.0515 0.0773 ND ND
+Cannabidiolic Acid CBDA 0.0289 0.0773 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0515 0.0773 1538 15.381
+Cannabinolic Acid CBNA 0.0515 0.0773 ND ND
+Cannabichromenic Acid CBCA 0.0515 0.0773 0.089 0.887
+a-Humulene 0.750 3.000 1292.067 1292
+a-Pinene 0.750 3.000 225.222 0.225
+B-Caryophyllene 0.750 3.000 4809.597 4810 aw
+B-Myrcene 0.750 3.000 13197.933 13.198 ED
+Borneol 0.750 3.000 120.619 0121
+Camphene 0.750 3.000 73.527 0074
+Fenchone 0.750 3.000 39.659 0040 LSA
+Limonene 0.750 3.000 1594.015 1594 ae
+Linalool 0.750 3.000 4266.031 4266 EE
+Terpinolene 0.750 3.000 269.047 0269
+A-9-Tetrahydrocannabinol A-9 THC 0.0481 0.0721 0.113 1.125 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0481 00721 20.189 201894 Soom
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0481 0.0721 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0481 0.0721 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0481 0.0721 ND ND
+Cannabidiolic Acid CBDA 0.0337 0.0721 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0481 0.0721 0.085 0.846
+Cannabichromenic Acid CBCA 0.0337 0.0721 <LOQ <LOQ
+a-Bisabolol 0.750 3000 61.929 0062 Lh
+a-Humulene 0750 3000 903652  Ο9Ο4 WM Π
+a-Pinene 0.750 3.000 392.083 0.392 -
+1,8-Cineole 0750 3000 46.944 0047 Cinnamon
+B-Caryophyllene 0.750 3.000 3560.210 3560
+B-Myrcene 0.750 3.000 2209.442 2209 EN
+Borneol 0.750 3.000 162.884 0.163
+Camphene 0.750 3.000 116.910 0117
+Citral 0.750 3.000 ND ND Lime
+Fenchone 0.750 3.000 75.101 0075
+y-Terpinene 0.750 3.000 εΙΟΩ <LoqQ
+Limonene 0.750 3.000 2734.002 2734 EN
+Linalool 0.750 3.000 4472217 4472 ES
+Ocimene 0.750 3.000 233.587 0234 I Clove
+Terpinolene 0.750 3.000 50.360 0.050
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0500 0.0750 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.085 0.850
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 19.778 197780  Eorrmmmmmemmesl
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0500 0.0750 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0500 0.0750 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0500 0.0750 0.609 6.090
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0500 0.0750 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0500 0.0750 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0500 0.0750 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0500 0.0750 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0500 0.0750 ND ND
+Cannabidivarinic Acid CBDVA 0.0500 0.0750 ND ND
+Cannabidiolic Acid CBDA 0.0270 0.0750 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0500 0.0750 1.120 11.200 ι
+Cannabinolic Acid CBNA 0.0500 0.0750 ND ND
+Cannabichromenic Acid CBCA 0.0500 0.0750 0.386 3.860
+a-Humulene 0.750 3.000 1453.327 1453 ΕΠ
+a-Pinene 0.750 3.000 238.641 0.239
+a-Terpinene 0.750 3.000 <LOQ <LOQ
+1,8-Cineole 0.750 3000 25010 Ο0Ω25 Lavender
+B-Caryophyllene 0.750 3.000 5710.730 5711 4 4
+B-Myrcene 0750 3.000 397.019 0397 1 re
+Borneol 0.750 3.000 210.392 0210 RA
+Camphene 0.750 3.000 74.177 0074 I ii
+Fenchone 0.750 3.000 97.605 0098
+Limonene 0.750 3.000 2260.966 2261 ΠΠ
+Linalool 0.750 3.000 5326.647 5.327 I.
+Ocimene 0.750 3.000 399.397 0399 Hops
+Terpinolene 0.750 3.000 48.572 0.049
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0467 0.0701 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0467 0.0701 0.120 1.196
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0467 00701 22835 28346 8.
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0467 0.0701 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0467 0.0701 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0290 0.0701 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0467 0.0701 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0467 0.0701 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0467 0.0701 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0467 0.0701 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0467 0.0701 ND ND
+Cannabidivarinic Acid CBDVA 0.0467 0.0701 ND ND
+Cannabidiolic Acid CBDA 0.0290 0.0701 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0467 0.0701 1.209 12.093
+Cannabinolic Acid CBNA 0.0467 0.0701 ND ND
+Cannabichromenic Acid CBCA 0.0467 0.0701 0.104 1.037
+a-Humulene 0.750 3.000 3718.383 3718 ΕΠ
+a-Pinene 0.750 3.000 183.531 0.184
+a-Terpinene 0.750 3.000 <LOQ <LoqQ σα
+B-Caryophyllene 0.750 3.000 11680.035 11.680 IS
+B-Myrcene 0.750 3.000 5294.505 5295 EN
+Borneol 0.750 3.000 68.409 0068
+Camphene 0750 3000 60.985 0061
+Fenchone 0.750 3.000 52.977 0053
+Limonene 0.750 3.000 1352.145 1352
+Linalool 0.750 3.000 3232.606 3233 EW
+Ocimene 0.750 3.000 ND ND Lavender
+Pulegone 0.750 3.000 ND ND oo So
+Terpinolene 0.750 3.000 406.935 0407 27
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 0.292 2918
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 18037 180371 ome
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0515 0.0773 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0206 0.0773 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0515 0.0773 0.444 4.443
+Cannabichromenic Acid CBCA 0.0515 0.0773 0.350 3.505
+a-Bisabolol 0.750 3.000 514.819 0515
+a-Humulene 0.750 3.000 5875.936 5876 EE
+a-Pinene 0.750 3.000 240.425 0240
+a-Terpinene 0.750 3.000 <LOQ <LoqQ Lise
+1,8-Cineole 0750 3000 129.392 0129 Ρ
+B-Caryophyllene 0.750 3.000 12811.644 12812 8.
+B-Myrcene 0.750 3.000 3889.372 3889 ΙΤ
+Borneol 0.750 3.000 72.715 0073
+Camphene 0.750 3.000 72.200 0072
+Citral 0.750 3.000 ND ND Clove
+Fenchone 0.750 3.000 26.769 0027
+y-Terpinene 0.750 3.000 26.219 0026
+Limonene 0.750 3.000 2025.132 2025
+Linalool 0750 3000 ΝΡ ND
+Nerolidol 0.750 3.000 ND ND .
+Terpinolene 0.750 3.000 45.690 0046
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0478 0.0718 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0478 0.0718 0.293 2.928 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0478 00718 25.339 253388 Soom
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0478 0.0718 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0478 0.0718 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0478 0.0718 ND ND
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0478 0.0718 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0478 0.0718 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0478 0.0718 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0478 0.0718 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0478 0.0718 ND ND
+Cannabidivarinic Acid CBDVA 0.0478 0.0718 ND ND
+Cannabidiolic Acid CBDA 0.0392 0.0718 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0478 0.0718 0.554 5.541
+Cannabinolic Acid CBNA 0.0478 0.0718 0.126 1.263
+Cannabichromenic Acid CBCA 0.0478 0.0718 ND ND
+a-Bisabolol 0.750 3.000 209.086 0209
+a-Humulene 0.750 3.000 1347.030 1347 W
+a-Pinene 0.750 3.000 3880.957 3.881
+a-Terpinene 0.750 3.000 20.663 0.021 .
+1,8-Cineole 0750 3000 16.420 0016 Cinnamon
+B-Caryophyllene 0.750 3.000 4924.987 4925 AN
+B-Myrcene 0.750 3.000 1358.166 1358 W
+Borneol 0.750 3.000 326.394 0326
+Camphene 0.750 3.000 627.496 0627 1
+Fenchone 0.750 3.000 120.986 0121 pg
+y-Terpinene 0.750 3.000 24.375 0024 vere
+Limonene 0750 3000 9344.749 9.345 ENED ae
+Linalool 0.750 3.000 4145.399 4145 EN
+Ocimene 0.750 3.000 2391.501 2392 EH Pine
+Terpinolene 0.750 3.000 193.478 0.193
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0493 0.0739 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0493 0.0739 0.166 1.655
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0493 00739 18.628 186275 Torre
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0493 0.0739 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0493 0.0739 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0207 0.0739 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0493 0.0739 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0493 0.0739 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0493 0.0739 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0493 0.0739 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0493 0.0739 ND ND
+Cannabidivarinic Acid CBDVA 0.0493 0.0739 ND ND
+Cannabidiolic Acid CBDA 0.0207 0.0739 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0493 0.0739 1425 14.246 a
+Cannabinolic Acid CBNA 0.0493 0.0739 ND ND
+Cannabichromenic Acid CBCA 0.0493 0.0739 <LOQ <LOQ
+a-Humulene 0750 3000 1407603 1408 ΗΕ Π
+a-Pinene 0.750 3.000 537.653 0.538 -
+1,8-Cineole 0750 3000 45.692 0046 Cinnamon
+B-Caryophyllene 0.750 3.000 5229.458 5229
+B-Myrcene 0.750 3.000 513.901 0514 1H
+Borneol 0.750 3.000 290.525 0291 I
+Camphene 0.750 3.000 161.535 0162
+Fenchone 0.750 3.000 149.504 0.150
+y-Terpinene 0.750 3.000 21.097 0021
+Limonene 0.750 3.000 3007.664 3008 EN
+Linalool 0.750 3.000 6810.810 6811 I
+Ocimene 0.750 3.000 348.359 0348 Hops
+Terpinolene 0.750 3.000 53.192 0.053
+A-9-Tetrahydrocannabinol A-9 THC 0.0493 0.0739 0.137 1.369
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0493 00739 17.315 η.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0266 0.0739 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0493 0.0739 ND ND
+Cannabigerolic Acid CBGA 0.0493 0.0739 0.497 4975
+Cannabinolic Acid CBNA 0.0266 0.0739 <LOQ <LOQ
+a-Bisabolol 0750 3000 ND ND Lhd
+a-Humulene 0750 3000 1658212 1658 HM Π
+a-Pinene 0.750 3.000 1031.482 1031
+B-Caryophyllene 0.750 3.000 5414.851 5415
+B-Myrcene 0.750 3.000 1123.404 1123 HEH
+Borneol 0.750 3.000 296.971 0297
+Camphene 0.750 3.000 331.428 0331
+Fenchone 0.750 3.000 67.992 0068
+Limonene 0.750 3.000 5829.978 5.830 I.
+Linalool 0.750 3.000 7737.654 7.738 ΠΠ
+Terpinolene 0.750 3.000 100.519 0.101
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0490 0.0735 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0490 0.0735 0.264 2.637
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0490 00735 21211 212108 Smee
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0490 0.0735 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0490 0.0735 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0490 0.0735 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0490 0.0735 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0490 0.0735 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0490 0.0735 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0490 0.0735 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0490 0.0735 ND ND
+Cannabidivarinic Acid CBDVA 0.0490 0.0735 ND ND
+Cannabidiolic Acid CBDA 0.0216 0.0735 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0490 0.0735 0.487 4873
+Cannabinolic Acid CBNA 0.0490 0.0735 ND ND
+Cannabichromenic Acid CBCA 0.0490 0.0735 0.129 1.294
+a-Humulene 0.750 3.000 2313.553 2314 EH
+a-Pinene 0.750 3.000 294.832 0295
+a-Terpinene 0.750 3.000 20.223 0020 Clove
+1,8-Cineole 0.750 3.000 165.439 0.165
+B-Caryophyllene 0.750 3.000 8459.614 8460 IED
+B-Myrcene 0.750 3.000 2892.602 2.893 EN
+Borneol 0.750 3.000 94.206 0094
+Camphene 0.750 3.000 90.531 0091
+Fenchone 0.750 3.000 45.864 0046
+y-Terpinene 0.750 3.000 30.646 0031
+Limonene 0.750 3.000 1897.579 1898 EH
+Linalool 0.750 3.000 1087.148 1087
+Terpinolene 0.750 3.000 43.544 0044
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0474 0.0711 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0474 0.0711 0.100 0.995
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0474 00711 21.698 216976 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0474 0.0711 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0474 0.0711 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0474 0.0711 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0474 0.0711 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0474 0.0711 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0474 0.0711 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0474 0.0711 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0474 0.0711 ND ND
+Cannabidivarinic Acid CBDVA 0.0474 0.0711 ND ND
+Cannabidiolic Acid CBDA 0.0379 0.0711 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0474 0.0711 1.291 12.910
+Cannabinolic Acid CBNA 0.0474 0.0711 ND ND
+Cannabichromenic Acid CBCA 0.0379 0.0711 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 363.865 0364
+a-Humulene 0.750 3.000 3200.380 3200 ΕΞ
+a-Pinene 0.750 3.000 2727.399 2727 ΠΕ
+1,8-Cineole 0.750 3.000 29 412 ΟΟ29
+B-Caryophyllene 0.750 3.000 10068.448 10068 NS
+Borneol 0.750 3.000 211.978 0212
+Camphene 0.750 3.000 287.239 0287
+Fenchone 0.750 3.000 99.686 0.100 LSA
+y-Terpinene 0.750 3.000 <LOQ <Loq vere
+Limonene 0.750 3000 4645454 4645 EN ae
+Linalool 0.750 3.000 3974.286 3974 ΙΙ
+Ocimene 0.750 3.000 1919.854 1920 ΕΕ Hops
+Terpinolene 0.750 3.000 90.571 0.091
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0505 0.0758 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.142 1424 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 16.978 169778 Comms
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0505 0.0758 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0505 0.0758 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0505 0.0758 ND ND
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0505 0.0758 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0505 0.0758 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0505 0.0758 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0505 0.0758 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0505 0.0758 ND ND
+Cannabidivarinic Acid CBDVA 0.0505 0.0758 ND ND
+Cannabidiolic Acid CBDA 0.0505 0.0758 ND ND
+Cannabigerolic Acid CBGA 0.0505 0.0758 0.326 3.263
+Cannabinolic Acid CBNA 0.0505 0.0758 ND ND
+Cannabichromenic Acid CBCA 0.0505 0.0758 0.126 1.263
+a-Bisabolol 0.750 3.000 171.977 0172
+a-Humulene 0.750 3.000 2196.494 2196 ΕΙΠΕ
+a-Pinene 0.750 3.000 1266.979 1.267
+1,8-Cineole 0750 3000 <l0Q ΟΘΩ Lavender
+B-Caryophyllene 0.750 3.000 6408.103 6408 IS 4 4
+B-Myrcene 0.750 3.000 ND ND wre
+Borneol 0.750 3.000 244.112 0244 we
+Camphene 0.750 3.000 286.514 0287 ii
+Fenchone 0.750 3.000 90.518 0091
+y-Terpinene 0.750 3.000 13.888 0014
+Limonene 0.750 3.000 4826.316 4826 ΠΠ
+Linalool 0.750 3.000 5302.116 5.302 .α.
+Ocimene 0.750 3.000 140.179 0.140 Hops
+Terpinolene 0.750 3.000 71.983 0072
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.186 1.859
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 30.707 307075 Crome
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0503 0.0754 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0503 0.0754 ND ND
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.564 5.638
+Cannabinolic Acid CBNA 0.0291 0.0754 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.111 1.106
+a-Bisabolol 0.750 3.000 291.733 0292 I
+a-Humulene 0.750 3.000 1084.047 1084
+a-Pinene 0.750 3.000 1903.468 1.903
+B-Caryophyllene 0.750 3.000 3891.488 3891 IN
+Borneol 0.750 3.000 177.695 0178
+Camphene 0.750 3.000 337.415 0337
+Fenchone 0.750 3.000 159.268 0.159 LSA
+Limonene 0750 3000 6777.359 6777 EEN ae
+Linalool 0.750 3.000 3239.839 3240 EN
+Ocimene 0.750 3.000 1408.990 1409 ΕΕ Pine
+Terpinolene 0.750 3.000 144.456 0.144
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0485 0.0728 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0485 0.0728 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0485 00728 23.550 235495 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0485 0.0728 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0485 0.0728 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0485 0.0728 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0485 0.0728 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0485 0.0728 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0485 0.0728 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0485 0.0728 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0485 0.0728 ND ND
+Cannabidivarinic Acid CBDVA 0.0485 0.0728 ND ND
+Cannabidiolic Acid CBDA 0.0485 0.0728 ND ND
+Cannabigerolic Acid CBGA 0.0485 0.0728 0.423 4233
+Cannabinolic Acid CBNA 0.0243 0.0728 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0485 0.0728 0.152 1.524
+a-Bisabolol 0.750 3000 401.692 0402
+a-Humulene 0.750 3.000 1684.678 1685 ΕΤ
+a-Pinene 0.750 3.000 1206.666 1207 EH
+B-Caryophyllene 0.750 3.000 5441.153 5441 AS
+B-Myrcene 0.750 3.000 1862.922 1865
+Borneol 0.750 3.000 156.003 0.156
+Camphene 0.750 3.000 161.489 0.161
+Fenchone 0.750 3.000 84.549 0085 LSA
+y-Terpinene 0.750 3.000 <L0Q <LoqQ vere
+Limonene 0750 3000 3036.741 3037 EER ae
+Linalool 0.750 3.000 2819.043 2.819 EN
+Ocimene 0.750 3.000 653.468 0653 Clove
+Terpinolene 0.750 3.000 54.348 0.054
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.096 0.955
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 25.192 251920  Scrommmmmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0503 0.0754 0.095 0.945
+9R-Hexahydrocannabinol 98-ΗΗ 0.0503 0.0754 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0503 0.0754 ND ND
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.543 5.427
+Cannabinolic Acid CBNA 0.0231 0.0754 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.214 2141 Ι
+a-Bisabolol 0.750 3.000 283.938 0284
+a-Humulene 0.750 3.000 2992.408 2092 EN
+a-Pinene 0.750 3.000 488.063 0488 1
+B-Caryophyllene 0.750 3.000 7063.542 7.064 ID
+Borneol 0.750 3.000 121.389 0121
+Camphene 0.750 3.000 108.275 0.108
+Fenchone 0.750 3.000 25.403 0025
+Limonene 0.750 3.000 1732.300 1732 ΕΠ
+Linalool 0.750 3.000 1046.099 1046
+Ocimene 0.750 3.000 116.779 0117 Lavender
+Terpinolene 0.750 3.000 32.952 0033 WN
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0459 0.0688 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0459 0.0688 0.194 1.936
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0459 00688 16238 π.
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0459 0.0688 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0459 0.0688 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0459 0.0688 ND ND
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0459 0.0688 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0459 0.0688 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0459 0.0688 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0459 0.0688 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0459 0.0688 ND ND
+Cannabidivarinic Acid CBDVA 0.0459 0.0688 ND ND
+Cannabidiolic Acid CBDA 0.0220 0.0688 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0459 0.0688 0.551 5514
+Cannabinolic Acid CBNA 0.0459 0.0688 ND ND
+Cannabichromenic Acid CBCA 0.0459 0.0688 0.083 0.826
+a-Humulene 0.750 3.000 3892.056 3892 EH
+a-Pinene 0.750 3.000 389.074 0.389
+1,8-Cineole 0750 3000 <l0Q  ΟΘΩ Lavender
+B-Caryophyllene 0.750 3.000 13832.827 13.833 ED R34 7
+B-Myrcene 0.750 3.000 ND ND we
+Borneol 0.750 3.000 156.161 0.156 RS
+Camphene 0.750 3.000 136.419 0.136 ii
+Fenchone 0.750 3.000 49.041 0049
+y-Terpinene 0.750 3.000 <LoQ <toq
+Limonene 0.750 3.000 3253.816 3254 EH
+Linalool 0.750 3.000 7979.677 7.980 Επ
+Terpinolene 0.750 3.000 69.092 0.069
+a-Humulene 0.750 3.000 4012.168 4012 WN
+a-Pinene 0.750 3.000 734 355 07a ee
+a-Terpirene 0.750 3.000 <LOQ <oq
+B-Caryophyllene 0750 3000 16286345 16386 IEEE Yer
+B-Myrcene 0750 3000 736.828 0737 ore
+Borreol 0.750 3.000 258.555 0259 we
+Camphene 0.750 3000 209.593 0210 ii
+Ferxhone 0.750 3.000 115401 0115
+y-Terpinene 0.750 3000 LLOQ <L0Q
+Menthol 0750 300 ND ND -.
+Neraolidol 0.750 3.000 ND ND ee 1
+Ocimene 0.750 3000 949.802 o9s0 f Hops
+Pulegone 0750 3.000 ND ND
+Terpinolene 0.750 3.000 132754 0133 .
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.162 1.622
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 26.507 265071 Soro
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0510 0.0765 0.119 1.194
+Cannabidiolic Acid CBDA 0.0449 0.0765 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0510 0.0765 1371 13.714
+Cannabichromenic Acid CBCA 0.0510 0.0765 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 363.717 0.364
+a-Humulene 0.750 3.000 4954.589 4955 EE
+a-Pinene 0.750 3.000 1888.367 1888
+a-Terpinene 0.750 3.000 <LoOQ <LoqQ iia
+1,8-Cineole 0.750 3.000 22.109 0022
+B-Caryophyllene 0.750 3.000 14713.084 14713 ΠΠ
+Borneol 0.750 3.000 236.113 0236
+Camphene 0.750 3.000 280.546 0281
+Fenchone 0.750 3.000 71.535 0072
+y-Terpinene 0.750 3.000 <LoOQ <Loq
+Limonene 0.750 3.000 5226.059 5226 HN
+Linalool 0.750 3.000 3855.978 3856 ΕΤΗ
+Ocimene 0.750 3.000 766.451 0766 I Lavender
+Pulegone 0.750 3.000 ND ND oo No
+Terpinolene 0.750 3.000 71.554 0072 51
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.229 2.286
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 23074 230735  Srommmmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0255 0.0765 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0510 0.0765 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0510 0.0765 ND ND
+Cannabigerolic Acid CBGA 0.0510 0.0765 0.715 7.153
+Cannabinolic Acid CBNA 0.0255 0.0765 <LOQ <LOQ
+a-Humulene 0.750 3.000 5654.184 5.654 ΕΠΗ
+a-Pinene 0.750 3.000 1599.756 1600
+a-Terpinene 0.750 3.000 17.607 0018 Fa
+1,8-Cineole 0.750 3.000 56.064 0.056
+B-Caryophyllene 0.750 3.000 13804.650 13.805 IS
+Borneol 0.750 3.000 255.973 0256
+Camphene 0.750 3.000 353.831 0354
+Fenchone 0.750 3.000 180.508 Ο181 LSA
+y-Terpinene 0.750 3.000 20.984 0021 vere
+Limonene 0750 3000 6505.213 6505 EN ae
+Linalool 0.750 3.000 6328.395 6.328 EN
+Ocimene 0.750 3.000 261.661 0262 Hops
+Terpinolene 0.750 3.000 105.455 0.105
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0446 0.0670 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0446 0.0670 0.150 1.500
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0446 00670 20221 202205 EES
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0446 0.0670 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0446 0.0670 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0446 0.0670 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0446 0.0670 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0446 0.0670 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0446 0.0670 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0446 0.0670 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0446 0.0670 ND ND
+Cannabidivarinic Acid CBDVA 0.0446 0.0670 ND ND
+Cannabidiolic Acid CBDA 0.0205 0.0670 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0446 0.0670 1.390 13.902
+Cannabinolic Acid CBNA 0.0446 0.0670 ND ND
+Cannabichromenic Acid CBCA 0.0446 0.0670 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 353.606 0354
+a-Humulene 0.750 3.000 2137.135 2137 ΠΕ
+a-Pinene 0.750 3.000 599.126 0.599 -
+1,8-Cineole 0.750 3000 46867 Ο047 Lavender
+B-Caryophyllene 0.750 3.000 7230.681 7231 A. 4 4
+Borneol 0.750 3.000 164.103 0.164 RA
+Camphene 0.750 3.000 178.571 0179 I ii
+Fenchone 0.750 3.000 48.803 0049
+Limonene 0.750 3.000 3965.183 3965 Μπ
+Linalool 0.750 3.000 3999.387 3999 EN
+Ocimene 0.750 3.000 115.952 0116 Hops
+Terpinolene 0.750 3.000 71.933 0072
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 0.100 1.000
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 22550 205505 Soom
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0515 0.0773 ND ND
+Cannabidiolic Acid CBDA 0.0515 0.0773 ND ND
+Cannabigerolic Acid CBGA 0.0515 0.0773 1.099 10.990
+Cannabichromenic Acid CBCA 0.0515 0.0773 0.098 0.979
+a-Bisabolol 0.750 3.000 593.702 0594
+a-Humulene 0.750 3.000 1516.552 1517
+a-Pinene 0.750 3.000 1004.846 1.005 -
+a-Terpinene 0.750 3.000 550.230 0.550
+1,8-Cineole 0750 3000 145.158 Ο145 Cinnamon
+B-Caryophyllene 0.750 3.000 4793.801 4794 A
+B-Myrcene 0.750 3.000 3679.309 3679 ER
+Borneol 0.750 3.000 206.665 0207
+Camphene 0.750 3.000 101.463 0101
+Fenchone 0.750 3.000 75.895 0076
+y-Terpinene 0.750 3.000 454.512 0455
+Limonene 0.750 3.000 1696.500 1697 W
+Linalool 0.750 3.000 1679.610 1680
+Terpinolene 0.750 3.000 12917.371 12917
+A-9-Tetrahydrocannabinol A-9 THC 0.0490 0.0735 0.282 2824 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0490 00735 20.616 206157 πα
+Cannabidiolic Acid CBDA 0.0255 0.0735 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0490 0.0735 0.327 3.265
+Cannabichromenic Acid CBCA 0.0490 0.0735 0412 4118
+a-Bisabolol 0.750 3.000 514.842 0515
+a-Humulene 0.750 3.000 5248.144 5248 8
+a-Pinene 0.750 3.000 207.530 0208
+1,8-Cineole 0750 3000 107.171 0107 Ρ
+B-Caryophyllene 0.750 3.000 11684.292 11.684 ΠΠ
+B-Myrcene 0.750 3.000 2774.583 27715 EH
+Borneol 0.750 3.000 66.425 0066
+Camphene 0.750 3.000 63.888 0064
+Fenchone 0.750 3.000 22.009 0022
+y-Terpinene 0.750 3.000 22.318 0022
+Limonene 0.750 3.000 1552.168 1552
+Linalool 0.750 3.000 53.589 0054
+Terpinolene 0.750 3.000 36.412 0.036
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0472 0.0708 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0472 0.0708 0.283 2.830
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0472 00708 19.309 193085 Corrs
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0472 0.0708 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0472 0.0708 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0472 0.0708 0.113 1.132 Ι
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0472 0.0708 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0472 0.0708 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0472 0.0708 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0472 0.0708 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0472 0.0708 ND ND
+Cannabidivarinic Acid CBDVA 0.0472 0.0708 ND ND
+Cannabidiolic Acid CBDA 0.0302 0.0708 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0472 0.0708 2921 29.208 jE
+Cannabinolic Acid CBNA 0.0472 0.0708 ND ND
+Cannabichromenic Acid CBCA 0.0472 0.0708 0.190 1.896
+a-Humulene 0.750 3.000 1042.509 1043
+a-Pinene 0.750 3.000 1446716 1.447
+a-Terpinene 0.750 3.000 17.267 0.017
+1,8-Cineole 0.750 3000 48422 Ο048 Lavender
+B-Caryophyllene 0.750 3.000 4069.876 4070 EN 4 4
+B-Myrcene 0.750 3.000 3009.679 3010 EN wre
+Borneol 0.750 3.000 246.750 0247 RA
+Camphene 0.750 3.000 435.431 0435 ii
+Fenchone 0.750 3.000 29.703 0030
+y-Terpinene 0.750 3.000 21.675 0022
+Limonene 0.750 3.000 8934.366 8934 ΠΠ
+Linalool 0.750 3.000 8234.602 8235 Im
+Terpinolene 0.750 3.000 188.346 0.188
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.287 2867 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 25.090 250898 Soom
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0510 0.0765 0.101 1.010
+Cannabidiolic Acid CBDA 0.0286 0.0765 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0510 0.0765 0.878 8.776
+a-Bisabolol 0.750 3.000 381.680 0382 I
+a-Humulene 0.750 3.000 2336.908 2337 ΕΠ
+a-Pinene 0.750 3.000 671.863 0.672 -
+1,8-Cineole 0.750 3000 28333 Ο028 Lavender
+B-Caryophyllene 0.750 3.000 9550.360 π.ε 4
+B-Myrcene 0750 3.000 991.596 0992 re
+Borneol 0.750 3.000 226.252 0226 RA
+Camphene 0.750 3.000 204.803 0205 ii
+Fenchone 0.750 3.000 153.737 0.154
+y-Terpinene 0.750 3.000 17.935 0018
+Limonene 0.750 3.000 4853.415 4853 EN
+Linalool 0.750 3.000 5944.829 5.945 EN
+Ocimene 0.750 3.000 637.927 0638 1 Hops
+Terpinolene 0.750 3.000 93.683 0.094
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 17.179 σσ
+Cannabigerolic Acid CBGA 0.0515 0.0773 0.972 9.722
+Cannabichromenic Acid CBCA 0.0515 0.0773 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 277.345 0277 I
+a-Humulene 0.750 3.000 5101.507 5.102 EN
+a-Pinene 0.750 3.000 1440.574 1441
+1,8-Cineole 0750 3000 34.227 0034 P
+B-Caryophyllene 0.750 3.000 11880.600 11.881
+B-Myrcene 0.750 3.000 672.112 0672 1
+Borneol 0.750 3.000 246.503 0247
+Camphene 0.750 3.000 262.655 0263
+Fenchone 0.750 3.000 83.319 0083 LSA
+Limonene 0750 3000 4136272 4136 EE ae
+Linalool 0.750 3.000 4466.527 4467 EN
+Ocimene 0.750 3.000 753.543 0754 1 Lime
+Terpinolene 0.750 3.000 80.165 0.080
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.173 1733 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 21.604 216040 Scr
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0495 0.0743 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0297 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 0.501 5.010
+Cannabichromenic Acid CBCA 0.0495 0.0743 ND ND
+a-Bisabolol 0.750 3.000 260.168 0260
+a-Humulene 0.750 3.000 1873.670 1874 ΕΠΕ
+a-Pinene 0.750 3.000 363.925 0.364 -
+1,8-Cineole 0.750 3000 21309  Ο021 Lavender
+B-Caryophyllene 0.750 3.000 6193.891 6.194 IS 4 4
+B-Myrcene 0.750 3.000 2730.844 2731 EN 4.51
+Borneol 0.750 3.000 165.370 0.165 I RA
+Camphene 0.750 3.000 87.300 0087 ii
+Citral 0.750 3.000 <LoQ <LoqQ Clove
+Fenchone 0.750 3.000 76.642 0077
+Limonene 0.750 3.000 2440.532 2441 EN
+Linalool 0750 3000 3900192 3900 ΙΒ
+Ocimene 0.750 3.000 364.078 0364 1 Lime
+Terpinolene 0.750 3.000 61.211 0061
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0498 0.0746 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0498 0.0746 0.265 2.647
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0498 00746 18.182 πυρ π.
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0498 0.0746 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0498 0.0746 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0498 0.0746 0.096 0.955
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0498 0.0746 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0498 0.0746 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0498 0.0746 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0498 0.0746 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0498 0.0746 ND ND
+Cannabidivarinic Acid CBDVA 0.0498 0.0746 ND ND
+Cannabidiolic Acid CBDA 0.0279 0.0746 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0498 0.0746 1191 11.910
+Cannabinolic Acid CBNA 0.0498 0.0746 ND ND
+Cannabichromenic Acid CBCA 0.0498 0.0746 <LOQ <LOQ
+a-Humulene 0.750 3.000 1512225 15412 ΕΙΠΕ
+a-Pinene 0.750 3.000 210.455 0210
+a-Terpinene 0.750 3.000 <LoOQ <LoqQ Heiss
+B-Caryophyllene 0.750 3.000 5000.960 5001
+B-Myrcene 0.750 3.000 1162.653 1.163 El
+Borneol 0.750 3.000 49.988 0050
+Camphene 0.750 3.000 64.746 0065
+Fenchone 0.750 3.000 29.748 0030
+Limonene 0.750 3.000 1421.130 1421 ΕΠ
+Linalool 0.750 3.000 1351.892 1352 EH
+Terpinolene 0.750 3.000 32.901 0033 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.148 1477 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 19.731 σσ.
+Cannabidiolic Acid CBDA 0.0151 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.493 4.935
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.121 1.206
+a-Humulene 0.750 3.000 2066.051 2066 ΤΗ
+a-Pinene 0.750 3.000 254.532 0255
+a-Terpinene 0.750 3.000 <LOQ <LoqQ Clove
+1,8-Cineole 0.750 3.000 140.908 0141
+B-Caryophyllene 0.750 3.000 7808.307 7.808 ND
+B-Myrcene 0.750 3.000 3029.312 3029 EW
+Borneol 0.750 3.000 77.562 0078
+Camphene 0.750 3.000 78.504 0079
+Fenchone 0.750 3.000 36.990 0037
+y-Terpinene 0.750 3.000 25.477 0025
+Limonene 0.750 3.000 1785.014 1785 EH
+Linalool 0.750 3.000 1103.560 1104 ΕΕ
+Terpinolene 0.750 3.000 39.832 0040
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 0.080 0.804
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 17.645 176454 orm
+9R-Hexahydrocannabinol 98-ΗΗ 0.0515 0.0773 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0515 0.0773 ND ND
+Cannabigerolic Acid CBGA 0.0515 0.0773 0.279 2794
+Cannabichromenic Acid CBCA 0.0515 0.0773 0.141 1412
+a-Humulene 0.750 3.000 2441078 2441 ΕΠΕ
+a-Pinene 0.750 3.000 194.705 0195
+a-Terpinene 0.750 3.000 28.495 0028 Lobe
+1,8-Cineole 0.750 3000 280.118 0280 Ρ
+B-Caryophyllene 0.750 3.000 8894.709 8895 IND
+B-Myrcene 0.750 3.000 1895.487 1895 ΕΕ
+Borneol 0.750 3.000 49.223 0049
+Camphene 0.750 3.000 50.150 0050
+Fenchone 0.750 3.000 26.497 0026
+y-Terpinene 0.750 3.000 40.569 0041
+Limonene 0.750 3.000 1056.720 1057
+Linalool 0.750 3.000 1278.160 1278 W
+Terpinolene 0.750 3.000 25.540 0026 51
+A-9-Tetrahydrocannabinol A-9 THC 0.0478 0.0718 0.138 1.378
+A-9-Tetrahydrocannabinolic Acid THCA-A 00478 00718 20.638 206383 8.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0478 0.0718 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0478 0.0718 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0478 0.0718 ND ND
+Cannabidiolic Acid CBDA 0.0191 0.0718 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0478 0.0718 0.565 5.646
+Cannabinolic Acid CBNA 0.0191 0.0718 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0478 0.0718 <LOQ <LOQ
+a-Humulene 0.750 3.000 738.070 0738
+a-Pinene 0.750 3.000 224.144 0.224 -
+1,8-Cineole 0750 3000 <0Q ΙΟΩ Lavender
+B-Caryophyllene 0.750 3.000 2938.870 2939 a. 4 4
+B-Myrcene 0.750 3.000 ND ND 4.51
+Borneol 0.750 3.000 141.703 0142 RA
+Camphene 0.750 3.000 67.835 0068 I ii
+Fenchone 0.750 3.000 50.848 0051
+Limonene 0.750 3.000 1201.126 1201 EE
+Linalool 0.750 3.000 2739.229 2739 ΠΠ
+Ocimene 0.750 3.000 126.379 0126 Hops
+Terpinolene 0.750 3.000 25.124 0025
+A-9-Tetrahydrocannabinol A-9 THC 0.0483 0.0725 0.289 2894 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0483 00725 20914 209140 Smee
+Cannabidiolic Acid CBDA 0.0280 0.0725 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0483 0.0725 0471 4715
+Cannabichromenic Acid CBCA 0.0483 0.0725 0.310 3.101
+a-Bisabolol 0.750 3.000 492.477 0492 1
+a-Humulene 0.750 3.000 4610.954 4611 EEE
+a-Pinene 0.750 3.000 207.464 0.207
+a-Terpinene 0.750 3.000 <LoQ <Loq Lobe
+1,8-Cineole 0750 3000 110855 0111 Ρ
+B-Caryophyllene 0.750 3.000 10399.253 10.399 ΠΠ
+B-Myrcene 0.750 3.000 3630.788 3631 EN
+Borneol 0.750 3.000 73.980 0074
+Camphene 0.750 3.000 64.470 0064
+Fenchone 0.750 3.000 21.991 0022
+y-Terpinene 0.750 3.000 23.200 0023
+Limonene 0.750 3.000 1642.186 1642
+Linalool 0.750 3.000 159.410 0.159
+Terpinolene 0.750 3.000 41.189 0041
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.230 2.303
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 19.250 192495 Tomes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0242 0.0758 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0505 0.0758 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0505 0.0758 ND ND
+Cannabidiolic Acid CBDA 0.0242 0.0758 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0505 0.0758 0.617 6.172
+Cannabichromenic Acid CBCA 0.0505 0.0758 ND ND
+a-Humulene 0.750 3.000 1060.703 1061 ΕΤ
+a-Pinene 0.750 3.000 246.580 0.247 -
+1,8-Cineole 0750 3000 <l0Q  ΟΩ Lavender
+B-Caryophyllene 0.750 3.000 4047.724 4048 ΠΠ 4 4
+B-Myrcene 0750 3.000 261.185 0261 1 re
+Borneol 0.750 3.000 172.697 0173 RA
+Camphene 0.750 3.000 70.363 0070 ii
+Fenchone 0.750 3.000 94.329 0094
+Limonene 0.750 3.000 1798.726 1799 ΕΠ
+Linalool 0.750 3.000 3755.502 3756 πα
+Ocimene 0.750 3.000 198.580 0199 I Hops
+Terpinolene 0.750 3.000 37.285 0.037
+a-Humulene 0.750 3.000 2390.057 2390 EN
+a-Pinene 0.750 3.000 624.590 0625
+B-Caryophyllene 0.750 3.000 6400.158 6400 IS
+B-Myrcene 0.750 3.000 692.532 0693 H
+Borneol 0.750 3.000 276.452 0276 I
+Camphene 0.750 3.000 222.430 0222
+Fenchone 0.750 3.000 57.191 0057 LSA
+Limonene 0.750 3000 4764.191 4764 πα ae
+Linalool 0.750 3.000 4074.982 4075 Επ
+Terpinolene 0.750 3.000 148.841 0149
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0513 0.0769 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0513 0.0769 ND ND
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0513 00769 22240 222400 η
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0513 0.0769 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0513 0.0769 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0513 0.0769 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0513 0.0769 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0513 0.0769 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0513 0.0769 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0513 0.0769 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0513 0.0769 ND ND
+Cannabidivarinic Acid CBDVA 0.0513 0.0769 ND ND
+Cannabidiolic Acid CBDA 0.0236 0.0769 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0513 0.0769 1.626 16.256
+Cannabinolic Acid CBNA 0.0513 0.0769 ND ND
+Cannabichromenic Acid CBCA 0.0236 0.0769 <LOQ <LOQ
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.088 0.881
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 23.450 234505  Scrommmmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0238 0.0743 <LOQ <LOQ
+9S-Hexahydrocannabinol 95-ΗΗ 0.0495 0.0743 ND ND
+Cannabidiolic Acid CBDA 0.0238 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 1.333 13.327
+Cannabichromenic Acid CBCA 0.0495 0.0743 0.092 0.921
+a-Bisabolol 0.750 3.000 2494.363 2494 EH
+a-Humulene 0.750 3.000 4222.602 4223 ΠΕ
+a-Pinene 0.750 3.000 604.095 0604 I
+1,8-Cineole 0750 3000 92654 ΟΟ33
+B-Caryophyllene 0.750 3.000 11641.644 11.642 ΠΠ
+B-Myrcene 0.750 3.000 3831.780 3832 EN
+Borneol 0.750 3.000 236.147 0236
+Camphene 0.750 3.000 196.830 0197
+Fenchone 0.750 3.000 59.083 0059
+Limonene 0.750 3.000 3826.174 3826 ΕΤΗ
+Linalool 0.750 3.000 2013.953 2014
+Terpinolene 0.750 3.000 78.941 0.079
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0469 0.0704 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0469 0.0704 0.294 2.939 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0469 00704 24.844 248441 Semmes
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0469 0.0704 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0469 0.0704 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0310 0.0704 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0469 0.0704 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0469 0.0704 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0469 0.0704 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0469 0.0704 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0469 0.0704 ND ND
+Cannabidivarinic Acid CBDVA 0.0469 0.0704 ND ND
+Cannabidiolic Acid CBDA 0.0310 0.0704 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0469 0.0704 0.600 6.000
+Cannabinolic Acid CBNA 0.0469 0.0704 0.113 1127 Ι
+Cannabichromenic Acid CBCA 0.0469 0.0704 ND ND
+a-Humulene 0.750 3.000 2045.648 2046 ΕΤΗ
+a-Pinene 0.750 3.000 994.619 0.995
+1,8-Cineole 0.750 3000 41730  Ο042 Lavender
+B-Caryophyllene 0.750 3.000 7684.615 7.685 ID 4 4
+B-Myrcene 0.750 3.000 4580.750 4581 EN wre
+Borneol 0.750 3.000 269.548 0270 RA
+Camphene 0.750 3.000 231.104 0231 ii
+Fenchone 0.750 3.000 91.778 0092
+Limonene 0.750 3.000 4298.407 4298 EN
+Linalool 0.750 3.000 6593.484 6593 IE.
+Ocimene 0.750 3.000 926.620 0927 H Lime
+Terpinolene 0.750 3.000 107.261 0.107
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0450 0.0676 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0450 0.0676 0.203 2027 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0450 00676 22482 204820 crm
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0450 0.0676 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0450 0.0676 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0450 0.0676 0.081 0.811
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0450 0.0676 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0450 0.0676 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0450 0.0676 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0450 0.0676 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0450 0.0676 ND ND
+Cannabidivarinic Acid CBDVA 0.0450 0.0676 ND ND
+Cannabidiolic Acid CBDA 0.0387 0.0676 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0450 0.0676 0.919 9.189
+Cannabinolic Acid CBNA 0.0450 0.0676 ND ND
+Cannabichromenic Acid CBCA 0.0450 0.0676 0.137 1.369
+a-Humulene 0.750 3.000 2973.097 2973 ΕΙΠΕ
+a-Pinene 0.750 3.000 832.514 0.833 -
+1,8-Cineole 0750 3000 ND ND Lavender
+B-Caryophyllene 0.750 3.000 8596.313 8596 IND 4 4
+Borneol 0.750 3.000 170.825 0171 RA
+Camphene 0.750 3.000 268.049 0268 ii
+Fenchone 0.750 3.000 103.579 0.104
+Limonene 0.750 3.000 4245 019 4245 ΒΙΠΕ
+Linalool 0.750 3.000 5457.450 5457 EN
+Terpinolene 0.750 3.000 60.783 0061
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0452 0.0679 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0452 0.0679 0.093 0.932
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0452 00679 23.150 231502  Scrommmmmmmes
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0452 0.0679 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0452 0.0679 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0199 0.0679 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0452 0.0679 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0452 0.0679 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0452 0.0679 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0452 0.0679 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0452 0.0679 ND ND
+Cannabidivarinic Acid CBDVA 0.0452 0.0679 ND ND
+Cannabidiolic Acid CBDA 0.0199 0.0679 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0452 0.0679 1224 12.235 ι
+Cannabinolic Acid CBNA 0.0452 0.0679 ND ND
+Cannabichromenic Acid CBCA 0.0452 0.0679 0.083 0.833
+a-Bisabolol 0.750 3.000 360.066 0360 I
+a-Humulene 0.750 3.000 2594.321 2594 ΕΙ
+a-Pinene 0.750 3.000 1000.354 1000
+B-Caryophyllene 0.750 3.000 6438.490 64338 IS
+B-Myrcene 0.750 3.000 3541.365 3541 EN
+Borneol 0.750 3.000 145.999 0.146
+Camphene 0.750 3.000 242.979 0243
+Fenchone 0.750 3.000 66.363 0066
+Limonene 0.750 3.000 5443.396 5443 I.
+Linalool 0.750 3.000 2892.725 2.893 ΠΠ
+Ocimene 0.750 3.000 766.320 0766 Lavender
+Terpinolene 0.750 3.000 95.182 0095 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 23038 230376 ΠΕ
+Cannabigerolic Acid CBGA 0.0495 0.0743 1451 14.505
+Cannabichromenic Acid CBCA 0.0495 0.0743 0.100 1.000
+a-Humulene 0.750 3.000 4147.038 4147 ΙΠΤΕ
+a-Pinene 0.750 3.000 445.764 0446
+a-Terpinene 0.750 3.000 28.208 0028 Clove
+1,8-Cineole 0.750 3.000 <LOQ <Loq
+B-Caryophyllene 0.750 3.000 12820.460 12.820 IS
+B-Myrcene 0.750 3.000 7085.109 7085 EN
+Borneol 0.750 3.000 215.733 0216
+Camphene 0750 3000 149.485 0.149
+Fenchone 0.750 3.000 57.023 0057 LSA
+y-Terpinene 0.750 3.000 20.946 0021 vere
+Limonene 0750 3000 3984.902 3985 ΕΕ we
+Linalool 0.750 3.000 4896.395 4896 EN
+Terpinolene 0.750 3.000 971.521 0972 1
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.092 0.919
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 26.632 26323 8.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0505 0.0758 0.093 0.929
+Cannabigerolic Acid CBGA 0.0505 0.0758 0.318 3.182
+Cannabinolic Acid CBNA 0.0313 0.0758 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0505 0.0758 0171 1.707
+a-Bisabolol 0.750 3.000 305.070 0305
+a-Humulene 0.750 3.000 1149.652 1450 Επ
+a-Pinene 0.750 3.000 983.811 0.984
+B-Caryophyllene 0.750 3.000 4647.144 4647 EN 4 4
+B-Myrcene 0.750 3.000 4793.821 4794 EN wre
+Borneol 0.750 3.000 230.055 0230 I RA
+Camphene 0.750 3.000 310.474 0310 ii
+Fenchone 0.750 3.000 107.335 0.107
+y-Terpinene 0.750 3.000 <L0Q <LoqQ
+Limonene 0.750 3.000 7053.576 7.054 ΠΩ
+Linalool 0750 3000 6103745 Ω
+Nerolidol 0.750 3.000 ND ND Ri
+Ocimene 0.750 3.000 ND ND Cinnamon
+Terpinolene 0.750 3.000 147.308 0.147
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.185 1.850
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 36.165 361655 rome
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0500 0.0750 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0500 0.0750 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0500 0.0750 ND ND
+Cannabidiolic Acid CBDA 0.0500 0.0750 ND ND
+Cannabigerolic Acid CBGA 0.0500 0.0750 0.640 6.400
+Cannabinolic Acid CBNA 0.0350 0.0750 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0500 0.0750 0.193 1.930
+a-Bisabolol 0.750 3.000 619.441 0619 A
+a-Humulene 0.750 3.000 2446.257 2446 ΕΙΠΕ
+a-Pinene 0.750 3.000 862.258 0.862
+B-Caryophyllene 0.750 3.000 4709.332 4709
+B-Myrcene 0.750 3.000 6798.887 6799 ΠΠ
+Borneol 0.750 3.000 313.328 0313 I
+Camphene 0.750 3.000 286.929 0287
+Fenchone 0.750 3.000 50.852 0051
+Limonene 0.750 3.000 3829.307 3829 EEN
+Linalool 0.750 3.000 3380.117 3380 EN
+Terpinolene 0.750 3.000 74.022 0074 WN
+a-Humulene 0.750 3.000 942.879 0943 W
+a-Pinene 0.750 3.000 1025.191 1.025
+1,8-Cineole 0750 3000 <0Q  ΟΩ Lavender
+B-Caryophyllene 0.750 3.000 3230.693 3231 πα 4 4
+B-Myrcene 0.750 3.000 2571.165 2571 888 wre
+Borneol 0.750 3.000 293.589 0294 RA
+Camphene 0.750 3.000 344.461 0344 ii
+Fenchone 0.750 3.000 96.552 0097
+Limonene 0.750 3.000 6499.931 6500 ES
+Linalool 0.750 3.000 5258.558 5259 EN
+Terpinolene 0.750 3.000 155.956 0.156
+A-9-Tetrahydrocannabinol A-9 THC 0.0459 0.0688 0.187 1872 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0459 00688 24.966 249661 Semmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0459 0.0688 0.122 1.220
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0459 0.0688 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0459 0.0688 ND ND
+Cannabidiolic Acid CBDA 0.0183 0.0688 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0459 0.0688 0.734 7.339
+Cannabinolic Acid CBNA 0.0183 0.0688 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0459 0.0688 0.224 2.239
+a-Bisabolol 0.750 3.000 ND ND 7
+a-Humulene 0.750 3.000 776.862 0777 I
+a-Pinene 0.750 3.000 8563.702 8564 EEN
+a-Terpinene 0.750 3.000 653.770 0654 Pine
+1,8-Cineole 0.750 3.000 175.119 0175
+B-Caryophyllene 0.750 3.000 2593.686 2594
+Borneol 0.750 3.000 311.942 0312
+Camphene 0.750 3.000 344.185 0.344
+Fenchone 0.750 3.000 236.721 0237
+y-Terpinene 0.750 3.000 538.865 0539
+Limonene 0.750 3.000 3123.943 3124 ΕΕ
+Linalool 0.750 3.000 1581.781 1582
+Terpinolene 0.750 3.000 16654.229 16654
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.224 2.240
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 28.147 281470 Smee
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0500 0.0750 0.770 7.700
+Cannabidiolic Acid CBDA 0.0500 0.0750 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0500 0.0750 0.628 6.280
+Cannabichromenic Acid CBCA 0.0500 0.0750 0.319 3.190
+a-Humulene 0.750 3.000 2633.582 2634 ΕΙΠΕ
+a-Pinene 0.750 3.000 505.456 os505
+B-Caryophyllene 0.750 3.000 8478.265 8478 IND
+B-Myrcene 0.750 3.000 6772.359 6772
+Borneol 0.750 3.000 118.059 0118
+Camphene 0750 3000 135.361 0135
+Citral 0.750 3.000 ND ND Earthy
+Fenchone 0.750 3.000 46.464 0046
+y-Terpinene 0.750 3.000 <LoOQ <LoqQ
+Limonene 0.750 3.000 3786.615 3787 EE
+Linalool 0.750 3.000 3013.674 3014 ΕΠ
+Ocimene 0.750 3.000 6632.165 6.632 mmm Lime
+Terpinolene 0.750 3.000 68.946 0.069
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.120 1.198
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 16219 162188 Comms
+Cannabidiolic Acid CBDA 0.0208 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 0.365 3.653
+Cannabichromenic Acid CBCA 0.0495 0.0743 0571 5.713
+a-Bisabolol 0.750 3000 933.320 0933 Lhd
+a-Humulene 0750 3000 1940881 1941 MM Π
+a-Pinene 0.750 3.000 1517.204 1517
+B-Caryophyllene 0.750 3.000 7115.760 7.116 EN
+B-Myrcene 0.750 3.000 5322.972 5323 8
+Borneol 0.750 3.000 295.089 0.295
+Camphene 0.750 3.000 456.799 0457
+Fenchone 0.750 3.000 109.878 0110
+y-Terpinene 0.750 3.000 21.288 0021
+Limonene 0.750 3.000 8871.692 8872 EEN
+Linalool 0.750 3.000 13040.338 13040 EES
+Terpinolene 0.750 3.000 151.431 0.151
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0457 0.0685 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0457 0.0685 0.261 2.612 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0457 00685 24.120 241196 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0457 0.0685 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0457 0.0685 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0356 0.0685 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0457 0.0685 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0457 0.0685 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0457 0.0685 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0457 0.0685 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0457 0.0685 ND ND
+Cannabidivarinic Acid CBDVA 0.0457 0.0685 ND ND
+Cannabidiolic Acid CBDA 0.0356 0.0685 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0457 0.0685 0.462 4621
+Cannabinolic Acid CBNA 0.0457 0.0685 0.118 1.178
+Cannabichromenic Acid CBCA 0.0457 0.0685 ND ND
+a-Humulene 0.750 3.000 3572.164 3572 ΕΙΠΕ
+a-Pinene 0.750 3.000 660.751 0.661 -
+1,8-Cineole 0750 3000 ND ND Cinnamon
+B-Caryophyllene 0.750 3.000 9924.816 9.925 IN
+B-Myrcene 0.750 3.000 10034.065 10034 ππ-
+Borneol 0.750 3.000 137.808 0.138
+Camphene 0.750 3.000 214.936 0215
+Fenchone 0.750 3.000 101.993 0.102
+Limonene 0.750 3.000 4549.518 4550 EN
+Linalool 0.750 3.000 43.838 0044
+Terpinolene 0.750 3.000 96.805 0.097
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.130 1.296
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 215916 Ε
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0241 0.0754 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0503 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.478 4784
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.150 1497
+a-Bisabolol 0.750 3.000 721.506 0722
+a-Humulene 0.750 3.000 1371.042 1371 ΕΕ
+a-Pinene 0.750 3.000 3340.879 3.341
+1,8-Cineole 0.750 3000 19509 Ο020 Lavender
+B-Caryophyllene 0.750 3.000 3956.566 3.957 AN 4 4
+B-Myrcene 0750 3.000 1140.908 1141 WH re
+Borneol 0.750 3.000 313.495 0313 RA
+Camphene 0.750 3.000 376.996 0377 I ii
+Fenchone 0.750 3.000 106.212 0.106
+y-Terpinene 0.750 3.000 21.287 0021
+Limonene 0.750 3.000 7156.875 7457 EN
+Linalool 0.750 3.000 6031.586 6032 I.
+Ocimene 0.750 3.000 812.280 0812 HN Pine
+Terpinolene 0.750 3.000 148.495 0.148
+A-9-Tetrahydrocannabinol A-9 THC 0.0490 0.0735 0.177 1.775
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0490 00735 26.930 269304 8
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0206 0.0735 <LOQ <LOQ
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0490 0.0735 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0490 0.0735 ND ND
+Cannabidiolic Acid CBDA 0.0206 0.0735 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0490 0.0735 0.685 6.853
+Cannabinolic Acid CBNA 0.0206 0.0735 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0490 0.0735 0.163 1.627
+a-Bisabolol 0.750 3.000 484.956 0485
+a-Humulene 0.750 3.000 3420.281 3420 EW
+a-Pinene 0.750 3.000 755.875 0756
+1,8-Cineole 0.750 3.000 ND ND
+B-Caryophyllene 0.750 3.000 8191.750 8.192 INS
+B-Myrcene 0.750 3.000 4969.845 4970 EN
+Borneol 0.750 3.000 196.915 0197
+Camphene 0.750 3.000 254.822 0255
+Fenchone 0.750 3.000 53.445 0053
+Limonene 0.750 3.000 5076.246 5076 ΠΠ
+Linalool 0750 3000 1840916 1841
+Ocimene 0.750 3.000 1787.879 1788 EH Hops
+Terpinolene 0.750 3.000 97.152 0.097
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0444 0.0667 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0444 0.0667 0.124 1.235
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0444 00667 31571 315711 oom
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0444 0.0667 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0444 0.0667 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0444 0.0667 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0444 0.0667 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0444 0.0667 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0444 0.0667 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0444 0.0667 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0444 0.0667 ND ND
+Cannabidivarinic Acid CBDVA 0.0444 0.0667 ND ND
+Cannabidiolic Acid CBDA 0.0444 0.0667 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0444 0.0667 1.961 19. 609 ι
+Cannabinolic Acid CBNA 0.0444 0.0667 ND ND
+Cannabichromenic Acid CBCA 0.0444 0.0667 0.099 0.987
+a-Humulene 0.750 3.000 3514.059 3514 ΕΠ
+a-Pinene 0.750 3.000 501.363 0.501
+a-Terpinene 0.750 3.000 46.206 0.046
+1,8-Cineole 0750 3000 <0Q ΘΩ Lavender
+B-Caryophyllene 0.750 3.000 11956.091 11.956 ES 4 4
+B-Myrcene 0750 3.000 641.791 0642 1 re
+Borneol 0.750 3.000 140.728 0.141 RA
+Camphene 0.750 3.000 154.061 0.154 ii
+Fenchone 0.750 3.000 53.164 0053
+y-Terpinene 0.750 3.000 27.773 0028
+Limonene 0.750 3.000 3742.947 3743 ΠΠ
+Linalool 0.750 3.000 6141817 6.142 EN
+Terpinolene 0.750 3.000 1734.079 1734
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 23.256 232563 ES
+Cannabidiolic Acid CBDA 0.0332 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 1.126 11.256
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.098 0.975
+a-Bisabolol 0.750 3.000 437.121 0437 I
+a-Humulene 0.750 3.000 2349.396 2349 ΕΕ
+a-Pinene 0.750 3.000 4915.909 4916
+1,8-Cineole 0750 3000 24.950 0025 Cinnamon
+B-Caryophyllene 0.750 3.000 6094.869 6095 EN
+B-Myrcene 0.750 3.000 11069.121 11.069 ES
+Borneol 0.750 3.000 114.750 0.115
+Camphene 0.750 3.000 119.596 0120
+Citral 0.750 3.000 ND ND Pine
+Fenchone 0.750 3.000 33.031 0033
+Limonene 0.750 3.000 1030.219 1030
+Linalool 0.750 3.000 790.786 0791 8
+Ocimene 0.750 3.000 2370.399 2370 EH Earthy
+Terpinolene 0.750 3.000 36.844 0.037
+a-Bisabolol 0.750 3,000 334966 oa3z
+a-Humulene 0750 3.000 20592358 2092 ΕΕ
+a-Pinens 0.750 3000 Β34879 osay WN ee
+a-Terpirene 0.750 3.000 <LOQ <oq Te
+1,8-Cinecle 0.750 3000 44.483 0044
+B-Caryaphyllene 0.750 3.000 7543.158 7543 I
+Borreol 0.750 3000 310637 311
+Camphene 0.750 3000 278404 02718
+Caryophyllens Oxide 3.000 3.000 Σ2000 20003 3
+Dihydrocarveol 0.750 3.000 ND ND 1
+Ferchone 0750 3000 82510 0083 SAY
+y-Terpinene 0.750 3000 20070 0020 Ne 7
+Limonene 0750 3000 6902460 A903 EE we
+Linalool 0.750 3,000 5800172 5500 - ΝΚ-φ9-Κκ-κκ- Π
+Menthol 0.750 3.000 ND ND pe
+Neraolidol 0.750 3.000 ND ND EE,
+Terpinolene 0.750 3.000 155816 0156
+A-9-Tetrahydrocannabinol A-9 THC 0.0474 0.0711 0.139 1.393
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0474 00711 22733 207327 rms
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0284 0.0711 <LOQ <LOQ
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0474 0.0711 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0474 0.0711 ND ND
+Cannabidiolic Acid CBDA 0.0284 0.0711 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0474 0.0711 1.125 11.251
+Cannabichromenic Acid CBCA 0.0474 0.0711 0.111 1.109
+a-Bisabolol 0.750 3.000 834.345 083s 0
+a-Humulene 0.750 3.000 2718.151 2718 ΕΠ
+a-Pinene 0.750 3.000 504.811 0505 I
+a-Terpinene 0.750 3.000 283.584 0284 Herbal
+1,8-Cineole 0.750 3.000 65.077 0.065
+B-Caryophyllene 0.750 3.000 9781.711 9.782 ND
+B-Myrcene 0.750 3.000 1848.766 1849 ΕΕ
+Borneol 0.750 3.000 142.996 0.143
+Camphene 0.750 3.000 62.868 0063
+Fenchone 0.750 3.000 29.688 0030
+y-Terpinene 0.750 3.000 215.571 0216
+Limonene 0.750 3.000 1344762 1345
+Linalool 0.750 3.000 1971.625 1972 EH
+Terpinolene 0.750 3.000 9506.812 9.507 27
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.125 1.250
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 20.596 205960 Smo
+9S-Hexahydrocannabinol 905-ΗΗΟ 0.0500 0.0750 ND ND
+Cannabidiolic Acid CBDA 0.0240 0.0750 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0500 0.0750 1.065 10.650
+Cannabichromenic Acid CBCA 0.0500 0.0750 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 250.461 0250 7
+a-Humulene 0.750 3.000 820.327 082 I
+a-Pinene 0.750 3.000 1074.846 1.075 -
+a-Terpinene 0.750 3.000 504.350 0.504
+1,8-Cineole 0.750 3000 116959  Ο 117 Lavender
+B-Caryophyllene 0.750 3.000 2533.847 2534 4 4
+B-Myrcene 0750 3.000 2284.748 2285 re
+Borneol 0.750 3.000 228.394 0228 RA
+Camphene 0.750 3.000 121.200 0121 ii
+Fenchone 0.750 3.000 73.428 0073
+y-Terpinene 0.750 3.000 392.907 0393
+Limonene 0.750 3.000 2383.990 2384 W
+Linalool 0.750 3.000 3081.750 3082 ΚΕ
+Terpinolene 0.750 3.000 15551.264 15551 EEN
+A-9-Tetrahydrocannabinol A-9 THC 0.0467 0.0701 0.130 1.299
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0467 00701 2167 214673 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0467 0.0701 0.223 2234
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0467 0.0701 ND ND
+9S-Hexahydrocannabinol 905-ΗΗΟ 0.0467 0.0701 ND ND
+Cannabidiolic Acid CBDA 0.0299 0.0701 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0467 0.0701 1214 12.140
+Cannabichromenic Acid CBCA 0.0467 0.0701 0.073 0.729
+a-Humulene 0.750 3.000 2386.165 2386 Επ
+a-Pinene 0.750 3.000 2122122 2.322 ---
+B-Caryophyllene 0.750 3.000 7173.671 7.174 AN
+B-Myrcene 0.750 3.000 10843.228 10.843 ES
+Borneol 0.750 3.000 81.515 0082
+Camphene 0.750 3.000 94.507 0095
+Fenchone 0.750 3.000 34.739 0035
+Limonene 0.750 3.000 1026.678 1027
+Linalool 0.750 3.000 1880.073 1880 ΚΕ
+Ocimene 0.750 3.000 ND ND Pine
+Terpinolene 0.750 3.000 27.027 0027
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.218 2.178
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 24.644 246436 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0495 0.0743 0.128 1.277
+Cannabigerolic Acid CBGA 0.0495 0.0743 1844 18.436 a
+Cannabichromenic Acid CBCA 0.0495 0.0743 0.206 2059 Ι
+a-Bisabolol 0750 3.000 290.336 0290 Lhd
+a-Humulene 0750 3000 25893260 25853 NE Π
+a-Pinene 0.750 3.000 861.469 0.861 -
+1,8-Cineole 0750 3000 21.630 0022 Cinnamon
+B-Caryophyllene 0.750 3.000 6820.097 6820 Nm
+Borneol 0.750 3.000 235.813 0236
+Camphene 0.750 3.000 297.856 0298
+Fenchone 0.750 3.000 134.231 0.134
+Limonene 0.750 3.000 5859.370 5.859 EN
+Linalool 0.750 3.000 8285.664 8286 ΠΠ
+Terpinolene 0.750 3.000 104.896 0.105
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.091 0.909
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 23.903 239030 EES
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0354 0.0758 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0505 0.0758 1417 14.172
+Cannabichromenic Acid CBCA 0.0505 0.0758 0.113 1.131
+a-Bisabolol 0.750 3.000 321.833 0322 Lhd
+a-Humulene 0750 3000 2165505 2166 Π
+a-Pinene 0.750 3.000 1455.705 1456
+B-Caryophyllene 0.750 3.000 6185.131 6.185 EN
+Borneol 0.750 3.000 503.098 0503
+Camphene 0.750 3.000 502.470 0502
+Fenchone 0.750 3.000 149.184 0.149
+y-Terpinene 0.750 3.000 22.541 0023
+Limonene 0.750 3.000 11937.938 11938 EN
+Linalool 0.750 3.000 13358.622 13.359
+Terpinolene 0.750 3.000 385.604 0386
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0463 0.0694 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0463 0.0694 0.238 2.380
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0463 00694 22755 207546 Soro
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0463 0.0694 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0463 0.0694 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0463 0.0694 0.124 1241 Ι
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0463 0.0694 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0463 0.0694 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0463 0.0694 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0463 0.0694 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0463 0.0694 ND ND
+Cannabidivarinic Acid CBDVA 0.0463 0.0694 ND ND
+Cannabidiolic Acid CBDA 0.0278 0.0694 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0463 0.0694 1.192 11917 ι
+Cannabinolic Acid CBNA 0.0463 0.0694 ND ND
+Cannabichromenic Acid CBCA 0.0463 0.0694 0.074 0.741
+a-Bisabolol 0.750 3.000 387.440 0.387
+a-Humulene 0.750 3.000 1427.178 1427 W
+a-Pinene 0.750 3.000 5119.855 5.120
+a-Terpinene 0.750 3.000 23.967 0.024
+1,8-Cineole 0.750 3000 62712 Ο063 Lavender
+B-Caryophyllene 0.750 3.000 5755.304 5.755 ----- 4 4
+B-Myrcene 0750 3.000 790.554 0791 re
+Borneol 0.750 3.000 360.247 0360 RA
+Camphene 0.750 3.000 434.724 0435 ii
+Fenchone 0.750 3.000 161.969 0.162
+y-Terpinene 0.750 3.000 29.205 0029
+Limonene 0.750 3.000 10434.707 10435 ΠΠ
+Linalool 0.750 3.000 7395.728 7.396
+Ocimene 0.750 3.000 3983.719 3084 EEN Pine
+Terpinolene 0.750 3.000 232.947 0233
+A-9-Tetrahydrocannabinol A-9 THC 0.0485 0.0728 0.243 2427
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0485 00728 24.240 242398 η
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0485 0.0728 0.148 1476
+Cannabidiolic Acid CBDA 0.0379 0.0728 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0485 0.0728 1411 14.107
+Cannabinolic Acid CBNA 0.0485 0.0728 ND ND
+Cannabichromenic Acid CBCA 0.0485 0.0728 0.383 3.825
+a-Bisabolol 0.750 3.000 523.056 0523
+a-Humulene 0.750 3.000 889.172 osgy
+a-Pinene 0.750 3.000 2492.158 2.492
+1,8-Cineole 0750 3000 <0Q  ΘΩ Lavender
+B-Caryophyllene 0.750 3.000 3104.675 3.105 aN 4 4
+B-Myrcene 0.750 3.000 2418.102 2418 EW wre
+Borneol 0.750 3.000 434.881 0435 RS
+Camphene 0.750 3.000 494.579 0495 β ii
+Fenchone 0.750 3.000 304.785 0305
+Limonene 0.750 3.000 8495.105 8495 ΠΠ
+Linalool 0.750 3.000 4573.988 4574 EN
+Ocimene 0.750 3.000 507.198 os07 Pine
+Terpinolene 0.750 3.000 206.654 0207 I
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0426 0.0638 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0426 0.0638 0.139 1.387
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0426 00638 22136 221362 η
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0426 0.0638 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0426 0.0638 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0426 0.0638 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0426 0.0638 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0426 0.0638 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0426 0.0638 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0426 0.0638 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0426 0.0638 ND ND
+Cannabidivarinic Acid CBDVA 0.0426 0.0638 ND ND
+Cannabidiolic Acid CBDA 0.0289 0.0638 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0426 0.0638 0.727 7.268
+Cannabinolic Acid CBNA 0.0426 0.0638 ND ND
+Cannabichromenic Acid CBCA 0.0426 0.0638 0.170 1.702
+a-Bisabolol 0750 3000 389.619 ο3οο Lhd
+a-Humulene 0750 3000 714720 0715 MW Π
+a-Pinene 0.750 3.000 638.116 0638 MH
+B-Caryophyllene 0.750 3.000 2706.654 2707
+B-Myrcene 0.750 3.000 3388.481 3388 πα
+Borneol 0.750 3.000 209.814 0210 I
+Camphene 0.750 3.000 206.215 0206
+Fenchone 0.750 3.000 89.867 0090
+Limonene 0.750 3.000 4100.301 4100
+Linalool 0.750 3.000 4790.551 4791 IS
+Terpinolene 0.750 3.000 79.488 0.079
+A-9-Tetrahydrocannabinol A-9 THC 0.0472 0.0708 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0472 00708 21723 27226 Sm
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0472 0.0708 0.108 1.085
+Cannabigerolic Acid CBGA 0.0472 0.0708 1.753 17.528 a
+Cannabichromenic Acid CBCA 0.0472 0.0708 0.119 1.189
+a-Humulene 0.750 3.000 2593.575 2594 ΕΙΠΕ
+a-Pinene 0.750 3.000 2418.990 2419 ΕΙ
+B-Caryophyllene 0.750 3.000 7663.793 7.664 ND
+B-Myrcene 0.750 3.000 1637.491 1637 EH
+Borneol 0.750 3.000 302.246 0302 I
+Camphene 0.750 3.000 449.692 0450
+Fenchone 0.750 3.000 567.037 0567
+y-Terpinene 0.750 3.000 20.639 0021
+Limonene 0.750 3.000 6059.121 6059 πα
+Linalool 0.750 3.000 2517.674 2518 HE
+Ocimene 0.750 3.000 247.036 0247 Lavender
+Terpinolene 0.750 3.000 135.602 0.136 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0488 0.0732 0.279 2793
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0488 00732 23.246 232459  Srrommmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0488 0.0732 0.103 1.027
+9R-Hexahydrocannabinol 98-ΗΗ 0.0488 0.0732 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0488 0.0732 ND ND
+Cannabidiolic Acid CBDA 0.0283 0.0732 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0488 0.0732 1250 12.498 ι
+Cannabichromenic Acid CBCA 0.0488 0.0732 0.116 1.161
+a-Humulene 0.750 3.000 1250.108 1250
+a-Pinene 0.750 3.000 1177.159 1177 W
+a-Terpinene 0.750 3.000 ND ND Η
+1,8-Cineole 0750 3000 16.678 0017 Cinnamon
+B-Caryophyllene 0.750 3.000 4455.770 4456 EN
+B-Myrcene 0.750 3.000 8151.845 8.152 EEN
+Borneol 0.750 3.000 113.460 0113
+Camphene 0.750 3.000 101.203 0101
+Fenchone 0.750 3.000 48.201 0048 LSA
+Limonene 0.750 3.000 1050.859 1051 ae
+Linalool 0.750 3.000 1558.257 1558 EH
+Ocimene 0.750 3.000 1478.692 1479 ΕΕ Earthy
+Terpinolene 0.750 3.000 ND ND
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0508 0.0761 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0508 0.0761 0.139 1.391
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0508 00761 23.968 239685 ED
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0508 0.0761 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0508 0.0761 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0508 0.0761 0.126 1.259
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0508 0.0761 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0508 0.0761 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0508 0.0761 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0508 0.0761 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0508 0.0761 ND ND
+Cannabidivarinic Acid CBDVA 0.0508 0.0761 ND ND
+Cannabidiolic Acid CBDA 0.0234 0.0761 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0508 0.0761 0.712 7.117
+Cannabinolic Acid CBNA 0.0508 0.0761 ND ND
+Cannabichromenic Acid CBCA 0.0508 0.0761 0.157 1574 Ι
+a-Humulene 0.750 3.000 2004.116 2004 ΕΕ
+a-Pinene 0.750 3.000 1605.065 1605
+a-Terpinene 0.750 3.000 16.840 0017 σα
+B-Caryophyllene 0.750 3.000 5194.294 5.194 A
+B-Myrcene 0.750 3.000 8255.510 8256 NN
+Borneol 0.750 3.000 428.911 0429
+Camphene 0.750 3000 504.868 0505
+Fenchone 0.750 3.000 80.550 0081
+y-Terpinene 0.750 3.000 20.917 0021
+Limonene 0.750 3.000 12359.295 12.359 EEE
+Linalool 0.750 3.000 2930.813 2931 EH
+Terpinolene 0.750 3.000 250.585 0251 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0478 0.0718 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0478 00718 23282 2328213 8
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0478 0.0718 0.604 6.038
+Cannabidiolic Acid CBDA 0.0211 0.0718 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0478 0.0718 1.382 13.818
+Cannabinolic Acid CBNA 0.0478 0.0718 ND ND
+Cannabichromenic Acid CBCA 0.0478 0.0718 0.111 1.110
+a-Bisabolol 0.750 3.000 1844.466 1844
+a-Humulene 0.750 3.000 3938.851 3939 ΕΙ
+a-Pinene 0.750 3.000 468.443 0468
+B-Caryophyllene 0.750 3.000 12078.115 12078 ES
+B-Myrcene 0.750 3.000 8066.677 8067 EN
+Borneol 0.750 3.000 249.237 0249
+Camphene 0750 3000 164.232 0.164
+Fenchone 0.750 3.000 64.645 0065 LSA
+Limonene 0750 3000 4268.121 4268 EEE ae
+Linalool 0.750 3.000 4936.582 4937 EE
+Terpinolene 0.750 3.000 351.152 0351
+A-9-Tetrahydrocannabinol A-9 THC 0.0483 0.0725 0.229 2.290
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0483 00725 16.777 167768 Tomes
+Cannabidiolic Acid CBDA 0.0483 0.0725 ND ND
+Cannabigerolic Acid CBGA 0.0483 0.0725 1.908 19.082 itl
+Cannabichromenic Acid CBCA 0.0483 0.0725 0.131 1314
+a-Humulene 0.750 3.000 2756.207 2756 ΕΤ
+a-Pinene 0.750 3.000 707.946 0.708 -
+1,8-Cineole 0.750 3000 34877 ΟΟΠ5 Lavender
+B-Caryophyllene 0.750 3.000 10051.214 10051 4 4
+Borneol 0.750 3.000 139.971 0.140 RA
+Camphene 0.750 3.000 231.967 0232 ii
+Fenchone 0.750 3.000 77.710 0078
+Limonene 0.750 3.000 4961.235 4961 EN
+Linalool 0.750 3.000 8297.191 8297 ΠΠ
+Terpinolene 0.750 3.000 96.402 0.096
+A-9-Tetrahydrocannabinol A-9 THC 0.0488 0.0732 0.112 1.122 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0488 00732 22662 206624 Scr
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0488 0.0732 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0488 0.0732 ND ND
+Cannabigerolic Acid CBGA 0.0488 0.0732 0.427 4273
+Cannabichromenic Acid CBCA 0.0488 0.0732 0.148 1.483
+a-Humulene 0.750 3.000 1390.412 1390 ΕΤ
+a-Pinene 0.750 3.000 616.188 0.616
+B-Caryophyllene 0.750 3.000 5095.595 5096 . 4 4
+Borneol 0.750 3.000 129.885 0.130 RA
+Camphene 0.750 3.000 198.165 0198 ii
+Fenchone 0.750 3.000 61.484 0061
+Limonene 0.750 3.000 3623.971 3624 EN
+Linalool 0.750 3.000 4756.927 4757 ΠΠ
+Terpinolene 0.750 3.000 68.024 0.068
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.160 1.596 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 22229 222293 8
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0313 0.0758 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0313 0.0758 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0505 0.0758 1.184 11.838
+Cannabichromenic Acid CBCA 0.0505 0.0758 0.176 1.758
+a-Bisabolol 0.750 3.000 624.898 0625 I
+a-Humulene 0.750 3.000 3134.992 3135 ΕΠ
+a-Pinene 0.750 3.000 528.959 0.529 -
+1,8-Cineole 0750 3000 <0Q ΟΩ Lavender
+B-Caryophyllene 0.750 3.000 10950.510 10.951 ππ- 4 5
+B-Myrcene 0.750 3.000 4074.622 4075 EN wre
+Borneol 0.750 3.000 151.289 0.151 RA
+Camphene 0.750 3.000 142.133 0.142 ii
+Fenchone 0.750 3.000 110.419 0110
+Limonene 0.750 3.000 3864.292 3864 ΕΠ
+Linalool 0.750 3.000 4132.093 4132 EEE
+Ocimene 0.750 3.000 208.633 0209 Lime
+Terpinolene 0.750 3.000 151.784 0.152
+A-9-Tetrahydrocannabinol A-9 THC 0.0478 0.0718 ND ND
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0478 00718 17.367 ση
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0478 0.0718 0.752 7.522
+Cannabigerolic Acid CBGA 0.0478 0.0718 0.740 7.397
+Cannabichromenic Acid CBCA 0.0191 0.0718 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 459.137 0459 I
+a-Humulene 0.750 3.000 2810.752 2811 ΕΠ
+a-Pinene 0.750 3.000 751.244 0.751 -
+1,8-Cineole 0750 3000 21422 0021 Lavender
+B-Caryophyllene 0.750 3.000 9083.084  Π 4
+B-Myrcene 0.750 3.000 2371.260 2371 EH wre
+Borneol 0.750 3.000 260.787 0261 RA
+Camphene 0.750 3.000 184.882 0.185 ii
+Citral 0.750 3.000 <LoQ <LoQ Lime
+Fenchone 0.750 3.000 103.683 0.104
+Limonene 0.750 3.000 4668.410 4668 EN
+Linalool 0.750 3.000 5261.606 5262 EEN
+Ocimene 0.750 3.000 394.340 0394 Hops
+Terpinolene 0.750 3.000 90.511 0.091
+A-9-Tetrahydrocannabinol A-9 THC 0.0493 0.0739 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0493 00739 21847 218473 Sommers
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0493 0.0739 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0236 0.0739 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0493 0.0739 0.199 1.990
+a-Bisabolol 0.750 3.000 375.072 0375
+a-Humulene 0.750 3.000 1438.372 1438 EN
+a-Pinene 0.750 3.000 304.536 0.305 -
+B-Caryophyllene 0.750 3.000 2898.582 2.899 NN
+B-Myrcene 0.750 3.000 4429573 4430 ΠΠ
+Borneol 0.750 3.000 238.275 0238 I
+Camphene 0.750 3.000 100.978 0.101
+Fenchone 0.750 3.000 23.916 0024
+Limonene 0.750 3.000 2625.181 2625 EN
+Linalool 0.750 3.000 56.595 0057
+Terpinolene 0.750 3.000 57.060 0.057
+A-9-Tetrahydrocannabinol A-9 THC 0.0513 0.0769 0.124 1241 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0513 00769 25044 250441 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0513 0.0769 0.132 1.323
+Cannabidiolic Acid CBDA 0.0297 0.0769 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0513 0.0769 0.632 6.318
+Cannabichromenic Acid CBCA 0.0513 0.0769 0.107 1.067
+a-Humulene 0.750 3.000 1573.118 1573 8
+a-Pinene 0.750 3000 1327 946 13248 W π
+a-Terpinene 0.750 3.000 <LOQ <oq .
+B-Caryophyllene 0.750 3,000 7130022 7430
+B-Myrcene 0.750 3.000 1579215 1579 WN
+Borreol 0750 3090 241725 0242
+Camphene 0.750 3000 439.845 0440
+Dihydrocarveol 0.750 3.000 ND ND η
+Ferchone 0.750 3.000 76.357 0076 SAY
+Limonene 0750 3000 10140534 10141 IEEE we
+Linalool 0.750 3.000 S047.404 5047 EN J
+Menthol 0.750 3.000 ND ND ..
+Nerolidol 0.750 3.000 ND ND ..------
+Ocimene 0.750 3000 ND ND Clove
+Terpinolene 0.750 3.000 223540 0224
+A-9-Tetrahydrocannabinol A-9 THC 0.0481 0.0721 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0481 00721 23575 235750  Srrommmmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0481 0.0721 0.101 1.010
+Cannabidiolic Acid CBDA 0.0192 0.0721 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0481 0.0721 0477 4769
+Cannabinolic Acid CBNA 0.0192 0.0721 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0481 0.0721 0.210 2096 Ι
+a-Bisabolol 0.750 3.000 404.720 0405
+a-Humulene 0.750 3.000 2163.961 2464 EN
+a-Pinene 0.750 3.000 405.615 0406
+B-Caryophyllene 0.750 3.000 5566.918 5567 ND
+B-Myrcene 0.750 3.000 2622.886 2623 EEN
+Borneol 0.750 3.000 104.967 0.105
+Camphene 0.750 3.000 136.172 0.136
+Fenchone 0.750 3.000 36.067 0036
+Limonene 0.750 3.000 2659.079 2659 EN
+Linalool 0750 3000 513.204 0513
+Ocimene 0.750 3.000 1109.378 1.109 Επ Hops
+Terpinolene 0.750 3.000 50.432 0.050
+A-9-Tetrahydrocannabinol A-9 THC 0.0483 0.0725 0.254 2541 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0483 00725 24.910 249101 Semmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0483 0.0725 0.129 1.285
+Cannabidiolic Acid CBDA 0.0193 0.0725 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0483 0.0725 1.935 19.353 a
+Cannabichromenic Acid CBCA 0.0483 0.0725 0.230 2.300
+a-Bisabolol 0.750 3.000 123.543 0.124
+a-Humulene 0.750 3.000 1506.508 1507 ΕΕ
+a-Pinene 0.750 3.000 200.018 0200
+1,8-Cineole 0750 3000 29 562 οο3ο Cinnamon
+B-Caryophyllene 0.750 3.000 4553.528 4554 EN
+B-Myrcene 0.750 3.000 8290.619 8291 ΠΠ
+Borneol 0.750 3.000 44.750 0045
+Camphene 0.750 3.000 63.727 0064
+Fenchone 0.750 3.000 47.129 0047
+Limonene 0.750 3.000 1159091 1159 W
+Linalool 0.750 3.000 1585.715 1586 ΕΕ
+Ocimene 0.750 3.000 1848.539 1849 EH Lavender
+Terpinolene 0.750 3.000 25.623 0026 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.225 2.250
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 19.345 193450 orm
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0500 0.0750 0.078 0.780
+Cannabigerolic Acid CBGA 0.0500 0.0750 0.247 2470
+a-Humulene 0.750 3.000 931.826 0932 WH
+a-Pinene 0.750 3.000 385.168 0.385 -
+1,8-Cineole 0750 3000 44655 Ψ ΟΟ45 Lavender
+B-Caryophyllene 0.750 3.000 3380.560 3.381 R34 7
+B-Myrcene 0.750 3.000 5073.782 5074 ΠΠ 234
+Borneol 0.750 3.000 122.482 0122 RS
+Camphene 0.750 3.000 124.279 0124 ii
+Fenchone 0.750 3.000 38.065 0038
+Limonene 0.750 3.000 2881.608 2882 EEN
+Linalool 0.750 3.000 4618.397 4618
+Terpinolene 0.750 3.000 64.260 0064
+A-9-Tetrahydrocannabinol A-9 THC 0.0508 0.0761 0.279 2.792 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0508 00761 23291 232914 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0508 0.0761 0.167 1.665
+9R-Hexahydrocannabinol 98-ΗΗ 0.0508 0.0761 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0508 0.0761 ND ND
+Cannabidiolic Acid CBDA 0.0305 0.0761 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0508 0.0761 1.922 19218 Ι
+Cannabichromenic Acid CBCA 0.0508 0.0761 0.363 3.635
+a-Humulene 0.750 3.000 1805.030 1805 ΕΠ
+a-Pinene 0.750 3.000 1866.458 1.866
+1,8-Cineole 0.750 3000 53281 ΟΟ53 Lavender
+B-Caryophyllene 0.750 3.000 5794.202 5794 ID 4 4
+Borneol 0.750 3.000 237.150 0237 I RA
+Camphene 0.750 3.000 297.676 0298 ii
+Fenchone 0.750 3.000 117.281 0117
+y-Terpinene 0.750 3.000 23.153 0023
+Limonene 0.750 3.000 3521.071 3521 EN
+Linalool 0.750 3.000 3914.993 3915 I.
+Ocimene 0.750 3.000 518.361 0518 Pine
+Terpinolene 0.750 3.000 59.739 0.060
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.170 1.704
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 24.796 247959 Smee
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0510 0.0765 0.161 1.612 Ι
+Cannabidiolic Acid CBDA 0.0265 0.0765 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0510 0.0765 0.991 9.908
+Cannabinolic Acid CBNA 0.0265 0.0765 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0510 0.0765 0.215 2.153 Ι
+a-Humulene 0.750 3.000 7103.759 7.104 EN
+a-Pinene 0.750 3.000 912.593 0913 1
+B-Caryophyllene 0.750 3.000 14403.546 14404 ES
+B-Myrcene 0.750 3.000 206.716 0.207
+Borneol 0.750 3.000 202.501 0203
+Camphene 0.750 3.000 284.024 0284
+Fenchone 0.750 3.000 62.099 0062
+Limonene 0.750 3.000 5639.529 5.640 ΕΠΗ
+Linalool 0.750 3.000 115.145 0.115
+Terpinolene 0.750 3.000 133.940 0.134
+A-8-Tetrahydrocannabinol A-8 THC 0.0500 0.0750 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.177 1.770 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 0.0750 22517 2254110 ED
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0500 0.0750 <LOQ <LOQ Ι
+R-A-10-Tetrahydrocannabinol β-∆-10-ΤΗΟ 0.0500 0.0750 ND ND
+9R-Hexahydrocannabinol FR-HHC 0.0500 0.0750 ND ND
+9S-Hexahydrocannabinol 95-HHC 0.0500 0.0750 ND ND
+Tetrahydrocannabinol Acetate THCO 0.0500 0.0750 ND ND
+Cannabidiolic Acid CBDA 0.0270 0.0750 <LOQ το Ι
+Cannabigerolic Acid CBGA 0.0500 0.0750 1128 11.280 i
+Cannabichromenic Acid CBCA 0.0270 0.0750 <L0Q <LOQ Ι
+a-Bisabolol 0.750 3.000 569.109 0569 I
+a-Humulene 0.750 3.000 3362.253 3362 ΕΙΠΕ
+a-Pinene 0.750 3.000 804.077 oso4
+B-Caryophyllene 0.750 3.000 9986.502 9.987 NS
+B-Myrcene 0.750 3.000 6794.203 6794 EN
+Borneol 0.750 3.000 164.685 0.165
+Camphene 0750 3000 249.431 0249 I
+Fenchone 0.750 3.000 57.074 0057
+Limonene 0.750 3.000 6768.156 6768 EN
+Linalool 0.750 3.000 2206.733 2207 ΕΕ
+Terpinolene 0.750 3.000 130.928 0.131
+a-Bisabolol 0.750 3.000 347.117 0347
+a-Humulene 0.750 3.000 3708.665 3709 EN
+a-Pinene 0.750 3.000 1312.877 1313
+1,8-Cineole 0750 3000 26.780 0027 P
+B-Caryophyllene 0.750 3.000 11641.883 11.642 ΠΠ
+Borneol 0.750 3.000 181.595 0.182
+Camphene 0.750 3.000 206.571 0207
+Fenchone 0.750 3.000 102.868 0.103
+Limonene 0.750 3.000 3225.176 322s ΕΕ
+Linalool 0.750 3.000 2686.786 2687 EH
+Ocimene 0.750 3.000 1271.056 1271 Lavender
+Terpinolene 0.750 3.000 66.432 0.066 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0495 0.0743 0.209 2.089
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 18027 180267 orm
+Cannabigerolic Acid CBGA 0.0495 0.0743 0.214 2.139 Ι
+Cannabichromenic Acid CBCA 0.0495 0.0743 <LOQ <LOQ
+A-9-Tetrahydrocannabinol A-9 THC 0.0474 0.0711 0.229 2.294
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0474 00711 21517 215166 Somme
+Cannabidiolic Acid CBDA 0.0360 0.0711 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0474 0.0711 0.671 6.711
+Cannabichromenic Acid CBCA 0.0474 0.0711 0.131 1.308
+a-Humulene 0.750 3.000 4485.195 4485 ΙΙ
+a-Pinene 0.750 3.000 1535.738 1536
+a-Terpinene 0.750 3.000 <LOQ <Loq iia
+B-Caryophyllene 0.750 3.000 14767.424 14.767 NS
+B-Myrcene 0.750 3.000 1788.027 1788
+Borneol 0.750 3.000 372.443 0372
+Camphene 0.750 3.000 348.377 0.348
+Fenchone 0.750 3.000 274.341 0274 LSA
+Limonene 0750 3000 7389.694 7390 EEE ae
+Linalool 0.750 3.000 6927.949 6928 EN
+Ocimene 0.750 3.000 347.141 0.347 Hops
+Terpinolene 0.750 3.000 127.229 0.127
+a-Humulene 0.750 3.000 3542011 3542 ΕΙ
+a-Pinene 0.750 3.000 934.326 0.934 -
+1,8-Cineole 0.750 3000 32214 ΟΩ32 Lavender
+B-Caryophyllene 0.750 3.000 12545.477 12545 4 4
+B-Myrcene 0750 3.000 412.209 0412 re
+Borneol 0.750 3.000 189.039 0.189 RA
+Camphene 0.750 3.000 293.827 0294 I ii
+Fenchone 0.750 3.000 91.413 0091
+Limonene 0.750 3.000 6439.423 6439 EN
+Linalool 0.750 3.000 10063.509 10064 EN
+Terpinolene 0.750 3.000 126.833 0.127
+A-9-Tetrahydrocannabinol A-9 THC 0.0490 0.0735 0.193 1.931
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0490 00735 22115 21147 Semmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0275 0.0735 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0275 0.0735 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0490 0.0735 1.303 13.029
+Cannabichromenic Acid CBCA 0.0490 0.0735 <LOQ <LOQ
+A-9-Tetrahydrocannabinol A-9 THC 0.0474 0.0711 ND ND
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0474 00711 16.888 η...
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0474 0.0711 0.803 8.028
+Cannabidiolic Acid CBDA 0.0474 0.0711 ND ND
+Cannabigerolic Acid CBGA 0.0474 0.0711 0.912 9.118
+Cannabichromenic Acid CBCA 0.0370 0.0711 <LOQ <LOQ
+a-Humulene 0.750 3.000 4710565 4711 ΕΞ
+a-Pinene 0.750 3.000 1067.590 1.068 -
+1,8-Cineole 0.750 3000 494162 Ο049 Lavender
+B-Caryophyllene 0.750 3.000 12046.714 12047 ES 4 5
+B-Myrcene 0750 3.000 646.798 0647 1 re
+Borneol 0.750 3.000 333.996 0334 we
+Camphene 0.750 3.000 246.677 0247 ii
+Fenchone 0.750 3.000 256.297 0.256
+Limonene 0.750 3.000 7289.169 7289 EEN
+Linalool 0.750 3.000 11593.207 11593 πα
+Ocimene 0.750 3.000 1480.719 1481 Hops
+Terpinolene 0.750 3.000 149.490 0.149
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0524 0.0785 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0524 0.0785 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0524 00785 22078 200775 Somme
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0524 0.0785 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0524 0.0785 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0293 0.0785 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0524 0.0785 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0524 0.0785 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0524 0.0785 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0524 0.0785 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0524 0.0785 ND ND
+Cannabidivarinic Acid CBDVA 0.0524 0.0785 ND ND
+Cannabidiolic Acid CBDA 0.0524 0.0785 ND ND
+Cannabigerolic Acid CBGA 0.0524 0.0785 1.223 12.230
+Cannabinolic Acid CBNA 0.0524 0.0785 ND ND
+Cannabichromenic Acid CBCA 0.0524 0.0785 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 414.618 0415
+a-Humulene 0.750 3.000 3380.129 3380 ΕΤ
+a-Pinene 0.750 3.000 3334.729 3.335
+a-Terpinene 0.750 3.000 17.228 0.017
+1,8-Cineole 0.750 3000 22902 Ο023 Lavender
+B-Caryophyllene 0.750 3.000 9836.416 9.836 NN 4 5
+Borneol 0.750 3.000 473.300 0473 I RS
+Camphene 0.750 3.000 527.357 0527 ii
+Fenchone 0.750 3.000 93.333 0093
+y-Terpinene 0.750 3.000 24.935 0025
+Limonene 0.750 3.000 11681.218 11681 ΠΟ
+Linalool 0.750 3.000 10109.632 10.110 πα
+Ocimene 0.750 3.000 1897.769 1898 WH Hops
+Terpinolene 0.750 3.000 515.890 0516
+A-9-Tetrahydrocannabinol A-9 THC 0.0472 0.0708 0.266 2.660
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0472 00708 22135 221349 Semmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0264 0.0708 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0264 0.0708 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0472 0.0708 0.771 7.708
+Cannabinolic Acid CBNA 0.0264 0.0708 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0472 0.0708 0.123 1.226
+a-Humulene 0750 3000 1189.590 1190 8 Π
+a-Pinene 0.750 3.000 1485.684 1486
+a-Terpinene 0.750 3.000 15.098 0015 iia
+B-Caryophyllene 0.750 3.000 4840.783 4841
+B-Myrcene 0.750 3.000 2168.693 2169 W
+Borneol 0.750 3.000 377.452 0.377
+Camphene 0.750 3.000 489.607 0490
+Fenchone 0.750 3.000 86.523 0087
+y-Terpinene 0.750 3.000 ND ND
+Limonene 0.750 3.000 10428.121 10428 EN
+Linalool 0.750 3.000 17734.821 17.735 ΠΠ
+Terpinolene 0.750 3.000 206.893 0207
+A-9-Tetrahydrocannabinol A-9 THC 0.0450 0.0676 0.096 0.955
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0450 00676 19.154 πΧ...
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0450 0.0676 ND ND
+Cannabidiolic Acid CBDA 0.0225 0.0676 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0450 0.0676 0.415 ∆.153 Ι
+Cannabichromenic Acid CBCA 0.0450 0.0676 0.144 1441
+a-Humulene 0.750 3.000 2069.364 2069 ΕΤΕ
+a-Pinene 0.750 3.000 190.800 0191
+a-Terpinene 0.750 3.000 23.090 0023 Clove
+1,8-Cineole 0.750 3.000 247.612 0248
+B-Caryophyllene 0.750 3.000 7646.955 7.647 ΠΠ
+B-Myrcene 0.750 3.000 2091.231 2091 WN
+Borneol 0.750 3.000 51.517 0052
+Camphene 0.750 3.000 51.418 0051
+Fenchone 0.750 3.000 27.203 0027
+y-Terpinene 0.750 3.000 33.452 0033
+Limonene 0.750 3.000 1032.401 1032
+Linalool 0.750 3.000 1108.295 1108 W
+Terpinolene 0.750 3.000 ND ND 51
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0521 0.0781 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0521 0.0781 0.118 1177
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0521 00781 21712 217125 Smee
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0521 0.0781 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0521 0.0781 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0521 0.0781 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0521 0.0781 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0521 0.0781 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0521 0.0781 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0521 0.0781 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0521 0.0781 ND ND
+Cannabidivarinic Acid CBDVA 0.0521 0.0781 ND ND
+Cannabidiolic Acid CBDA 0.0208 0.0781 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0521 0.0781 1536 15.365
+Cannabinolic Acid CBNA 0.0521 0.0781 ND ND
+Cannabichromenic Acid CBCA 0.0208 0.0781 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 321.850 0322
+a-Humulene 0.750 3.000 4120614 4121 ΕΞ
+a-Pinene 0.750 3.000 3732.675 3733 EH
+1,8-Cineole 0.750 3.000 27.970 0028
+B-Caryophyllene 0.750 3.000 13952.709 13.953
+Borneol 0.750 3.000 303.229 0.303
+Camphene 0.750 3.000 381.906 0382
+Fenchone 0.750 3.000 107.497 0.107 LSA
+y-Terpinene 0.750 3.000 17.665 0018 vere
+Limonene 0750 3000 7103415 7103 EEN ae
+Linalool 0.750 3.000 4238.193 4233 ΤΠΕ
+Ocimene 0.750 3.000 1818.229 1818 Hops
+Terpinolene 0.750 3.000 136.704 0.137
+A-9-Tetrahydrocannabinol A-9 THC 0.0474 0.0711 0.112 1.118 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0474 00711 23.674 236739 Sree
+Cannabidiolic Acid CBDA 0.0265 0.0711 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0474 0.0711 1.308 13.081
+Cannabichromenic Acid CBCA 0.0474 0.0711 0.123 1.232
+a-Bisabolol 0.750 3.000 1410.495 1410 A
+a-Humulene 0.750 3.000 7131.420 7431
+a-Pinene 0.750 3.000 289.132 0289
+a-Terpinene 0.750 3.000 17.539 0018 Clove
+1,8-Cineole 0.750 3.000 20.433 0020
+B-Caryophyllene 0.750 3.000 15176.601 15177 ππ-
+B-Myrcene 0.750 3.000 8691.254 8.691 EN
+Borneol 0.750 3.000 187.211 0.187
+Camphene 0.750 3.000 100.489 0.100
+Fenchone 0.750 3.000 36.282 0036
+y-Terpinene 0.750 3.000 18.495 0018
+Limonene 0.750 3.000 2887.157 2887 ΚΕ
+Linalool 0.750 3.000 1873.387 1873
+Terpinolene 0.750 3.000 545.621 0546
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.086 0.864
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 22625 206251  Scrmmmmmmmes
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0503 0.0754 0.098 0.975
+Cannabidiolic Acid CBDA 0.0271 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.529 5.286
+Cannabichromenic Acid CBCA 0.0271 0.0754 <LOQ <LOQ
+a-Humulene 0.750 3.000 2708.783 2709 ΕΕ
+a-Pinene 0.750 3.000 1076.050 1076
+1,8-Cineole 0.750 3.000 15.474 0015
+B-Caryophyllene 0.750 3.000 9453218 9453
+B-Myrcene 0.750 3.000 5978.780 5979 EN
+Borneol 0.750 3.000 316.099 0316
+Camphene 0.750 3.000 359.726 0360
+Fenchone 0.750 3.000 35.313 0035
+y-Terpinene 0.750 3.000 18.607 0019
+Limonene 0.750 3.000 7398.731 7.399 EN
+Linalool 0.750 3.000 5160.820 5.161 EN
+Terpinolene 0.750 3.000 145.325 0.145 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0488 0.0732 0.224 2244
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0488 00732 17.602 πυρ πρ
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0488 0.0732 0.099 0.985
+Cannabidiolic Acid CBDA 0.0234 0.0732 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0488 0.0732 0.623 6.234
+Cannabichromenic Acid CBCA 0.0488 0.0732 <LOQ <LOQ
+a-Humulene 0.750 3.000 3002.696 3003 EEE
+a-Pinene 0.750 3.000 317.853 0.318
+1,8-Cineole 0750 3000 41488  Ο041 Lavender
+B-Caryophyllene 0.750 3.000 9305.929 9.306 ΠΩ R34 7
+Borneol 0.750 3.000 99.739 0.100 RS
+Camphene 0.750 3.000 104.525 0.105 ii
+Fenchone 0.750 3.000 36.596 0037
+Limonene 0.750 3.000 1654.985 1655 Επ
+Linalool 0.750 3.000 5807.961 5.808 EN
+Terpinolene 0.750 3.000 35.328 0035
+A-9-Tetrahydrocannabinol A-9 THC 0.0513 0.0769 0.293 2.928 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0513 00769 26.514 265138 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0513 0.0769 0.322 3221
+Cannabidiolic Acid CBDA 0.0513 0.0769 ND ND
+Cannabigerolic Acid CBGA 0.0513 0.0769 0.696 6.964
+Cannabinolic Acid CBNA 0.0513 0.0769 0.137 1.374
+Cannabichromenic Acid CBCA 0.0256 0.0769 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 1011.717 1012 β
+a-Humulene 0.750 3.000 5721.955 5722 EN
+a-Pinene 0.750 3.000 2452.778 2453
+a-Terpinene 0.750 3.000 21.570 0022 iia
+1,8-Cineole 0.750 3.000 28.837 0029
+B-Caryophyllene 0.750 3.000 17652.054 17.652
+B-Myrcene 0.750 3.000 6589.563 6590 EN
+Borneol 0.750 3.000 423.821 0424
+Camphene 0.750 3.000 424.084 0424
+Fenchone 0.750 3.000 159.005 0.159
+y-Terpinene 0.750 3.000 28.595 0029
+Limonene 0.750 3.000 8503.614 8504 Επ
+Linalool 0.750 3.000 4950.788 4951 ΕΠΕ
+Ocimene 0.750 3.000 1574.503 1575 Hops
+Terpinolene 0.750 3.000 193.360 0.193
+A-9-Tetrahydrocannabinol A-9 THC 0.0481 0.0721 0.271 2712
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0481 00721 23.336 23335 ES
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0481 0.0721 0.126 1.260
+Cannabidiolic Acid CBDA 0.0240 0.0721 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0481 0.0721 1.606 16.058
+Cannabichromenic Acid CBCA 0.0481 0.0721 0.241 2413
+a-Bisabolol 0.750 3.000 486.142 0486 I
+a-Humulene 0.750 3.000 2881.864 2882 ΕΙΠΕ
+a-Pinene 0.750 3.000 658.668 0.659 -
+B-Caryophyllene 0.750 3.000 8617.402 8617 ND 4 4
+Borneol 0.750 3.000 155.186 0.155 RA
+Camphene 0.750 3.000 236.409 0236 ii
+Fenchone 0.750 3.000 45.906 0046
+y-Terpinene 0.750 3.000 <LoQ <LoqQ
+Limonene 0.750 3.000 3297.503 3298 EE
+Linalool 0.750 3.000 4752.338 4752 EN
+Terpinolene 0.750 3.000 54.437 0.054
+A-9-Tetrahydrocannabinol A-9 THC 0.0505 0.0758 0.167 1.667
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0505 00758 20.326 203263 8
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0283 0.0758 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0283 0.0758 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0505 0.0758 0.851 8.505
+a-Humulene 0.750 3000 3290953 3291 EEN l
+a-Pinens 0.750 3.000 532189 0.532 I
+a-Terpirene 0.750 3.000 <LOQ <woq Ι ρε
+1,8-Cinecle 0.750 3000 <LOQ ειΟΩ
+B-Caryophyllene 0.750 3.000 7844574 75845 ΙΙΙ
+Borreol 0.750 3.000 80.923 0081
+Camphene 0.750 3000 164.316 0166
+Ferchone 0750 300 51782  ΩΩΞ2 SAY
+y-Terpinene 0.750 3000 <LOQ <L0q τν
+Linalool 0.750 3.000 3524162 3524 EEN Π
+Nerolidol 0.750 3.000 ND ND l
+Ocimene 0.750 3.000 114.008 0114 Hops
+Pulegone 0.750 3000 ND ND
+Terpinolene 0.750 3.000 171828 0172
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0442 0.0664 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0442 0.0664 0.271 2.708
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0442 00664 19.503 195027 ome
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0442 0.0664 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0442 0.0664 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0442 0.0664 0.105 1.053
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0442 0.0664 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0442 0.0664 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0442 0.0664 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0442 0.0664 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0442 0.0664 ND ND
+Cannabidivarinic Acid CBDVA 0.0442 0.0664 ND ND
+Cannabidiolic Acid CBDA 0.0230 0.0664 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0442 0.0664 1.386 13.858
+Cannabinolic Acid CBNA 0.0442 0.0664 ND ND
+Cannabichromenic Acid CBCA 0.0442 0.0664 0.117 1.168
+a-Bisabolol 0.750 3.000 562.641 0563
+a-Humulene 0.750 3.000 1839.429 1839 ΕΠ
+a-Pinene 0.750 3.000 1149.639 1.150 ΕΠ
+B-Caryophyllene 0.750 3.000 5686.479 5.686 ND
+B-Myrcene 0.750 3.000 571.509 0572
+Borneol 0.750 3.000 143.332 0.143
+Camphene 0.750 3.000 198.651 0199
+Fenchone 0.750 3.000 104.228 0.104 LSA
+Limonene 0750 3000 ∆247 594 .. ae
+Linalool 0.750 3.000 2952.812 2953 EN
+Ocimene 0.750 3.000 1487.206 1487 EH Hops
+Terpinolene 0.750 3.000 95.316 0095
+A-9-Tetrahydrocannabinol A-9 THC 0.0467 0.0701 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0467 00701 20049 .ξ.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0467 0.0701 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0467 0.0701 ND ND
+Cannabidiolic Acid CBDA 0.0467 0.0701 ND ND
+Cannabigerolic Acid CBGA 0.0467 0.0701 0.879 8.785
+Cannabichromenic Acid CBCA 0.0467 0.0701 0.071 0.710
+a-Humulene 0.750 3.000 6054.718 6.055 EN
+a-Pinene 0.750 3.000 346.616 0.347
+B-Caryophyllene 0.750 3.000 12482.950 12483 IS
+B-Myrcene 0.750 3.000 3752.257 3752 ΕΠ
+Borneol 0.750 3.000 116.227 0.116
+Camphene 0.750 3.000 117.311 0117
+Fenchone 0.750 3.000 78.847 0079
+Limonene 0.750 3.000 1873.234 1873
+Linalool 0.750 3.000 3749.306 3749 ΕΕ
+Terpinolene 0.750 3.000 113.453 0.113 ΓΙ WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0476 0.0714 0.277 2771
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0476 00714 23.580 235800 Soro
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0476 0.0714 0.130 1.295
+Cannabidiolic Acid CBDA 0.0229 0.0714 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0476 0.0714 1.255 12.552 ι
+Cannabichromenic Acid CBCA 0.0476 0.0714 0.219 2.190
+a-Bisabolol 0750 3000 750.161 0750 Lhd
+a-Humulene 0750 3000 1472078 1472 Π
+a-Pinene 0.750 3.000 758.467 0.758 -
+1,8-Cineole 0750 3000 17.393 0017 Cinnamon
+B-Caryophyllene 0.750 3.000 5080.462 5080 EN
+Borneol 0.750 3.000 199.721 0200
+Camphene 0.750 3.000 252.057 0252
+Fenchone 0.750 3.000 125.288 0125
+Limonene 0.750 3.000 4725.909 4726 EN
+Linalool 0.750 3.000 7804.659 7.805 IS
+Terpinolene 0.750 3.000 81.969 0082
+A-9-Tetrahydrocannabinol A-9 THC 0.0476 0.0714 0.175 1.752
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0476 00714 20866 ...,
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0286 0.0714 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0286 0.0714 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0476 0.0714 0.914 9.143
+Cannabichromenic Acid CBCA 0.0476 0.0714 0.166 1.657
+a-Bisabolol 0750 3000 1440.725 1441 ΕΕ Lhd
+a-Humulene 0750 3000 2214736 2215 ΙΕ Π
+a-Pinene 0.750 3.000 2866.873 2867 EN
+a-Terpinene 0.750 3.000 23.618 0024 iia
+1,8-Cineole 0.750 3.000 42.750 0043
+B-Caryophyllene 0.750 3.000 6499.479 6499
+Borneol 0.750 3.000 591.478 0591
+Camphene 0.750 3.000 520.955 0521 1
+Fenchone 0.750 3.000 108.289 0.108
+y-Terpinene 0.750 3.000 32.288 0032
+Limonene 0.750 3.000 7122.623 7123 ΕΒΕ
+Linalool 0.750 3.000 8126.117 8.126 INS
+Ocimene 0.750 3.000 2793.109 2793 EE Pine
+Terpinolene 0.750 3.000 158.787 0.159
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0518 0.0777 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0518 0.0777 0.225 2.249
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0518 00777 25.388 ΠΧ...
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0518 0.0777 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0518 0.0777 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0518 0.0777 0.162 1.617
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0518 0.0777 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0518 0.0777 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0518 0.0777 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0518 0.0777 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0518 0.0777 ND ND
+Cannabidivarinic Acid CBDVA 0.0518 0.0777 ND ND
+Cannabidiolic Acid CBDA 0.0290 0.0777 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0518 0.0777 0.665 6.653
+Cannabinolic Acid CBNA 0.0518 0.0777 ND ND
+Cannabichromenic Acid CBCA 0.0518 0.0777 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 528.636 0529
+a-Humulene 0.750 3.000 5625.678 5.626 EN
+a-Pinene 0.750 3.000 885.711 ogss
+a-Terpinene 0.750 3.000 15.640 0016 iia
+1,8-Cineole 0.750 3.000 18.271 0018
+B-Caryophyllene 0.750 3.000 10896.278 10.896 IS
+B-Myrcene 0.750 3.000 3754.599 3755 EN
+Borneol 0.750 3.000 231.034 0231
+Camphene 0.750 3.000 285.466 0285
+Fenchone 0.750 3.000 65.621 0066
+y-Terpinene 0.750 3.000 17.637 0018
+Limonene 0.750 3.000 5901.756 5902 Επ
+Linalool 0.750 3.000 4834.928 4835 EN
+Terpinolene 0.750 3.000 456.043 0456 27
+A-9-Tetrahydrocannabinol A-9 THC 0.0503 0.0754 0.166 1.658
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0503 00754 18754 σσ.ατ.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0503 0.0754 0.904 9.045
+Cannabidiolic Acid CBDA 0.0161 0.0754 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0503 0.0754 0.549 5.487
+Cannabichromenic Acid CBCA 0.0503 0.0754 0.226 2261
+a-Humulene 0.750 3.000 1705.140 1705 EN
+a-Pinene 0.750 3.000 234.615 0235
+B-Caryophyllene 0.750 3.000 5692.889 5693 IS
+B-Myrcene 0.750 3.000 1840.737 1841
+Borneol 0.750 3.000 62.941 0063
+Camphene 0750 3000 79.739 0080
+Fenchone 0.750 3.000 37.419 0037
+Limonene 0.750 3.000 1558.638 1559 ΙΤ
+Linalool 0.750 3.000 35.083 0035
+Ocimene 0.750 3.000 1650.999 1651 EE Earthy
+Terpinolene 0.750 3.000 33.418 0.033
+a-Humulene 0750 3000 1523467 1523 8
+a-Pinens 0.750 3000 773886 0774 W ee
+a-Terpirene 0.750 3.000 <LOQ <LoqQ
+B-Caryophyliene 0750 3000 5869573 5870 EEE Yer
+B-Myrcene 0.750 3.000 ND ND ore
+Camphene 0.750 3000 222363 202
+Ferchone 0.750 3000 137.500 0.138
+y-Terpinene 0.750 3.000 <LOQ <L0Q
+Linalool 0.750 3.000 4837.075 4537 EN
+Menthol 0.750 3000 ND ND EE ea
+Ocimene 0.750 3000 474.669 047s Hops
+Terpinolene 0.750 3.000 62.09 0062
+a-Humulene 0.750 3.000 1337.644 1.333 ΕΤ
+a-Pinene 0.750 3.000 1306.346 1306 ΤΕ
+a-Terpinene 0.750 3.000 <LOQ <LoqQ Exxih
+1,8-Cineole 0.750 3.000 <LOQ <LoqQ 4
+B-Caryophyllene 0.750 3.000 4060.537 4061
+B-Myrcene 0.750 3.000 4361.642 4362
+Borneol 0.750 3.000 147.149 0147
+Camphene 0.750 3.000 248.539 0249
+Fenchone 0.750 3.000 108.322 0.108
+Limonene 0.750 3.000 4748.525 4749 ES
+Linalool 0.750 3.000 3098.979 3099 EN
+Ocimene 0.750 3.000 4451075 4451 EEE Cinnamon
+Terpinolene 0.750 3.000 88.059 0.088
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0461 0.0691 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0461 0.0691 0.168 1.677
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0461 00691 22294 202940 Λη
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0461 0.0691 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0461 0.0691 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0461 0.0691 0.100 1.005
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0461 0.0691 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0461 0.0691 ND ND
+9R-Hexahydrocannabinol 98-ΗΗ 0.0461 0.0691 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0461 0.0691 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0461 0.0691 ND ND
+Cannabidivarinic Acid CBDVA 0.0461 0.0691 ND ND
+Cannabidiolic Acid CBDA 0.0350 0.0691 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0461 0.0691 1014 10.138 ι
+Cannabinolic Acid CBNA 0.0461 0.0691 ND ND
+Cannabichromenic Acid CBCA 0.0461 0.0691 <LOQ <LOQ
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 0.096 0.959
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 24.466 244660 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0330 0.0773 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0515 0.0773 1.153 11.526
+Cannabichromenic Acid CBCA 0.0515 0.0773 0.103 1.031
+a-Bisabolol 0.750 3.000 439.476 0439 I
+a-Humulene 0.750 3.000 3898.163 389s ΕΠ
+a-Pinene 0.750 3.000 547.956 0548 1
+B-Caryophyllene 0.750 3.000 8601.326 8.601 IS
+B-Myrcene 0.750 3.000 5073.010 5073 EN
+Borneol 0.750 3.000 170.298 0170
+Camphene 0750 3000 188.084 0.188
+Fenchone 0.750 3.000 45.506 0046
+Limonene 0.750 3.000 3793.589 3794 ΕΤ
+Linalool 0.750 3.000 3421.320 3421 ΠΠ
+Terpinolene 0.750 3.000 72.031 0072
+A-9-Tetrahydrocannabinol A-9 THC 0.0476 0.0714 0.285 2.848
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0476 00714 22645 . ...-.
+Cannabigerolic Acid CBGA 0.0476 0.0714 0.518 5.181
+Cannabichromenic Acid CBCA 0.0476 0.0714 0.093 0.933
+a-Bisabolol 0.750 3.000 467.526 0468 7
+a-Humulene 0.750 3.000 1530.999 1531 WO
+a-Pinene 0.750 3.000 1603.069 1.603 -
+a-Terpinene 0.750 3.000 653.835 0.654
+1,8-Cineole 0750 3000 151044 ο151 Cinnamon
+B-Caryophyllene 0.750 3.000 4892.886 4893 WM
+Borneol 0.750 3.000 151.851 0.152
+Camphene 0.750 3.000 105.503 0.106
+Fenchone 0.750 3.000 71.062 0071
+y-Terpinene 0.750 3.000 494.289 0494
+Limonene 0.750 3.000 1211.058 1211 0
+Linalool 0.750 3.000 1095.021 1095
+Terpinolene 0.750 3.000 16772.645 16773 ΕΕ
+A-9-Tetrahydrocannabinol A-9 THC 0.0510 0.0765 0.168 1.684
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0510 00765 23.355 233551 Somme
+Cannabidiolic Acid CBDA 0.0276 0.0765 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0510 0.0765 1511 15.112
+Cannabichromenic Acid CBCA 0.0510 0.0765 0.097 0.969
+a-Humulene 0.750 3.000 2984.805 2985 ΕΙ
+a-Pinene 0.750 3.000 795.043 0795
+B-Caryophyllene 0.750 3.000 7926.321 7.926 ND
+Borneol 0.750 3.000 296.429 029
+Camphene 0.750 3.000 276.774 0277
+Fenchone 0.750 3.000 37.748 0038
+Limonene 0.750 3.000 4754.212 4754 EEE
+Linalool 0.750 3.000 1227.735 1228
+Terpinolene 0.750 3.000 98.823 0.099 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0485 0.0728 0.235 2.350
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0485 00728 23562 ΙΛ.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0485 0.0728 0.119 1.194
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0485 0.0728 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0485 0.0728 ND ND
+Cannabidiolic Acid CBDA 0.0204 0.0728 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0485 0.0728 1.367 13.670
+Cannabichromenic Acid CBCA 0.0485 0.0728 0.234 2.340
+a-Bisabolol 0.750 3.000 1056.952 1057
+a-Humulene 0.750 3.000 3667.564 3668 ΕΠΗ
+a-Pinene 0.750 3.000 1147.058 1147
+a-Terpinene 0.750 3.000 17.880 0018 Clove
+B-Caryophyllene 0.750 3.000 9333.946 9.334 a.
+B-Myrcene 0.750 3.000 8114.718 8.115 πα
+Borneol 0.750 3.000 270.815 0271
+Camphene 0.750 3000 371.688 0372 1
+Fenchone 0.750 3.000 40.648 0041
+y-Terpinene 0.750 3.000 21.982 0022
+Limonene 0.750 3.000 6829.301 6829 ΠΠ
+Linalool 0.750 3.000 6028.708 6029 EN
+Terpinolene 0.750 3.000 140.499 0.140 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0461 0.0691 0.100 0.995
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0461 00691 21786 217862 ΟΛ πα
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0461 0.0691 0.440 4.396
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0461 0.0691 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0461 0.0691 ND ND
+Cannabidiolic Acid CBDA 0.0258 0.0691 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0461 0.0691 1.182 11.825 ι
+Cannabichromenic Acid CBCA 0.0461 0.0691 0.079 0.793
+a-Bisabolol 0.750 3.000 295.332 0295
+a-Humulene 0.750 3.000 1144.581 1145 ΕΕ
+a-Pinene 0.750 3.000 1920.792 1.921
+1,8-Cineole 0750 3000 35569 Ο036 Lavender
+B-Caryophyllene 0.750 3.000 4078.841 4079 EN 4 4
+Borneol 0.750 3.000 195.300 0195 we
+Camphene 0.750 3.000 360.251 0360 ii
+Fenchone 0.750 3.000 102.547 0.103
+y-Terpinene 0.750 3.000 16.834 0017
+Limonene 0.750 3.000 6205.869 6206 ES
+Linalool 0.750 3.000 4579.846 4580 πα
+Ocimene 0.750 3.000 1315.800 1316 Pine
+Terpinolene 0.750 3.000 103.345 0.103
+a-Humulene 0.750 3.000 1470.710 1471 ΕΠ
+a-Pinene 0.750 3.000 702.101 0.702
+1,8-Cineole 0750 3000 27.779 0028 Cinnamon
+B-Caryophyllene 0.750 3.000 5340.392 5.340 a.
+B-Myrcene 0.750 3.000 5354.306 5354 NS
+Borneol 0.750 3.000 200.582 0201
+Camphene 0.750 3.000 224.157 0224
+Fenchone 0.750 3.000 98.890 0099
+Limonene 0.750 3.000 3975.083 3075 EN
+Linalool 0.750 3.000 2478.242 2478 EN
+Terpinolene 0.750 3.000 79.512 0080 WN
+A-9-Tetrahydrocannabinol A-9 THC 0.0469 0.0704 <LOQ <LOQ
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0469 00704 18.633 186329 EES
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0216 0.0704 <LOQ <LOQ
+9R-Hexahydrocannabinol 98-ΗΗ 0.0469 0.0704 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0469 0.0704 ND ND
+Cannabidiolic Acid CBDA 0.0469 0.0704 ND ND
+Cannabigerolic Acid CBGA 0.0469 0.0704 0.973 9.728
+Cannabinolic Acid CBNA 0.0469 0.0704 ND ND
+Cannabichromenic Acid CBCA 0.0469 0.0704 0.081 0.808
+A-9-Tetrahydrocannabinol A-9 THC 0.0450 0.0676 0.237 2.369
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0450 00676 23014 230135 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0450 0.0676 0.155 1.550
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0450 0.0676 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0450 0.0676 ND ND
+Cannabidiolic Acid CBDA 0.0216 0.0676 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0450 0.0676 0.600 6.000
+Cannabichromenic Acid CBCA 0.0450 0.0676 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 669.209 0669 I
+a-Humulene 0.750 3.000 3663.136 3663 ΕΠΗ
+a-Pinene 0.750 3.000 1505.789 1506
+B-Caryophyllene 0.750 3.000 11729.516 11.730 πππ--
+B-Myrcene 0.750 3.000 5565.523 5566 EN
+Borneol 0.750 3.000 246.787 0247
+Camphene 0750 3000 238.285 0238
+Fenchone 0.750 3.000 102.416 0.102
+Limonene 0.750 3.000 4248.035 4248 ΠΕ
+Linalool 0.750 3.000 3196.724 3197 EH
+Ocimene 0.750 3.000 1361.121 1361 Hops
+Terpinolene 0.750 3.000 109.903 0.110
+A-9-Tetrahydrocannabinol A-9 THC 0.0461 0.0691 0.179 1.788
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0461 00691 25.952 ΗΛ.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0461 0.0691 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0461 0.0691 0.720 7.198
+Cannabichromenic Acid CBCA 0.0461 0.0691 0.200 2.000
+a-Bisabolol 0.750 3.000 1287.786 1288
+a-Humulene 0.750 3.000 3974.514 3975 ΕΙ
+a-Pinene 0.750 3.000 2277.894 2278 EH
+a-Terpinene 0.750 3.000 17.942 0018 Fa
+B-Caryophyllene 0.750 3.000 10968.681 10.969 NS
+Borneol 0.750 3.000 270.863 0271
+Camphene 0.750 3.000 331.938 0332
+Fenchone 0.750 3.000 85.448 0085
+y-Terpinene 0.750 3.000 19.279 0019
+Limonene 0.750 3.000 6752.751 6753 ΠΠ
+Linalool 0.750 3.000 2143217 2143 ΕΕ
+Ocimene 0.750 3.000 603.259 0603 I Pine
+Terpinolene 0.750 3.000 153.894 0.154
+A-8-Tetrahydrocannabinol ∆-8 THC 0.0526 0.0789 ND ND
+A-9-Tetrahydrocannabinol A-9 THC 0.0526 0.0789 0.087 0.874
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0526 00789 22455 24547 Semmes
+A-9-Tetrahydrocannabiphorol A-9-THCP 0.0526 0.0789 ND ND
+A-9-Tetrahydrocannabivarin A-9-THCV 0.0526 0.0789 ND ND
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0232 0.0789 <LOQ <LOQ
+R-A-10-Tetrahydrocannabinol R-A-10-THC 0.0526 0.0789 ND ND
+S-A-10-Tetrahydrocannabinol S-A-10-THC 0.0526 0.0789 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0526 0.0789 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0526 0.0789 ND ND
+Tetrahydrocannabinol Acetate ΓΗΟΟ 0.0526 0.0789 ND ND
+Cannabidivarinic Acid CBDVA 0.0526 0.0789 ND ND
+Cannabidiolic Acid CBDA 0.0526 0.0789 ND ND
+Cannabigerolic Acid CBGA 0.0526 0.0789 1.037 10.368
+Cannabinolic Acid CBNA 0.0526 0.0789 ND ND
+Cannabichromenic Acid CBCA 0.0526 0.0789 <LOQ <LOQ
+a-Humulene 0.750 3.000 573.279 0573 Επ
+a-Pinene 0.750 3.000 428.749 0.429
+1,8-Cineole 0750 3000 <0Q  ΙΘΩ Lavender
+B-Caryophyllene 0.750 3.000 1606.856 1607 πα
+B-Myrcene 0.750 3.000 2190.684 2191 EEE wre
+Borneol 0.750 3.000 96.356 009 RA
+Camphene 0.750 3.000 136.809 0137 ii
+Fenchone 0.750 3.000 39.956 0040
+Limonene 0.750 3.000 3389.977 3390 EN
+Linalool 0.750 3.000 2517.339 2517 ΙΒ Ω
+Terpinolene 0.750 3.000 53.485 0053
+CBCV 0.030
+CBD 0.030
+CBDA 0.030
+CBDV 0.030
+CBDVA 0.030
+CBG 0.030
+CBGA 0.030 0.268 2.676
+CBT 0.030
+A8-THC 0.030
+A9-THC 0.030 0277 2.768
+A9-THCA-A 0.030 19.807 198.072
+A9-THCV 0.030
+A9-THCVA 0.030
+9R-HHC 0.030
+9S-HHC 0.030
+a-Humulene 0750 3000 4334210 4334 ΕΕ
+a-Pinene 0.750 3.000 377.834 0.378
+18-Cineole 0750 3000 28840 0029 I Lavender
+B-Caryophyllene 0.750 3.000 17097.434 17.097 ES fof vd
+B-Myrcene 0.750 3.000 ND ND 020
+Borneol 0.750 3.000 173.379 0173 RO
+Camphene 0750 3000 128.687 0129 1
+Fenchone 0.750 3.000 62.436 0062
+y-Terpinene 0.750 3.000 <LOQ <LOQ
+Limonene 0750 3000 4407.733 4408 ΕΤΗ
+Linalool 0750 3000 6026.433 6026 ΕΕ
+Terpinolene 0.750 3.000 86.401 0086
+CBGA 0.030 0.234 2337
+A9-THC 0.030 0.263 2.634
+A9-THCA-A 0.030 οσο 195.306
+a-Humulene 0750 3000 4646.857 4647 EEE
+a-Pinene 0.750 3.000 353.250 0.353
+18-Cineole 0750 3000 <l0Q  <0qQ I Lavender
+B-Caryophyllene 0.750 3.000 14827.391 14827 IS fof vd
+B-Myrcene 0.750 3.000 2658.106 2658 8 020
+Borneol 0.750 3.000 155.555 0156 RO
+Camphene 0750 3000 126.978 0127
+Fenchone 0.750 3.000 74.826 0075
+Limonene 0750 3000 3626709 3627 EH
+Linalool 0750 3000 5160.371 5.160 EN
+Nerolidol 0.750 3.000 ND ND R
+Terpinolene 0.750 3.000 108.337 0.108
+A-9-Tetrahydrocannabinol A-9 THC 0.0446 0.0670 0.235 2.348
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0446 00670 28.288 282884 8
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0446 0.0670 0.163 1.634
+9S-Hexahydrocannabinol 905-ΗΗΟ 0.0446 0.0670 ND ND
+Cannabidiolic Acid CBDA 0.0214 0.0670 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0446 0.0670 0.839 8.393
+Cannabinolic Acid CBNA 0.0214 0.0670 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0446 0.0670 0.167 1.670
+a-Humulene 0750 3000 1718720 1719 EH Π
+a-Pinene 0.750 3.000 664.390 0.664 -
+B-Caryophyllene 0.750 3.000 5741.632 5.742 EN
+B-Myrcene 0.750 3.000 2533.184 2533 Bl
+Borneol 0.750 3.000 321.066 0321
+Camphene 0.750 3.000 241.488 0241
+Fenchone 0.750 3.000 51.653 0052
+Limonene 0.750 3.000 2900.043 2900 ΕΠ
+Linalool 0.750 3.000 9406.582 9407 ES
+Terpinolene 0.750 3.000 53.477 ΟΟ53
+CBGA 0.030 0.236 2357
+A9-THC 0.030 0.281 2.807
+A9-THCA-A 0.030 15.834 158.343
+a-Humulene 0.750 3.000 2788.662 2789 ΤΕ
+a-Pinene 0.750 3.000 210.188 0.210
+18-Cineole 0750 3000 <0Q  <0qQ I Lavender
+B-Caryophyllene 0.750 3.000 9915.331 9.915 ΠΠ fof vd
+Borneol 0.750 3.000 108.693 0.109 RO
+Camphene 0.750 3.000 77.484 0077 1
+Fenchone 0.750 3.000 35.251 0035
+Limonene 0.750 3.000 2430574 2431 ΗΕ
+Linalool 0.750 3.000 3051.229 3051 ΤΗ
+Nerolidol 0.750 3.000 ND ND Ξ
+Terpinolene 0.750 3.000 47.990 0048
+CBG 0.030 0.134 1.340
+CBGA 0.030 0.950 2.305
+A9-THC 0.030 08299 2.987
+A9-THCA-A 0.030 18.823 188.233
+a-Bisabolol 0.750 3.000 2079.799 2080
+a-Humulene 0.750 3.000 4796.613 4797 ΕΤΕ
+a-Pinene 0.750 3.000 1053.742 1.054
+a-Terpinene 0.750 3.000 478.110 0.478 .
+1,8-Cineole 0750 3000 120111 0120 Cinnamon
+B-Caryophyllene 0.750 3.000 10387.303 10.387 EN
+Borneol 0.750 3.000 77.981 0078
+Camphene 0.750 3.000 67.969 0068
+Fenchone 0.750 3.000 36.120 0036
+y-Terpinene 0.750 3.000 323.193 0323
+Limonene 0.750 3.000 1274.542 1275 β
+Linalool 0.750 3.000 1472575 1473 βΒ
+Ocimene 0.750 3.000 ND ND Floral
+Pulegone 0.750 3.000 ND ND 3 φψ
+Terpinolene 0.750 3.000 17016.124 17016 NS
+A-9-Tetrahydrocannabinol A-9 THC 0.0500 0.0750 0.111 1.110
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0500 00750 22508 225080 EES
+Cannabidiolic Acid CBDA 0.0300 0.0750 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0500 0.0750 0544 5.440
+Cannabichromenic Acid CBCA 0.0500 0.0750 0.186 1.860
+a-Bisabolol 0.750 3.000 374.273 0374
+a-Humulene 0.750 3.000 1406.878 1407 ΕΠ
+a-Pinene 0.750 3.000 295.911 0.296 -
+B-Caryophyllene 0.750 3.000 4597.332 4597 ΠΩ 4 4
+B-Myrcene 0.750 3.000 1009.840 1010 W 4.51
+Borneol 0.750 3.000 145.309 0145 RA
+Camphene 0.750 3.000 91.536 0092 ii
+Fenchone 0.750 3.000 127.898 0128
+Limonene 0.750 3.000 1518.749 1519 EE
+Linalool 0.750 3.000 2354.580 2.355 EEE
+Ocimene 0.750 3.000 247.889 0248 Hops
+Terpinolene 0.750 3.000 26.564 0027
+CBG 0.030 0.114 1.141
+CBGA 0.030 0.513 85.191
+A9-THC 0.030 0.277 277.0
+A9-THCA-A 0.030 20.381 203.810
+a-Humulene 0.750 3.000 1602.681 1603 ΕΙΠΕ
+a-Pinene 0.750 3.000 660.481 0.660 -
+18-Cineole 0750 3000 <0Q  <0Q I Lavender
+B-Caryophyllene 0.750 3.000 3886.763 3887 Επ fof vd
+B-Myrcene 0.750 3.000 662.893 0663 020
+Borneol 0.750 3.000 166.599 0167 RO
+Camphene 0750 3000 218.826 0219 1
+Fenchone 0.750 3.000 62.113 0062
+Limonene 0750 3000 5056.181 5056 Επ
+Linalool 0750 3000 4468.026 4468 -ω-
+Terpinolene 0.750 3.000 121.603 0122
+CBG 0.030 0.083 0.829
+CBGA 0.030 1.287 12.867
+A9-THC 0.030 0255 2.545
+A9-THCA-A 0.030 23.883 238.825
+a-Bisabolol 0.750 3.000 2039.460 2039
+a-Humulene 0750 3000 7458.703 7459 EN
+a-Pinene 0750 3000 5168.701 5169 EEE
+a-Terpinene 0.750 3.000 <LOQ <toqQ Lime
+1,8-Cineole 0.750 3.000 <LoQ <LoQ
+B-Caryophyllene 0.750 3.000 16632.540 16633 ΠΠ
+B-Myrcene 0750 3000 1444.134 1444
+Borneol 0750 3000 520.575 0521
+Camphene 0750 3000 551.311 0551
+Fenchone 0.750 3.000 364.353 0364
+y-Terpinene 0.750 3.000 22.532 ΟΟ23
+Limonene 0750 3000  10289.388 10.289 ΕΕ
+Linalool 0.750 3.000 1930.401 1930
+Ocimene 0.750 3.000 1683.386 1683 Pine
+Terpinolene 0.750 3.000 192.253 0192
+A-9-Tetrahydrocannabinol A-9 THC 0.0450 0.0676 0.247 2.468 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0450 00676 22141 221414 Semmes
+Cannabidiolic Acid CBDA 0.0252 0.0676 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0450 0.0676 0.807 8.072
+a-Bisabolol 0.750 3.000 386.204 0386
+a-Humulene 0.750 3.000 3740.933 3741 EN
+a-Pinene 0.750 3.000 967.063 0967
+a-Terpinene 0.750 3.000 <LOQ <Loq σα
+B-Caryophyllene 0.750 3.000 9760.296 9.760 NS
+B-Myrcene 0.750 3.000 7005.053 7005 σσ
+Borneol 0.750 3.000 203.656 0204
+Camphene 0750 3000 905.398 0305 I
+Citral 0.750 3.000 <LoQ <LoqQ Lime
+Fenchone 0.750 3.000 58.581 0059
+Limonene 0.750 3.000 6826.358 6.826 EN
+Linalool 0.750 3.000 2278.008 2278 EH
+Ocimene 0.750 3.000 3226.388 3226 EE Hops
+Terpinolene 0.750 3.000 140.019 0.140
+CBG 0.030 0.079 0.791
+CBGA 0.030 0.568 5.682
+A9-THC 0.030 0.294 2.940
+A9-THCA-A 0.030 22.588 225.880
+a-Humulene 0750 3000 3653.532 3654 EH
+a-Pinene 0.750 3.000 1240.434 1240
+a-Terpinene 0.750 3.000 <LOQ <LOQ Lime
+1,8-Cineole 0.750 3.000 24.672 0025
+B-Caryophyllene 0.750 3.000 12920.181 12920 ΠΠ
+B-Myrcene 0750 3000 5244.397 5244 EEN
+Borneol 0.750 3.000 245.000 0245
+Camphene 0.750 3.000 292.925 0293
+Dihydrocarveol 0.750 3.000 ND ND oo ιδ
+Fenchone 0.750 3.000 162.071 0162 SPST
+y-Terpinene 0.750 3.000 <LOQ <LOQ ves
+Limonene 0750 3000 7124078 7124 EES we
+Linalool 0750 3000 5668.447 5.668 EN ΠΠ
+Ocimene 0.750 3.000 1575.407 1575 Clove
+Terpinolene 0.750 3.000 525.428 0525
+CBG 0.030 0.098 0.980
+CBGA 0.030 1.073 10.735
+A9-THC 0.030 0.281 2.810
+A9-THCA-A 0.030 21.448 214.480
+a-Humulene 0750 3000 6568.311 6568 ΕΤΕ
+a-Pinene 0.750 3.000 1132.216 1132 β
+a-Terpinene 0.750 3.000 <LOQ <LoqQ Lime
+1,8-Cineole 0.750 3.000 <LOQ <LoQ
+B-Caryophyllene 0.750 3.000 19178.961 19.179 ΕΠ
+B-Myrcene 0750 3000 6616.938 6617 ΕΤΗ
+Borneol 0.750 3.000 340.997 0341
+Camphene 0.750 3.000 297.122 0297
+Fenchone 0.750 3.000 315.402 0315
+Limonene 0750 3000 10019718 10020 ΕΤΕ
+Linalool 0.750 3.000 3226.444 3226 Επ Γ
+Ocimene 0.750 3.000 1675.899 1676 Hops
+Terpinolene 0.750 3.000 212.624 0213
+A-9-Tetrahydrocannabinol A-9 THC 0.0444 0.0667 0.122 1218 Ι
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0444 00667 20.685 206853 8
+9R-Hexahydrocannabinol 98-ΗΗ 0.0444 0.0667 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0444 0.0667 ND ND
+Cannabidiolic Acid CBDA 0.0258 0.0667 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0444 0.0667 1.683 16.827 Ι
+Cannabichromenic Acid CBCA 0.0444 0.0667 0.090 0.898
+a-Bisabolol 0.750 3.000 1197.595 1198
+a-Humulene 0.750 3.000 6917.650 6918 ΕΙ
+a-Pinene 0.750 3.000 2256.138 2256 W
+a-Terpinene 0.750 3.000 16.778 0017 iia
+1,8-Cineole 0.750 3.000 45.453 0045
+B-Caryophyllene 0.750 3.000 14588.655 14589 NS
+Borneol 0.750 3.000 291.360 0291
+Camphene 0.750 3.000 328.081 0328
+Fenchone 0.750 3.000 87.028 0087
+y-Terpinene 0.750 3.000 21.349 0021
+Limonene 0.750 3.000 7089.046 7.089 EN
+Linalool 0.750 3.000 3499.104 3499 ΕΠΕ
+Ocimene 0.750 3.000 417.198 0417 Lavender
+Terpinolene 0.750 3.000 134.098 0.134 WN
+CBGA 0.030 2.714 27.136
+A9-THC 0.030 0.262 2.622
+A9-THCA-A 0.030 27.710 277.098
+A9-THCVA 0.030 0.108 1.080
+a-Bisabolol 0.750 3.000 542.072 0542
+a-Humulene 0750 3000 6010761 6011 ΕΕ
+a-Pinene 0.750 3.000 861.712 0862
+1,8-Cineole 0.750 3.000 93.066 0093
+B-Caryophyllene 0.750 3.000 17740.370 17.740 ES
+B-Myrcene 0.750 3.000 1968.998 1969
+Borneol 0.750 3.000 160.739 0161
+Camphene 0.750 3.000 257.586 0258
+Fenchone 0.750 3.000 29.373 0029
+y-Terpinene 0.750 3.000 20.205 0020
+Limonene 0750 3000 7242721 7245 EE
+Linalool 0750 3000 4748397 4748 ΤΕ
+Pulegone 0.750 3.000 ND ND Γη ο
+Terpinolene 0.750 3.000 91.897 0092 203
+CBGA 0.030 0.630 6.301
+A9-THC 0.030 0.276 2.758
+A9-THCA-A 0.030 18.655 186.552
+A9-THCVA 0.030 0.080 0.804
+a-Humulene 0750 3000 3499.815 3500 ΕΤΗ
+a-Pinene 0.750 3.000 828.770 0829 β
+B-Caryophyllene 0.750 3.000 11157.173 11.157
+Borneol 0.750 3.000 176.260 0176
+Camphene 0.750 3.000 246.859 0247
+Fenchone 0.750 3.000 195.383 0195
+Limonene 0750 3000 4373452 4373 ΤΕΕ
+Linalool 0750 3000 1993013 1993 Επ
+Ocimene 0750 3000 306.740 0307 Lavender
+Terpinolene 0.750 3.000 70.544 0071 Wr
+CBGA 0.030 0.107 1.074
+A9-THC 0.030 0.296 2.957
+A9-THCA-A 0.030 21413 213.135
+a-Bisabolol 0.750 3.000 826.248 082
+a-Humulene 0750 3000 3970546 3371 ΕΕ
+a-Pinene 0.750 3.000 645.226 0645
+a-Terpinene 0.750 3.000 <LOQ <LOQ Clove
+B-Caryophyllene 0.750 3.000 10544.903 10545 ES
+B-Myrcene 0750 3000 6762.574 6763
+Borneol 0.750 3.000 267.364 0267
+Camphene 0750 3000 226.310 0226
+Fenchone 0.750 3.000 63.804 0064
+Limonene 0750 3000 5900.990 5901 ΕΙ
+Linalool 0750 3000 5235.730 5236 η
+Terpinolene 0.750 3.000 115.494 0115 203
+A-9-Tetrahydrocannabinol A-9 THC 0.0526 0.0789 0.249 2495
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0526 00789 23.933 239326 ED
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0526 0.0789 0.146 1.463
+Cannabidiolic Acid CBDA 0.0232 0.0789 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0526 0.0789 0.620 6.200
+a-Bisabolol 0.750 3.000 506.894 0507 I
+a-Humulene 0.750 3.000 5695.376 5.695 EN
+a-Pinene 0.750 3.000 2254.853 2255 EH
+B-Caryophyllene 0.750 3.000 10501.975 10502
+Borneol 0.750 3.000 223.085 0223
+Camphene 0.750 3.000 365.312 0365
+Fenchone 0.750 3.000 65.830 0066
+Limonene 0.750 3.000 6070.373 6070 EN
+Linalool 0.750 3.000 982.896 0983 H
+Ocimene 0.750 3.000 1505.236 1505 Pine
+Terpinolene 0.750 3.000 147.460 0.147
+CBG 0.030 0157 1.567
+CBGA 0.030 15129, 115291
+A9-THC 0.030 0.296 2.956
+A9-THCA-A 0.030 24.129 241.291
+A9-THCVA 0.030 0.083 0.828
+a-Humulene 0750 3000 2309.242 2309 ΕΕ
+a-Pinene 0.750 3.000 519.354 0519
+B-Caryophyllene 0.750 3.000 5855.517 5856 ND
+Borneol 0.750 3.000 125.898 0126
+Camphene 0750 3000 163.332 0163
+Fenchone 0.750 3.000 18.585 0019 SPST
+y-Terpinene 0.750 3.000 <L0Q <LoqQ ves
+Limonene 0750 3000 4171.802 4172 we
+Linalool 0750 3000 3105.390 3.105 ΠΠ
+Terpinolene 0.750 3.000 75.083 0075
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0495 00743 31.998 319975 Crome
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0495 0.0743 0.102 1.020
+Cannabidiolic Acid CBDA 0.0465 0.0743 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0495 0.0743 1875 18.752
+Cannabinolic Acid CBNA 0.0495 0.0743 <LOQ <LOQ
+Cannabichromenic Acid CBCA 0.0465 0.0743 <LOQ <LOQ
+a-Bisabolol 0.750 3.000 322.137 0322 I
+a-Humulene 0.750 3.000 3733.907 3734 EEE
+a-Pinene 0.750 3.000 984.874 0.985
+B-Caryophyllene 0.750 3.000 7133.456 7133 ΠΡ
+B-Myrcene 0.750 3.000 5703.325 5703
+Borneol 0.750 3.000 170.666 0171
+Camphene 0.750 3.000 296.462 029
+Fenchone 0.750 3.000 22.181 0022
+Limonene 0.750 3.000 7202.122 7202 ΕΠ
+Linalool 0.750 3.000 1030.929 1031
+Terpinolene 0.750 3.000 136.780 0.137
+CBG 0.030 0.126 15257
+CBGA 0.030 1812.5 11.248
+A9-THC 0.030 0.291 2.910
+A9-THCA-A 0.030 23.952 2559 520
+a-Bisabolol 0.750 3.000 1620.440 1620
+a-Humulene 0750 3000 2357.693 2358
+a-Pinene 0.750 3.000 518.451 0.518 f
+a-Terpinene 0.750 3.000 <LOQ <LOQ Η
+1,8-Cineole 0750 3000 <0Q  <0qQ I Cinnamon
+B-Caryophyllene 0.750 3.000 6699.727 6700 Επ
+B-Myrcene 0.750 3.000 11572.659 11573 ΟΟΝΟΟ,ΓΕ
+Borneol 0.750 3.000 185.196 0185
+Camphene 0.750 3.000 127.768 0128
+Fenchone 0.750 3.000 206.358 0206
+Limonene 0750 3000 4660.056 4660 EEE
+Linalool 0.750 3.000 1083.971 1084 O
+Ocimene 0.750 3.000 1293.924 1294 Hops
+Terpinolene 0.750 3.000 99.591 0.100
+A-9-Tetrahydrocannabinol A-9 THC 0.0481 0.0721 0.238 2.385
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0481 00721 22.920 229202 ED
+Cannabidiolic Acid CBDA 0.0356 0.0721 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0481 0.0721 1.130 11.298
+Cannabichromenic Acid CBCA 0.0481 0.0721 0.132 1317
+a-Humulene 0.750 3.000 3065.361 3065 EN
+a-Pinene 0.750 3.000 1135.742 1136 W
+B-Caryophyllene 0.750 3.000 7913.048 7913 IS
+B-Myrcene 0.750 3.000 1359.343 1.359 ΕΕ
+Borneol 0.750 3.000 244.177 0244
+Camphene 0.750 3.000 294.576 0295
+Fenchone 0.750 3.000 71.012 0071 LSA
+Limonene 0750 3000 5544.796 5545 EEE ae
+Linalool 0.750 3.000 4536.280 4536 EN
+Ocimene 0.750 3.000 547.352 0547 1 Hops
+Terpinolene 0.750 3.000 95.956 0.096
+CBGA 0.030 1.338 13.379
+A9-THC 0.030 0.285 2.850
+A9-THCA-A 0.030 21.296 212.960
+a-Bisabolol 0750 3000 1010.853 1011 β
+a-Humulene 0750 3000 4227.741 4228 ΤΕ
+a-Pinene 0.750 3.000 478.077 0478
+a-Terpinene 0.750 3.000 <LOQ <LoqQ I Lime
+B-Caryophyllene 0.750 3.000 16006.520 16007
+B-Myrcene 0.750 3.000 1798.918 1799
+Borneol 0.750 3.000 88.854 0089
+Camphene 0.750 3.000 150.075 0150
+Fenchone 0.750 3.000 131.950 0132
+Limonene 0750 3000 4287.274 4287 ΕΤΕ
+Linalool 0.750 3.000 1982.285 1982
+Terpinolene 0.750 3.000 48.761 0049 203
+CBG 0.030 O11114 1.131
+CBGA 0.030 0.929 9.293
+A9-THC 0.030 0.296 2.960
+A9-THCA-A 0.030 28.619 286.190
+A9-THCVA 0.030 0.123 η-232
+a-Bisabolol 0.750 3.000 721.184 0721 1
+a-Humulene 0750 3000 2787131 2787 ΕΕ
+a-Pinene 0.750 3.000 713.507 0714 8
+B-Caryophyllene 0.750 3.000 10975.642 10976 ΠΠ
+B-Myrcene 0750 3000 3336.012 336 ΕΤΗ
+Borneol 0.750 3.000 170.318 0170
+Camphene 0.750 3.000 237.716 0238
+Fenchone 0.750 3.000 31.678 0032 SPST
+Limonene 0750 3000 6593.323 ον. we
+Linalool 0750 3000 4681.852 4682 EN Il
+Terpinolene 0.750 3.000 107.619 0.108
+CBG 0.030 0.101 1.015
+CBGA 0.030 0.922 9.216
+A9-THC 0.030 0.276 2.764
+A9-THCA-A 0.030 20.648 206.476
+a-Bisabolol 0.750 3.000 1106.372 1106 8
+a-Humulene 0750 3000 37125925 3713 ΕΕ
+a-Pinene 0.750 3.000 1071.077 1071 0
+1,8-Cineole 0.750 3.000 22.976 0023
+B-Caryophyllene 0.750 3.000 15923.757 15.924 ES
+B-Myrcene 0.750 3.000 1224.345 1224 0
+Borneol 0.750 3.000 189.319 0189
+Camphene 0.750 3.000 194.091 0194
+Fenchone 0.750 3.000 110.353 0110
+Limonene 0750 3000 4061.517 4062 ΕΕ
+Linalool 0.750 3.000 1744.956 1745 A
+Ocimene 0.750 3.000 1351.696 1352 β Lavender
+Terpinolene 0.750 3.000 45.644 0046 203
+A-9-Tetrahydrocannabinol A-9 THC 0.0498 0.0746 0.110 1.104
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0498 00746 21916 219164 Somme
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0498 0.0746 ND ND
+9R-Hexahydrocannabinol Ο8Ε-ΗΗΟ 0.0498 0.0746 ND ND
+9S-Hexahydrocannabinol 95-ΗΗ 0.0498 0.0746 ND ND
+Cannabidiolic Acid CBDA 0.0498 0.0746 ND ND
+Cannabigerolic Acid CBGA 0.0498 0.0746 1.130 11.303 ι
+a-Bisabolol 0.750 3.000 164.382 0.164
+a-Humulene 0.750 3.000 4363.809 4364 ΠΕ
+a-Pinene 0.750 3.000 889.193 0.889 -
+1,8-Cineole 0.750 3000 17393 Ο0Ω17 Lavender
+B-Caryophyllene 0.750 3.000 13665.744 13.666 NS 4 5
+Borneol 0.750 3.000 190.726 0.191 RA
+Camphene 0.750 3.000 288.389 0288 ii
+Fenchone 0.750 3.000 104.713 0.105
+y-Terpinene 0.750 3.000 15.303 0015
+Limonene 0.750 3.000 6985.054 6.985 ΕΠ
+Linalool 0.750 3.000 11630.784 11.631 ΠΠ
+Terpinolene 0.750 3.000 131.743 0.132
+CBGA 0.030 0.806 8.056
+A9-THC 0.030 0.291 2.911
+A9-THCA-A 0.030 19.742 197.419
+A9-THCVA 0.030 0.101 1.014
+a-Bisabolol 0.750 3.000 1261.796 1262
+a-Humulene 0750 3000 4496028 4496 EE
+a-Pinene 0.750 3.000 1092.922 1093 β
+B-Caryophyllene 0.750 3.000 12524.172 12524 ES
+B-Myrcene 0.750 3.000 1220.880 1221 d
+Borneol 0.750 3.000 184.527 0185
+Camphene 0.750 3.000 255.710 0256
+Fenchone 0.750 3.000 205.168 0205
+Limonene 0750 3000 5044.069 5044 EEE
+Linalool 0.750 3.000 1757.346 1757
+Ocimene 0.750 3.000 330.274 0330 Lavender
+Terpinolene 0.750 3.000 62.324 0062 203
+CBG 0.030 0.162 1.615
+CBGA 0.030 1539.7 π3 972
+A9-THC 0.030 0.264 2.642
+A9-THCA-A 0.030 17.968 179.678
+a-Bisabolol 0.750 3.000 991.724 0992
+a-Humulene 0750 3000 4517.839 4513 ΕΠΕ
+a-Pinene 0.750 3.000 994.799 0995
+a-Terpinene 0.750 3.000 <LOQ <LOQ Hops
+1,8-Cineole 0.750 3.000 <LoQ <LoQ Pp
+B-Caryophyllene 0.750 3.000 17286.865 17.287 ES
+B-Myrcene 0.750 3.000 1255.072 1255 0
+Borneol 0.750 3.000 243.196 0243
+Camphene 0.750 3.000 177.109 0177
+Fenchone 0.750 3.000 243.818 0244
+Limonene 0750 3000 3909.330 3909 EN
+Linalool 0.750 3.000 2924.291 2924
+Ocimene 0.750 3.000 658.275 0658 Lavender
+Terpinolene 0.750 3.000 78.934 0079 203
+A-9-Tetrahydrocannabinol A-9 THC 0.0457 0.0685 0.211 2.110
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0457 00685 24069 240685 Soro
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0457 0.0685 0.127 1.269
+9R-Hexahydrocannabinol 98-ΗΗ 0.0457 0.0685 ND ND
+9S-Hexahydrocannabinol 95-ΗΗΟ 0.0457 0.0685 ND ND
+Cannabidiolic Acid CBDA 0.0429 0.0685 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0457 0.0685 1401 14.009
+Cannabinolic Acid CBNA 0.0457 0.0685 ND ND
+Cannabichromenic Acid CBCA 0.0457 0.0685 0.362 3.616
+a-Bisabolol 0.750 3.000 1060.119 1060
+a-Humulene 0.750 3.000 1099.748 1100
+a-Pinene 0.750 3.000 757.882 0758
+a-Terpinene 0.750 3.000 <LoOQ <Loq iia
+B-Caryophyllene 0.750 3.000 3545.048 3545 EN
+B-Myrcene 0.750 3.000 8512.999 8513 8
+Borneol 0.750 3.000 234.680 0235
+Camphene 0.750 3.000 243.918 0244
+Fenchone 0.750 3.000 137.465 0.137 LSA
+Limonene 0750 3000 6191.242 6.191 EEN ae
+Linalool 0.750 3.000 3937.778 393s ΕΠ
+Terpinolene 0.750 3.000 115.028 0.115
+CBG 0.030 0.085 0.854
+CBGA 0.030 0777 7.769
+A9-THC 0.030 0.291 2.905
+A9-THCA-A 0.030 21.053 2107525
+a-Bisabolol 0.750 3.000 2013.958 2014
+a-Humulene 0750 3000 4167.203 4167 EH
+a-Pinene 0.750 3.000 1034.137 1034 β
+1,8-Cineole 0.750 3.000 27.860 0028
+B-Caryophyllene 0.750 3.000 15669.251 15669 IS
+B-Myrcene 0.750 3.000 358.813 0359
+Borneol 0.750 3.000 266.816 0267
+Camphene 0.750 3.000 240.602 0241
+Fenchone 0.750 3.000 136.617 0137
+Limonene 0750 3000 4368.927 4369 ΕΤΕ
+Linalool 0750 3000 3533.908 353 EW
+Ocimene 0750 3000 537.728 0538 Lavender
+Terpinolene 0.750 3.000 56.980 0057 203
+CBGA 0.030 0.428 4.284
+A9-THC 0.030 08293 2.925
+A9-THCA-A 0.030 16.865 168.645
+a-Humulene 0750 3000 4426269 4426 ΤΕΕ
+a-Pinene 0.750 3.000 631.364 0631
+a-Terpinene 0.750 3.000 358.394 0358 Herbal
+1,8-Cineole 0.750 3.000 68.897 0069
+B-Caryophyllene 0.750 3.000 13316.199 135316 ΠΠ
+B-Myrcene 0750 3000 3294550 3295
+Borneol 0.750 3.000 124.373 0124
+Camphene 0.750 3.000 49.319 0049
+Fenchone 0.750 3.000 85.433 0085
+y-Terpinene 0.750 3.000 293.172 0293
+Limonene 0750 3000 1425724 1426
+Linalool 0.750 3.000 1724.356 1724 A
+Terpinolene 0.750 3.000 12706.645 12707 πα
+A-9-Tetrahydrocannabinol A-9 THC 0.0459 0.0688 0.166 1.661
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0459 00688 22.460 204596 Scr
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0248 0.0688 <LOQ <LOQ
+Cannabidiolic Acid CBDA 0.0248 0.0688 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0459 0.0688 1291 12.908
+Cannabichromenic Acid CBCA 0.0459 0.0688 0.222 2220 Ι
+a-Bisabolol 0.750 3.000 1987.076 1987 EH
+a-Humulene 0.750 3.000 3201.557 3202 ΕΙΠΕ
+a-Pinene 0.750 3.000 560.959 0561 1
+1,8-Cineole 0.750 3.000 68.810 0.069
+B-Caryophyllene 0.750 3.000 8878.870 8879 IND
+Borneol 0.750 3.000 146.475 0.146
+Camphene 0.750 3.000 173.676 0174
+Fenchone 0.750 3.000 92.573 0093
+y-Terpinene 0.750 3.000 17.831 0018
+Limonene 0.750 3.000 4363.195 4363 EN
+Linalool 0.750 3.000 2830.380 2.830 EN
+Terpinolene 0.750 3.000 96.077 0.096 WN
+CBGA 0.030 1.348 13.483
+A9-THC 0.030 0212 2 7
+A9-THCA-A 0.030 236347 2337473
+A9-THCVA 0.030 0.130 1.298
+a-Bisabolol 0.750 3.000 241.141 0241
+a-Humulene 0750 3000 4600.367 4600 EN
+a-Pinene 0.750 3.000 917.196 0917 W
+1,8-Cineole 0.750 3.000 64.132 0064
+B-Caryophyllene 0.750 3.000 11134.913 11.135 ΠΠ
+B-Myrcene 0750 3000 358.397 0358
+Borneol 0.750 3.000 190.618 0191
+Camphene 0750 3000 286.846 0287
+Fenchone 0.750 3.000 21.157 0021
+Limonene 0750 3000 7676.882 7677 ΕΕ
+Linalool 0750 3000 4024.756 4025 EN
+Terpinolene 0.750 3.000 109.605 0110 203
+CBG 0.030 0.092 0.916
+CBGA 0.030 3.396 33.964
+A9-THC 0.030 0.252 2517
+A9-THCA-A 0.030 20.096 200.963
+a-Bisabolol 0.750 3.000 1003.516 1004
+a-Humulene 0750 3000 5121.105 5121 EH
+a-Pinene 0.750 3.000 2851.762 2852 Εβδ
+a-Terpinene 0.750 3.000 18.226 0018 Lime
+1,8-Cineole 0.750 3.000 115.929 0116
+B-Caryophyllene 0.750 3.000 19027.945 19028 ΠΠ
+B-Myrcene 0750 3000 569.430 0569
+Borneol 0.750 3.000 195.094 0195
+Camphene 0.750 3.000 249.065 0249
+Fenchone 0.750 3.000 230.728 0231
+y-Terpinene 0.750 3.000 26.749 0027 I
+Limonene 0750 3000 6588.760 6.589 ΕΤΗ
+Linalool 0.750 3.000 2253573 2254
+Ocimene 0.750 3.000 731.249 0731 I Pine
+Terpinolene 0.750 3.000 91.138 0091
+A-9-Tetrahydrocannabinol A-9 THC 0.0515 0.0773 0.297 2.969
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0515 00773 26.455 τε...
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0515 0.0773 0.164 1.639
+Cannabidiolic Acid CBDA 0.0258 0.0773 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0515 0.0773 0.634 6.340
+a-Bisabolol 0.750 3.000 702.744 o7o3 A
+a-Humulene 0.750 3.000 2394.722 2395 IN
+a-Pinene 0.750 3.000 790.266 0790
+a-Terpinene 0.750 3.000 <LOQ <toqQ iia
+B-Caryophyllene 0.750 3.000 7783.842 7.784 ID
+B-Myrcene 0.750 3.000 4524.640 4525 EN
+Borneol 0.750 3.000 286.688 0287
+Camphene 0.750 3.000 267.473 0267
+Fenchone 0.750 3.000 76.740 0077
+Limonene 0.750 3.000 7145.400 7.145 EEN
+Linalool 0.750 3.000 2168.459 2168 EN
+Terpinolene 0.750 3.000 140.281 0.140
+CBGA 0.030 1.303 13.032
+A9-THC 0.030 0.260 2.601
+A9-THCA-A 0.030 20.285 202.849
+a-Bisabolol 0.750 3.000 1427.544 1428 0
+a-Humulene 0750 3000 5688.270 5688 ΕΙ
+a-Pinene 0.750 3.000 1683.735 1684
+B-Caryophyllene 0.750 3.000 15800.521 15801 ΕΠ
+B-Myrcene 0.750 3.000 1754.889 1755
+Borneol 0.750 3.000 193.437 0193
+Camphene 0.750 3.000 286.195 0286
+Fenchone 0.750 3.000 243.070 0243
+Limonene 0750 3000 6569.570 6570 ΕΞ
+Linalool 0.750 3.000 1842.156 1842
+Ocimene 0.750 3.000 396.666 0397 Lavender
+Terpinolene 0.750 3.000 84.341 0084 203
+CBGA 0.030 0.096 0.960
+A9-THC 0.030 0257 2.565
+A9-THCA-A 0.030 17.085 170.845
+a-Humulene 0.750 3.000 825.761 0826
+a-Pinene 0750 3000 4913.961 4914 ΕΕ
+a-Terpinene 0.750 3.000 <LOQ <LOQ Pine
+B-Caryophyllene 0.750 3.000 4016.482 4016 EH
+B-Myrcene 0.750 3.000 18690.777 18691 ΠΠ
+Borneol 0.750 3.000 84.974 0085
+Camphene 0.750 3.000 103.330 0103
+Fenchone 0.750 3.000 26.647 0027
+Limonene 0750 3000 1392.506 1393 β
+Linalool 0.750 3.000 178.769 0179
+Terpinolene 0.750 3.000 47.792 0048
+CBG 0.030 0.098 0.981
+CBGA 0.030 0.500 5.000
+A9-THC 0.030 0.256 25559,
+A9-THCA-A 0.030 11.836 118.361
+a-Bisabolol 0.750 3.000 603.902 0604
+a-Humulene 0750 3000 1489.816 1490 ENN
+a-Pinene 0.750 3.000 368.528 0369 β
+a-Terpinene 0.750 3.000 191.214 0191 Herbal
+1,8-Cineole 0.750 3.000 145.713 0146
+B-Caryophyllene 0.750 3.000 5662.776 5663 ΠΠ
+B-Myrcene 0750 3000 2711.654 2712 EEE
+Borneol 0.750 3.000 99.963 0100
+Camphene 0.750 3.000 41.126 0041
+Fenchone 0750 3000 44019 0044
+y-Terpinene 0.750 3.000 155.515 0156
+Limonene 0750 3000 914.077 0914 Επ
+Linalool 0.750 3.000 904.905 0905 εδ
+Terpinolene 0.750 3.000 4229.895 4230 ΕΠ
+A-9-Tetrahydrocannabinol A-9 THC 0.0498 0.0746 0.199 1.990
+A-9-Tetrahydrocannabinolic Acid THCA-A 0.0498 00746 20273 202726 8.
+A-9-Tetrahydrocannabivarinic Acid A-9-THCVA 0.0498 0.0746 0.186 1861 Ι
+Cannabidiolic Acid CBDA 0.0269 0.0746 <LOQ <LOQ
+Cannabigerolic Acid CBGA 0.0498 0.0746 0.775 7.751
+Cannabichromenic Acid CBCA 0.0498 0.0746 ND ND
+a-Humulene 0.750 3.000 3115.383 3115 ΕΠ
+a-Pinene 0.750 3.000 351.752 0.352
+B-Caryophyllene 0.750 3.000 8902.974 8903 INS 4 4
+B-Myrcene 0.750 3.000 3040.066 3040 EN wre
+Borneol 0.750 3.000 146.375 0.146 RA
+Camphene 0.750 3.000 122.439 0122 ii
+Fenchone 0.750 3.000 43.117 0043
+Limonene 0.750 3.000 2569.543 2570 ΕΠ
+Linalool 0.750 3.000 6126.314 6.126 EEN
+Terpinolene 0.750 3.000 101.913 0.102

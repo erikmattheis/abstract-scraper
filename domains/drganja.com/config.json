@@ -1,0 +1,67 @@
+{
+    "vendorName": "Dr Ganja",
+    "version": "0.1.0",
+    "assayThreshold": 0.08,
+    "assayPageURLs": null,
+    "domain": "https://drganja.com",
+    "localDirectory": "drganja.com",
+    "startUrl": "",
+    "urls": [
+        "https://www.drganja.com/thca-flower/?orderby=date",
+        "https://www.drganja.com/thca-flower/?orderby=date&_paged=2"
+    ],
+    "productURLSelector": {
+        "name": "urls",
+        "selector": ".drganja_list_product_image",
+        "type": "attribute",
+        "attribute": "href",
+        "multiple": true
+    },
+    "productDetailSelectors": [
+        {
+            "name": "name",
+            "type": "text",
+            "selector": "h1.product_title",
+            "multiple": false
+        },
+        {
+            "name": "price",
+            "type": "custom",
+            "function": "getPrices"
+        },
+        {
+            "name": "image",
+            "type": "attribute",
+            "selector": ".woocommerce-product-gallery__image",
+            "attribute": "data-thumb",
+            "multiple": false
+        },
+        {
+            "name": "assays",
+            "type": "assays",
+            "selector": ".woocommerce-product-gallery__image > a > img",
+            "attribute": "data-src",
+            "multiple": true,
+            "assaySubstrings": [
+                "Cannabinoids",
+                ""
+            ],
+            "chemicalLists": [
+                {
+                    "name": "Cannabinoids",
+                    "fileName": "cannabinoids.json"
+                },
+                {
+                    "name": "",
+                    "fileName": "terpenes.json"
+                }
+            ]
+        },
+        {
+            "name": "variants",
+            "type": "text",
+            "selector": "li.variable-item.button-variable-item",
+            "multiple": true
+        }
+    ]
+}

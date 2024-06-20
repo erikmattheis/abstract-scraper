@@ -1,0 +1,658 @@
+{
+  "map": [
+    {
+      "-8-Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "-A-10-Tetrahydrocannabinal": "S-Δ-10-THC"
+    },
+    {
+      "-A-10-Tetrahydrocannabinol": "S-Δ-10-THC"
+    },
+    {
+      "?R-HHC": "9R-HHC"
+    },
+    {
+      "$-A-10-Tetrahydrocannabinol": "S-Δ-10-THC"
+    },
+    {
+      "2-8 Tetrahydrocannabinol 8": "Δ-8-THC"
+    },
+    {
+      "2-9-Tetrahydrocannabivarinic": "Δ-9-THCVA"
+    },
+    {
+      "4-8-Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "4-9-Tetrahydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "4-9-Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "4-9-Totratydrocannabivarin": "THCV"
+    },
+    {
+      "5-A-10-Tetrahydrocannabinol": "S-Δ-10-THC"
+    },
+    {
+      "75-Hexatydrocarrabiscl": "9S-HHC"
+    },
+    {
+      "75%-Henatydrocarrabingl": "9S-HHC"
+    },
+    {
+      "8-9-Tetrahydrocannabinol 8": "Δ-8-THC"
+    },
+    {
+      "8-9-Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "8-9-Tetrahydrocannabiphorol": "2-9-THCP"
+    },
+    {
+      "89-Tetrahydrocannabivarin": "Δ-9-THCV"
+    },
+    {
+      "9 Tetrahyrocanatiool": "Δ-9-THCAs"
+    },
+    {
+      "9 Teuahyrocanmatioolic": "Δ-9-THCA"
+    },
+    {
+      "9-S-HHC": "9S-HHC"
+    },
+    {
+      "95 Hexahydrocannabinol": "9S-HHC"
+    },
+    {
+      "95-Hexabydrocannabinol": "9S-HHC"
+    },
+    {
+      "95-Hexahydracannabinal": "9S-HHC"
+    },
+    {
+      "95-Hexahydrocannabinol": "9S-HHC"
+    },
+    {
+      "95-Hexatydrocarrabisol": "9S-HHC"
+    },
+    {
+      "9R-Henahydrocannabinol": "9R-HHC"
+    },
+    {
+      "9R-Hexahydrocannabinol": "9R-HHC"
+    },
+    {
+      "9R-HHC": "9R-HHC"
+    },
+    {
+      "9S-Hexahydrocannabinol": "9S-HHC"
+    },
+    {
+      "9S-HHC": "9S-HHC"
+    },
+    {
+      "A-8 Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "A-8-Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "A-8-THC": "Δ-8-THC"
+    },
+    {
+      "A-9 Tetrahydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "A-9-Tetrabdrocannabiphorol": "THCP"
+    },
+    {
+      "A-9-Tetrabrydrocannabiphorol": "THCP"
+    },
+    {
+      "A-9-Tetrabrydrocannabivarini": "THCP"
+    },
+    {
+      "A-9-Tetrabrydrocannabivarinic": "THCP"
+    },
+    {
+      "A-9-Tetrabydrocannabighorol": "Δ-9-THCO"
+    },
+    {
+      "A-9-Tetrabydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "A-9-Tetrabydrocannabiphorol": "THCP"
+    },
+    {
+      "A-9-Tetrabydrocannabivarinic": "THCVA"
+    },
+    {
+      "A-9-Tetrahydrocannabino!": "Δ-9-THC"
+    },
+    {
+      "A-9-Tetrahydrocannabinol Acetate": "Δ-9-THCO"
+    },
+    {
+      "A-9-Tetrahydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "A-9-Tetrahydrocannabinolic Acid": "Δ-9-THCA"
+    },
+    {
+      "A-9-Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "A-9-Tetrahydrocannabiphorel": "THCP"
+    },
+    {
+      "A-9-Tetrahydrocannabiphorol": "THCP"
+    },
+    {
+      "A-9-Tetrahydrocannabivarin": "THCV"
+    },
+    {
+      "A-9-Tetrahydrocannabivarinic Acid": "THCVA"
+    },
+    {
+      "A-9-Tetrahydrocannabivarinic": "THCVA"
+    },
+    {
+      "A-9-Tetrahydrocannatinolic": "Δ-9-THCO"
+    },
+    {
+      "A-9-Tetratrydrocannabivarinic": "THCVA"
+    },
+    {
+      "A-9-Tetratydrocannabiphorol": "THCP"
+    },
+    {
+      "A-9-THC": "Δ-9-THC"
+    },
+    {
+      "A-9-THCA-A": "Δ-9-THCA"
+    },
+    {
+      "A-9-THCA": "Δ-9-THCA"
+    },
+    {
+      "A-9-THCP": "THCP"
+    },
+    {
+      "A-9-THCV": "THCV"
+    },
+    {
+      "A-9-THCVA": "THCVA"
+    },
+    {
+      "A?-THCV": "THCV"
+    },
+    {
+      "A8-THC": "Δ-8-THC"
+    },
+    {
+      "A9-Tetrabydrecamasinalic": "THCA-R"
+    },
+    {
+      "A9-THC": "Δ-9-THC"
+    },
+    {
+      "A9-THCA-A": "Δ-9-THCA"
+    },
+    {
+      "A9-THCA": "Δ-9-THCA"
+    },
+    {
+      "A9-THCV": "THCV"
+    },
+    {
+      "A9-THCVA": "THCVA"
+    },
+    {
+      "B cBGA": "CBGA"
+    },
+    {
+      "B THCA*": "Δ-9-THCA"
+    },
+    {
+      "B-9-Tetrabwdrocannabighorol": "Δ-9-THCO"
+    },
+    {
+      "Cannabidilic Acid": "CBDA"
+    },
+    {
+      "Cannabidiolic Acid": "CBDA"
+    },
+    {
+      "Cannabidivainic Acid": "CBDVA"
+    },
+    {
+      "Cannabidivarn CBOVA": "CBDVA"
+    },
+    {
+      "Cannabidvarinic Acid": "CBDVA"
+    },
+    {
+      "Cannabigerolic Acid": "CBGA"
+    },
+    {
+      "Cannabinolic Acid": "CBNA"
+    },
+    {
+      "CBD*": "CBD"
+    },
+    {
+      "CBDA": "CBDA"
+    },
+    {
+      "CBDA*": "CBDA"
+    },
+    {
+      "CBDA*®": "CBDA"
+    },
+    {
+      "d8-THC": "Δ-8-THC"
+    },
+    {
+      "d9-THC*": "Δ-9-THC"
+    },
+    {
+      "Delta 8-Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "Delta 9-Tetrahydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "Delta 9-Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "Delta 9-THCVA": "THCVA"
+    },
+    {
+      "Delta-9-THC": "Δ-9-THC"
+    },
+    {
+      "O-9-Tetrabwdrocannabivarinic": "THCVA"
+    },
+    {
+      "R--10-Tetrahydrocannabinl": "R-A-10-THC"
+    },
+    {
+      "R-A-10 Tetrahydrocannabinol": "R-Δ-10-THC"
+    },
+    {
+      "R-A-10-Tetrahydrocannabinol (R-A-10-THC)": "R-Δ-10-THC"
+    },
+    {
+      "R-A-10-Tetrahydrocannabinol": "R-Δ-10-THC"
+    },
+    {
+      "R-Delta 10-THC": "R-Δ-10-THC"
+    },
+    {
+      "S-A-10 Tetrahydrocannabinol": "S-Δ-10-THC"
+    },
+    {
+      "S-A-10-Tetrahydrocannabinol": "S-Δ-10-THC"
+    },
+    {
+      "S-Delta 10-THC": "S-Δ-10-THC"
+    },
+    {
+      "Tetrahydrocannabino!": "Δ-9-THC"
+    },
+    {
+      "Tetrahydrocannabinol Acetate": "THCO"
+    },
+    {
+      "Tetrahydrocannabivarinic Acid": "THCVA"
+    },
+    {
+      "THCA*": "Δ-9-THCA"
+    },
+    {
+      "THCA*®": "Δ-9-THCA"
+    },
+    {
+      "Δ 9-THC": "Δ-9-THC"
+    },
+    {
+      "Δ 9-THCA": "Δ-9-THCA"
+    },
+    {
+      "Δ 9-THCVA": "THCVA"
+    },
+    {
+      "Δ-8-Tetrahydrocannabinol": "Δ-8-THC"
+    },
+    {
+      "Δ-8-THC": "Δ-8-THC"
+    },
+    {
+      "Δ-9 THC": "Δ-9-THC"
+    },
+    {
+      "Δ-9 THCA": "Δ-9-THCA"
+    },
+    {
+      "Δ-9-Tetrabdrocannabiphorol": "THCP"
+    },
+    {
+      "Δ-9-Tetrabrydrocannabiphorol": "THCP"
+    },
+    {
+      "Δ-9-Tetrabrydrocannabivarini": "THCP"
+    },
+    {
+      "Δ-9-Tetrabrydrocannabivarinic": "THCP"
+    },
+    {
+      "Δ-9-Tetrabydrocannabighorol": "Δ-9-THCO"
+    },
+    {
+      "Δ-9-Tetrabydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "Δ-9-Tetrabydrocannabiphorol": "THCP"
+    },
+    {
+      "Δ-9-Tetrabydrocannabivarinic": "THCVA"
+    },
+    {
+      "Δ-9-Tetrahydrocannabino!": "Δ-9-THC"
+    },
+    {
+      "Δ-9-Tetrahydrocannabinol Acetate": "Δ-9-THCO"
+    },
+    {
+      "Δ-9-Tetrahydrocannabinol": "Δ-9-THC"
+    },
+    {
+      "Δ-9-Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "Δ-9-Tetrahydrocannabiphorel": "THCP"
+    },
+    {
+      "Δ-9-Tetrahydrocannabiphorol": "THCP"
+    },
+    {
+      "Δ-9-Tetrahydrocannabivarin": "THCV"
+    },
+    {
+      "Δ-9-Tetrahydrocannabivarinic": "THCVA"
+    },
+    {
+      "Δ-9-Tetrahydrocannatinolic": "Δ-9-THCO"
+    },
+    {
+      "Δ-9-Tetratrydrocannabivarinic": "THCVA"
+    },
+    {
+      "Δ-9-Tetratydrocannabiphorol": "THCP"
+    },
+    {
+      "Δ-9-THCV": "THCV"
+    },
+    {
+      "Δ-9-THCVA": "THCVA"
+    },
+    {
+      "Δ8 THC": "Δ-8-THC"
+    },
+    {
+      "Δ8-THC": "Δ-8-THC"
+    },
+    {
+      "Δ9 THC": "Δ-9-THC"
+    },
+    {
+      "Δ9 THCA": "Δ-9-THCA"
+    },
+    {
+      "Δ9 THCV": "THCV"
+    },
+    {
+      "Δ9 THCVA": "THCVA"
+    },
+    {
+      "Δ9-THC": "Δ-9-THC"
+    },
+    {
+      "Δ9-THCA": "Δ-9-THCA"
+    },
+    {
+      "Δ9-THCV": "THCV"
+    },
+    {
+      "Δ9-THCVA": "THCVA"
+    },
+    {
+      "Camnabichromenic": "CBCA"
+    },
+    {
+      "Cannabichearinic": "CBCA"
+    },
+    {
+      "Cannabichonvenc": "CBC"
+    },
+    {
+      "Cannabichromenc": "CBC"
+    },
+    {
+      "Cannabichromenic": "CBCA"
+    },
+    {
+      "Cannabicycloc": "CBL"
+    },
+    {
+      "Cannabidioc": "CBD"
+    },
+    {
+      "Cannabidivaria": "CBDV"
+    },
+    {
+      "Cannabidivarieic": "CBDVA"
+    },
+    {
+      "Cannabidivarinic": "CBDVA"
+    },
+    {
+      "Cannabigerac": "CBG"
+    },
+    {
+      "Cannabigerdc": "CBG"
+    },
+    {
+      "Cannabigeroc": "CBG"
+    },
+    {
+      "Cannabigerolic": "CBGA"
+    },
+    {
+      "Cannabinoc": "CBN"
+    },
+    {
+      "Cannabinolic": "CBNA"
+    },
+    {
+      "Cannabldiolic": "CBDA"
+    },
+    {
+      "Cannablgerolic": "CBG"
+    },
+    {
+      "Cannatichromenc": "CBC"
+    },
+    {
+      "Cannatidiolic": "CBD"
+    },
+    {
+      "Cannatigeroc": "CBG"
+    },
+    {
+      "Cannatinoc": "CBN"
+    },
+    {
+      "Cannubichromenc": "CBC"
+    },
+    {
+      "Cannubidioc": "CBD"
+    },
+    {
+      "Cannubidivarinic": "CBDVA"
+    },
+    {
+      "Cannubidivarinnc": "CBDVA"
+    },
+    {
+      "Canrabidiolic": "CBDA"
+    },
+    {
+      "Canrabidivaria": "CBDVA"
+    },
+    {
+      "Canrabinolic": "CBN"
+    },
+    {
+      "Canrubidivarieic": "CBDVA"
+    },
+    {
+      "Canrudschromenic": "CBC"
+    },
+    {
+      "Canrudsdiac": "CBD"
+    },
+    {
+      "Carnabigeroc": "CBG"
+    },
+    {
+      "Carrubichromenic": "CBC"
+    },
+    {
+      "Carrubirolic": "CBG"
+    },
+    {
+      "Carrubsrolic": "CBG"
+    },
+    {
+      "Carrubyrolic": "CBG"
+    },
+    {
+      "CBc": "CBC"
+    },
+    {
+      "CBCa": "CBCA"
+    },
+    {
+      "CBCV": "CBCV"
+    },
+    {
+      "CBD": "CBD"
+    },
+    {
+      "CBDa": "CBDA"
+    },
+    {
+      "CBDV": "CBDV"
+    },
+    {
+      "CBDVa": "CBDVA"
+    },
+    {
+      "CBG": "CBG"
+    },
+    {
+      "CBGa": "CBGA"
+    },
+    {
+      "CBLa": "CBLA"
+    },
+    {
+      "CBa": "CBN"
+    },
+    {
+      "CBNa": "CBNA"
+    },
+    {
+      "CBT": "CBT"
+    },
+    {
+      "Tetrabdrocannabiphoroc": "THCP"
+    },
+    {
+      "Tetrabrydrocannabiphoroc": "THCP"
+    },
+    {
+      "Tetrabrydrocannabivarini": "THCP"
+    },
+    {
+      "Tetrabrydrocannabivarinic": "THCP"
+    },
+    {
+      "Tetrabydrocannabighoroc": "THCO"
+    },
+    {
+      "Tetrabydrocannabinoc": "Δ-9-THC"
+    },
+    {
+      "Tetrabydrocannabiphoroc": "THCP"
+    },
+    {
+      "Tetrabydrocannabivarinic": "THCVA"
+    },
+    {
+      "Tetrahydrocannabinoc": "Δ-9-THC"
+    },
+    {
+      "Tetrahydrocannabinolic": "Δ-9-THCA"
+    },
+    {
+      "Tetrahydrocannabiphorec": "THCP"
+    },
+    {
+      "Tetrahydrocannabiphoroc": "THCP"
+    },
+    {
+      "Tetrahydrocannabivaria": "THCV"
+    },
+    {
+      "Tetrahydrocannabivarinic": "THCVA"
+    },
+    {
+      "Tetrahydrocannatinolic": "THCO"
+    },
+    {
+      "Tetralwdrocannabinoc": "Δ-9-THC"
+    },
+    {
+      "Tetratrydrocannabivarinic": "THCVA"
+    },
+    {
+      "Tetratwarocamanng": "Δ-9-THC"
+    },
+    {
+      "Tetratydrocannabiphoroc": "THCP"
+    },
+    {
+      "THc": "Δ-9-THC"
+    },
+    {
+      "THCa": "Δ-9-THCA"
+    },
+    {
+      "THCO": "Δ-9-THCO"
+    },
+    {
+      "THCP": "THCP"
+    },
+    {
+      "THCV": "THCV"
+    },
+    {
+      "THCVa": "THCVA"
+    }
+  ]
+}

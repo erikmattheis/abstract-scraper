@@ -1,0 +1,104 @@
+{
+    "vendorName": "WNC",
+    "version": "0.1.0",
+    "domain": "wnc-cbd.com",
+    "localDirectory": "wnc-cbd.com",
+    "startUrl": "",
+    "x": [
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=1",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=2",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=3",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=4",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=5",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=6",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=7",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=8",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=9",
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=10"
+    ],
+    "urls": [
+        "https://wnc-cbd.com/categories/high-thca.html?_bc_fsnf=1&Flower+Size%5B0%5D=28g+%28small%2Fminis%29&Flower+Size%5B1%5D=14g+%28small%2Fminis%29&Flower+Size%5B2%5D=7g&Flower+Size%5B3%5D=3.5g&page=1"
+    ],
+    "productURLSelector": {
+        "name": "urls",
+        "selector": ".card-figure__link",
+        "type": "attribute",
+        "attribute": "href",
+        "multiple": true
+    },
+    "productDetailSelectors": [
+        {
+            "name": "name",
+            "type": "text",
+            "selector": "title",
+            "multiple": false,
+            "remove": [
+                "WNC Distribution",
+                "THCa",
+                "Indoor Living Soil"
+            ]
+        },
+        {
+            "name": "price",
+            "type": "click",
+            "selector": "#main-content > div.container > div > div.productView > section.productView-details.product-options > div.productView-options > form > div[data-product-option-change] > div > div > label",
+            "multiple": true,
+            "interaction": {
+                "selector": ".price--withoutTax"
+            }
+        },
+        {
+            "name": "image",
+            "type": "srcset",
+            "selector": "img[data-main-image]",
+            "attribute": "data-srcset",
+            "multiple": false,
+            "conditions": [
+                {
+                    "condition": "gt",
+                    "value": "120",
+                    "attribute": "width"
+                },
+                {
+                    "condition": "lt",
+                    "value": "600",
+                    "attribute": "width"
+                }
+            ]
+        },
+        {
+            "name": "description",
+            "type": "text",
+            "selector": ".productView-description",
+            "multiple": false
+        },
+        {
+            "name": "variants",
+            "type": "text",
+            "selector": ".form-option-variant",
+            "multiple": true
+        },
+        {
+            "name": "assays",
+            "type": "assays",
+            "selector": "a.productView-thumbnail-link img[data-srcset]",
+            "attribute": "data-srcset",
+            "isSrcset": true,
+            "multiple": true,
+            "assaySubstrings": [
+                "Potency",
+                "Terpenes"
+            ],
+            "chemicalLists": [
+                {
+                    "name": "Cannabinoids",
+                    "fileName": "cannabinoids.json"
+                },
+                {
+                    "name": "Terpenes",
+                    "fileName": "terpenes.json"
+                }
+            ]
+        }
+    ]
+}

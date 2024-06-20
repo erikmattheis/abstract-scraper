@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "fast-levenshtein": "^3.0.0",
+    "firebase-admin": "^12.1.0",
+    "gm": "^1.25.0",
+    "is-url": "^1.2.4",
+    "logform": "^2.6.0",
+    "midi-writer-js": "^3.1.1",
+    "openai": "^4.35.0",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^22.6.5",
+    "stack-trace": "^1.0.0-pre2",
+    "tesseract.js": "^5.0.5",
+    "util": "^0.12.5",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
