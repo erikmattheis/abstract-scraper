@@ -7,6 +7,7 @@ const { readGraphic } = require("./AIReadFile.js");
 const { recognize } = require("./ocr.js");
 const { putAssaysFirst } = require("./array-utils.js");
 const { possiblyAddDomain } = require("./strings.js");
+const { getAssayType, getExampleChemicalNames } = require("./data.js");
 
 function getLastModified(url, existingAssays) {
   const match = existingAssays.find((assay) => assay.url === url);
@@ -14,20 +15,26 @@ function getLastModified(url, existingAssays) {
   return lastModified;
 }
 let num = 100;
-async function makeAssay(image, spellingMaps, selector, existingAssays) {
-  console.log("makeAssay", image);
+async function makeAssay(
+  img,
+  spellingMaps,
+  selector,
+  existingAssays,
+  exampleChemicalNames
+) {
+  console.log("makeAssay", img);
   // check if url is valid
-  if (!image || typeof image !== "string" || !image.startsWith("http")) {
+  if (!img || typeof img !== "string" || !img.startsWith("http")) {
     return null;
   }
 
-  image = possiblyAddDomain(image);
+  const image = possiblyAddDomain(img);
 
   const response = await axios.get(image, { responseType: "arraybuffer" });
 
   const lastModified = response.headers["last-modified"];
 
-  let assay;
+  let assay, assayType;
 
   if (existingAssays) {
     const savedLastModified = getLastModified(image, existingAssays);
@@ -73,6 +80,7 @@ async function makeAssay(image, spellingMaps, selector, existingAssays) {
     ...assay,
     image,
     lastModified,
+    type: assayType,
     /*  AIList, */
   };
   return result;
@@ -81,12 +89,15 @@ async function makeAssay(image, spellingMaps, selector, existingAssays) {
 async function makeAssays(images, spellingMaps, selector, existingAssays) {
   const assays = [];
 
+  const exampleChemicalNames = getExampleChemicalNames(selector.chemicalLists);
+
   for await (const image of images) {
     const assay = await makeAssay(
       image,
       spellingMaps,
       selector,
-      existingAssays
+      existingAssays,
+      exampleChemicalNames
     );
 
     if (assay && assay.list.length) {

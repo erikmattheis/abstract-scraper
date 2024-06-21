@@ -117,6 +117,7 @@ function normalizeVariantName(nameStr) {
   name = name?.replace(/ 3.5g /g, "3.5 g");
   name = name?.replace(/ 7g /g, "7 g");
   const result = variantNameMap[name] || name;
+  return result.trim();
 }
 
 function cleanString(str) {

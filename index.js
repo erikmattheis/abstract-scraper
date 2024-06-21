@@ -256,8 +256,13 @@ async function getProduct(url, config, existingProduct, assays) {
         default:
           break;
       }
+      console.log(
+        "found",
+        selector.name,
+        JSON.stringify(product[selector.name])
+      );
     }
-    fs.writeFileSync("product.json", JSON.stringify(product, null, 2));
+    fs.writeFileSync("./temp/product.json", JSON.stringify(product, null, 2));
     const nameSelector = config.productDetailSelectors.find(
       (c) => c.name === "name"
     );
@@ -277,9 +282,10 @@ async function getProduct(url, config, existingProduct, assays) {
 
     if (product.variants) {
       product.variants = product.variants.map((variant) => {
-        normalizeVariantName(variant) || variant;
+        return normalizeVariantName(variant) || variant;
       });
     }
+
     console.log("product", Object.keys(product));
 
     if (isDifferent(product, existingProduct)) {

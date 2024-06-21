@@ -176,4 +176,9 @@ async function makeProductsFile(vendor, limit, useDevCollection) {
   });
 }
 
-module.exports = { saveResponse, makeProductsFile };
+module.exports = {
+  saveResponse,
+  makeProductsFile,
+  getExampleChemicalNames,
+  getAssayType,
+};

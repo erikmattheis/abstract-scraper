@@ -7,17 +7,7 @@ const {
   cert,
 } = require("firebase-admin/app");
 const { getFirestore } = require("firebase-admin/firestore");
-const {
-  makeFirebaseSafe,
-  makeFirebaseSafeId,
-  normalizeVariantName,
-  variantNameContainsWeightUnitString,
-} = require("./strings.js");
-
-const {
-  lineToChemicalObject,
-  stringContainsNonFlowerProduct,
-} = require("./cortex.js");
+const { makeFirebaseSafe, makeFirebaseSafeId } = require("./strings.js");
 
 const { logger } = require("./logger.js");
 
@@ -80,33 +70,6 @@ async function getProductsByVariant(variant) {
   );
 
   return filteredDocs;
-}
-
-// Update all prodproducucts by having all product.variant[n].name match the normalized variant title. use normalizeVariantName() It's firebase
-
-async function normalizeVariants() {
-  const productsRef = db.collection("products");
-  const snapshot = await productsRef.get();
-
-  const updatePromises = [];
-
-  snapshot.forEach((doc) => {
-    const product = doc.data();
-    if (product.variants) {
-      product.variants = product.variants.map((variant) =>
-        normalizeVariantName(variant)
-      );
-      product.variants = product.variants.filter(
-        (variant) => !stringContainsNonFlowerProduct(variant)
-      );
-
-      // Push the update operation into the array
-      updatePromises.push(doc.ref.update({ variants: product.variants }));
-    }
-  });
-
-  // Wait for all update operations to complete
-  await Promise.all(updatePromises);
 }
 
 function findLargestImage(htmlString) {
@@ -277,57 +240,6 @@ async function getIncompleteProducts() {
   const endTime = performance.now();
 
   return products;
-}
-
-async function recalculateChemicalValues() {
-  logger.info("Recalculating chemical values");
-  const contentRef = db.collection("products");
-
-  try {
-    const snapshot = await contentRef.get();
-
-    // Handle potentially large collections
-    let batch = db.batch();
-    let operationCount = 0;
-    logger.info("snapshot", snapshot.size);
-    snapshot.forEach((doc) => {
-      const assays = doc.data().assays;
-
-      if (!assays || !assays.length) {
-        return;
-      }
-
-      assays.forEach((assay) => {
-        if (!assay.list || !assay.list.map) {
-          return;
-        }
-
-        assay.list = assay.list.map((c) => {
-          const obj = lineToChemicalObject(c.line, doc.data().vendorName);
-          // obj.name = obj.name.replace(/Δ|∆|△/g, "∆");
-          return { ...obj, pct: parseFloat(obj.pct) };
-        });
-
-        operationCount++;
-
-        batch.update(doc.ref, { assays });
-
-        if (operationCount === 500) {
-          logger.info("Committing batch", operationCount);
-          batch.commit();
-          batch = db.batch();
-          operationCount = 0;
-        }
-      });
-    });
-
-    if (operationCount > 0) {
-      logger.info("Committing batch", operationCount);
-      await batch.commit();
-    }
-  } catch (error) {
-    console.error("Error in fixValues:", error);
-  }
 }
 
 async function cleanProductsCollection() {
@@ -682,24 +594,6 @@ async function saveAssays(vendor, assays) {
   }
 }
 
-async function deleteNonFlowerProducts() {
-  const productsRef = db.collection("products");
-
-  const snapshot = await productsRef.get();
-
-  const batch = db.batch();
-
-  snapshot.forEach((doc) => {
-    const product = doc.data();
-
-    if (stringContainsNonFlowerProduct(product.title)) {
-      batch.delete(doc.ref);
-    }
-  });
-
-  await batch.commit();
-}
-
 async function deleteAssaysByVendors(vendorNames) {
   for (const vendorName of vendorNames) {
     const productsRef = db.collection("assays");
@@ -780,14 +674,12 @@ module.exports = {
   copyAndDeleteProducts,
   deleteAllDocumentsInCollection,
   deleteProductsByVendors,
-  recalculateChemicalValues,
   getAllProducts,
   getProductsByVariant,
   getProductsByVendor,
   getUniqueCannabinoids,
   getUniqueChemicals,
   getUniqueTerpenes,
-  normalizeVariants,
   saveArticles,
   saveStats,
   saveBatchRecord,
@@ -798,7 +690,6 @@ module.exports = {
   saveTest,
   copyProducts,
   deleteAssaysByVendors,
-  deleteNonFlowerProducts,
   getProductsWithTerpenes,
   getTestResults,
   getNextBatchNumber,
