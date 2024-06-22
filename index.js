@@ -1,5 +1,5 @@
 require("dotenv").config();
-const config = require("./domains/wnc-cbd.com/config.json");
+const config = require("./domains/drganja.com/config.json");
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -631,7 +631,7 @@ async function scrape() {
 (async () => {
   process.env.batchNumber = await getNextBatchNumber();
   //await copyAndDeleteProducts();
-  deleteLogs();
+  //deleteLogs();
   // await writeThings();
   await scrape();
   //await recalculateChemicalValues();

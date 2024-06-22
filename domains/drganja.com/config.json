@@ -1,8 +1,6 @@
 {
     "vendorName": "Dr Ganja",
     "version": "0.1.0",
-    "assayThreshold": 0.08,
-    "assayPageURLs": null,
     "domain": "https://drganja.com",
     "localDirectory": "drganja.com",
     "startUrl": "",
@@ -22,7 +20,8 @@
             "name": "name",
             "type": "text",
             "selector": "h1.product_title",
-            "multiple": false
+            "multiple": false,
+            "remove": []
         },
         {
             "name": "price",
@@ -41,10 +40,11 @@
             "type": "assays",
             "selector": ".woocommerce-product-gallery__image > a > img",
             "attribute": "data-src",
+            "isSrcset": false,
             "multiple": true,
             "assaySubstrings": [
                 "Cannabinoids",
-                ""
+                "Terpenes"
             ],
             "chemicalLists": [
                 {
@@ -52,7 +52,7 @@
                     "fileName": "cannabinoids.json"
                 },
                 {
-                    "name": "",
+                    "name": "Terpenes",
                     "fileName": "terpenes.json"
                 }
             ]

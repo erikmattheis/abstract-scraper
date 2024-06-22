@@ -119,7 +119,7 @@ async function makeProductsFile(vendor, limit, useDevCollection) {
             assaySets[type] = new Set();
           }
 
-          addNameToSet(assaySets[assayType], assay.name);
+          addNameToSet(assaySets[type], assay.name);
 
           return {
             name: assay.name,
