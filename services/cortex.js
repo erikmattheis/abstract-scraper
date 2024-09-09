@@ -51,7 +51,10 @@ async function makeAssay(
   if (!assay) {
     const buffer = Buffer.from(response.data, "binary");
 
+    const start = Date.now();
     const text = await recognize(buffer, image);
+    const end = Date.now();
+    console.log("Time to ocr", end - start);
 
     if (text) {
       fs.writeFileSync(`./temp/x/${num}.txt`, text);

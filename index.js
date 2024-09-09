@@ -1,5 +1,5 @@
 require("dotenv").config();
-const config = require("./domains/drganja.com/config.json");
+const config = require("./domains/wnc-cbd.com/config.json");
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -604,7 +604,7 @@ async function scrape() {
     } else {
       pagesList = config.urls;
     }
-
+console.log('pagesList', pagesList.length)
     const urls = await getAllProductURLs(pagesList, config);
 
     saveResponse(
